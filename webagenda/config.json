@@ -1,8 +1,0 @@
-{
-  "order_file": "webagenda/preprocessed/order.txt",
-  "mapping_file": "webagenda/preprocessed/mapping.tsv",
-  "extra_metadata_file": "webagenda/preprocessed/metadata.tsv",
-  "plenary_info_file": "webagenda/preprocessed/plenary.tsv",
-  "pdf_icons": true,
-  "video_icons": false
-}

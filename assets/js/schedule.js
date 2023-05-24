@@ -86,7 +86,7 @@ function generatePDFfromTable() {
             if (pageNumber == 1) {
                 doc.setFontSize(16);
                 doc.setFontStyle('normal');
-                doc.text("NAACL 2022 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
+                doc.text("NAACL 2024 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
             }
 
             /* FOOTER on each page */

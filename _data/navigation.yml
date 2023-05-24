@@ -1,79 +1,73 @@
 # main links
 main:
-  - title: "Underline<div class=subtitle>Virtual<br>Conference<br>Website</div>"
-    url: "https://underline.io/events/325/reception"
+#  - title: "Underline<div class=subtitle>Virtual<br>Conference<br>Website</div>"
+#    url: ""
 
-  - title: "Program"
-    subnav: program
+#  - title: "Program"
+#    subnav: program
 
   - title: "Blog"
     url: /blog/
 
-  - title: "Sponsors"
-    url: /sponsors/
+#  - title: "Sponsors"
+#    url: /sponsors/
 
-  - title: "Info for Participants"
-    subnav: participants
+#  - title: "Info for Participants"
+#    subnav: participants
 
-  - title: "COVID Safety"
-    url: /covid-19-safety/
+#  - title: "Registration"
+#    url: /registration/
 
-  - title: "Registration"
-    url: /registration/
+#  - title: "Calls"
+#    subnav: calls
 
-  - title: "Calls"
-    subnav: calls
-
-  #- title: "FAQ"
-  #  url: /faq/
-
-  - title: "Committees"
-    subnav: committees
+#  - title: "Committees"
+#    subnav: committees
 
 
-program:
-  - title: Program Details
-    children:
-      - title: "Overview"
-        url: /program/
-      - title: "Main Conference Schedule"
-        url: /program/schedule/
-      - title: "Conference Handbook (PDF)"
-        url: /downloads/handbook-final-v2.pdf
-      - title: "Invited Speakers and Panels"
-        url: /program/keynotes-panels/
-      - title: "Tutorials"
-        url: /program/tutorials/
-      - title: "Affinity Group Workshops"
-        url: /program/affinity/
-      - title: "Structured Socials"
-        url: /blog/welcome-to-structured-socials/
-      - title: "Birds-of-a-Feather Meetups"
-        url: /blog/welcome-to-bofs/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Accepted Papers"
-        url: /program/accepted_papers/
+#program:
+#  - title: Program Details
+#    children:
+#      - title: "Overview"
+#        url: /program/
+#      - title: "Main Conference Schedule"
+#        url: /program/schedule/
+#      - title: "Conference Handbook (PDF)"
+#        url: /downloads/handbook-final-v2.pdf
+#      - title: "Invited Speakers and Panels"
+#        url: /program/keynotes-panels/
+#      - title: "Tutorials"
+#        url: /program/tutorials/
+#      - title: "Affinity Group Workshops"
+#        url: /program/affinity/
+#      - title: "Structured Socials"
+#        url: /blog/welcome-to-structured-socials/
+#      - title: "Birds-of-a-Feather Meetups"
+#        url: /blog/welcome-to-bofs/
+#      - title: "Workshops"
+#        url: /program/workshops/
+#      - title: "Accepted Papers"
+#        url: /program/accepted_papers/
 
-calls:
-  - title: Call for
-    children:
-      - title: "Main Conference Papers"
-        url: /calls/papers/
-      - title: "Industry Track Papers"
-        url: /calls/industry/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Student Research Workshop Papers"
-        url: /calls/srw/
-      - title: "Affinity Group Workshop Proposals"
-        url: /calls/affinity-workshops/
-      - title: "Workshop Pre-submission Mentoring"
-        url: /calls/workshop-mentoring/
-      - title: "Tutorials"
-        url: /calls/tutorials/
-      - title: "Workshop Proposals"
-        url: /calls/workshops/
+#calls:
+#  - title: Call for
+#    children:
+#      - title: "Main Conference Papers"
+#        url: /calls/papers/
+#      - title: "Industry Track Papers"
+#        url: /calls/industry/
+#      - title: "System Demonstrations"
+#        url: /calls/demos/
+#      - title: "Student Research Workshop Papers"
+#        url: /calls/srw/
+#      - title: "Affinity Group Workshop Proposals"
+#        url: /calls/affinity-workshops/
+#      - title: "Workshop Pre-submission Mentoring"
+#        url: /calls/workshop-mentoring/
+#      - title: "Tutorials"
+#        url: /calls/tutorials/
+#      - title: "Workshop Proposals"
+#        url: /calls/workshops/
   #- title: Submission Material
   #  children:
   #    - title: "Area Descriptions"
@@ -109,28 +103,28 @@ calls:
 #       - title: "Reviewing Advice"
 #         url: /reviewer/advice/
 
-participants:
-  - title: Information for Participants
-    children:
-      - title: "Venue"
-        url: /venue/
-      - title: "Visa Information"
-        url: /visa-info/
-#      - title: "COVID-19 Safety at NAACL 2022"
+#participants:
+#  - title: Information for Participants
+#    children:
+#      - title: "Venue"
+#        url: /venue/
+#      - title: "Visa Information"
+#        url: /visa-info/
+#      - title: "COVID-19 Safety"
 #        url: /covid-19-safety/
 
-committees:
-  - title: Committees
-    children:
-      - title: "Organizing Committee"
-        url: /committees/organization/
-      - title: "Senior Program Committee"
-        url: /committees/program/
-      - title: "Industry Track SACs"
-        url: /committees/industry/
-      #- title: "Ethics Committee"
-      #  url: /ethics/committee/
-      - title: "Diversity & Inclusion Committee"
-        url: /committees/diversity-inclusion/
-      - title: "Technical Team"
-        url: /committees/technical-team/
+#committees:
+#  - title: Committees
+#    children:
+#      - title: "Organizing Committee"
+#        url: /committees/organization/
+#      - title: "Senior Program Committee"
+#        url: /committees/program/
+#      - title: "Industry Track SACs"
+#        url: /committees/industry/
+#      #- title: "Ethics Committee"
+#      #  url: /ethics/committee/
+#      - title: "Diversity & Inclusion Committee"
+#        url: /committees/diversity-inclusion/
+#      - title: "Technical Team"
+#        url: /committees/technical-team/
