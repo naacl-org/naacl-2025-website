@@ -21,8 +21,8 @@ main:
 #  - title: "Calls"
 #    subnav: calls
 
-#  - title: "Committees"
-#    subnav: committees
+  - title: "Committees"
+    subnav: committees
 
 
 #program:
@@ -113,11 +113,11 @@ participants:
 #      - title: "COVID-19 Safety"
 #        url: /covid-19-safety/
 
-#committees:
-#  - title: Committees
-#    children:
-#      - title: "Organizing Committee"
-#        url: /committees/organization/
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /committees/organization/
 #      - title: "Senior Program Committee"
 #        url: /committees/program/
 #      - title: "Industry Track SACs"
