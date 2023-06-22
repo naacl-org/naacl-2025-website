@@ -17,8 +17,27 @@ toc_sticky: true
    institution="The University of Texas at Austin"
 %}
 
-## Program Chairs (TBD)
+## Program Chairs
 \[[email](mailto:naacl-2024-program-chairs@googlegroups.com)\]
+
+{% include bio-box
+   name="Kevin Duh"
+   picture="/assets/images/committee/books.jpg"
+   site="https://www.cs.jhu.edu/~kevinduh/"
+   institution="Johns Hopkins University"
+%}
+{% include bio-box
+   name="Helena Gomez"
+   picture="/assets/images/committee/books.jpg"
+   site="https://helenagomez-adorno.github.io/"
+   institution="Universidad Nacional Autónoma de México"
+%}
+{% include bio-box
+   name="Steve Bethard"
+   picture="/assets/images/committee/books.jpg"
+   site="https://profiles.arizona.edu/person/bethard"
+   institution="University of Arizona"
+%}
 
 ## Local Arrangements
 {% include bio-box
@@ -31,7 +50,7 @@ toc_sticky: true
    picture="/assets/images/committee/books.jpg"
 %}
 
-## Industry Track Chairs (TBD)
+## Industry Track Chairs
 
 ## Tutorial Chairs
 {% include bio-box
@@ -155,19 +174,19 @@ toc_sticky: true
    institution="Virginia Tech"
 %}
 
-## Ethics Chairs (TBD)
+## Ethics Chairs
 
-## Reproducibility Chairs (TBD)
+## Reproducibility Chairs
 
-## Sponsorship Chair (TBD)
+## Sponsorship Chair
 
-## Diversity & Inclusion Chairs (TBD)
+## Diversity & Inclusion Chairs
 
-## Volunteers Chair (TBD)
+## Volunteers Chair
 
-## Publicity Chairs (TBD)
+## Publicity Chairs
 
-## Virtual Infrastructure Chair (TBD)
+## Virtual Infrastructure Chair
 
 ## Website Chairs
 {% include bio-box
