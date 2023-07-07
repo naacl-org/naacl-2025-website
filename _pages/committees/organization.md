@@ -34,7 +34,7 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Steve Bethard"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/steven_bethard.jpg"
    site="https://profiles.arizona.edu/person/bethard"
    institution="University of Arizona"
 %}
@@ -66,8 +66,8 @@ toc_sticky: true
    institution="Georgetown University"
 %}
 {% include bio-box
-   name="Snigdha Chaturved"
-   picture="/assets/images/committee/books.jpg"
+   name="Snigdha Chaturvedi"
+   picture="/assets/images/committee/snigdha_chaturvedi.jpg"
    site="https://sites.google.com/site/snigdhac/"
    institution="UNC-Chapel Hill"
 %}
@@ -163,13 +163,13 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Maarten Sap"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/maarten_sap.jpg"
    site="https://maartensap.com/"
    institution="Carnegie Mellon University"
 %}
 {% include bio-box
    name="Lifu Huang"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/lifu_huang.jpg"
    site="https://cs.vt.edu/people/faculty/lifu-huang.html"
    institution="Virginia Tech"
 %}
@@ -181,10 +181,46 @@ toc_sticky: true
 ## Sponsorship Chair
 
 ## Diversity & Inclusion Chairs
+{% include bio-box
+   name="Ziyu Yao"
+   picture="/assets/images/committee/books.jpg"
+   site="https://cs.gmu.edu/directory/detail/124/"
+   institution="George Mason University"
+%}
+{% include bio-box
+   name="Gemma Bel Enguix"
+   picture="/assets/images/committee/books.jpg"
+   site="https://www.ii.unam.mx/es-mx/Investigacion/Academicos/Paginas/GBelE.aspx"
+   institution="Universidad Nacional Autónoma de México"
+%}
+{% include bio-box
+   name="Maria Pacheco"
+   picture="/assets/images/committee/books.jpg"
+   site="https://mlpacheco.github.io/"
+   institution="University of Colorado Boulder"
+%}
 
 ## Volunteers Chair
 
 ## Publicity Chairs
+{% include bio-box
+   name="Ximena Gutierrez-Vasques"
+   picture="/assets/images/committee/books.jpg"
+   site="https://sites.google.com/site/xgutierrezv/"
+   institution="University of Zürich"
+%}
+{% include bio-box
+   name="Samuel Gonzalez-Lopez"
+   picture="/assets/images/committee/books.jpg"
+   site="http://samuelgonzalez-lopez.com/"
+   institution="Technological University of Nogales, Sonora"
+%}
+{% include bio-box
+   name="Najoung Kim"
+   picture="/assets/images/committee/books.jpg"
+   site="https://najoung.kim/"
+   institution="Boston University"
+%}
 
 ## Virtual Infrastructure Chair
 
