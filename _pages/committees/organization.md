@@ -22,13 +22,13 @@ toc_sticky: true
 
 {% include bio-box
    name="Kevin Duh"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/kevin_duh.jpg"
    site="https://www.cs.jhu.edu/~kevinduh/"
    institution="Johns Hopkins University"
 %}
 {% include bio-box
    name="Helena Gomez"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/helena_gomez.jpg"
    site="https://helenagomez-adorno.github.io/"
    institution="Universidad Nacional Autónoma de México"
 %}
@@ -55,13 +55,13 @@ toc_sticky: true
 ## Tutorial Chairs
 {% include bio-box
    name="Rui Zhang"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/rui_zhang.jpeg"
    site="https://ryanzhumich.github.io/"
    institution="Penn State University"
 %}
 {% include bio-box
    name="Nathan Schneider"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/nathan_schneider.jpg"
    site="https://people.cs.georgetown.edu/nschneid/"
    institution="Georgetown University"
 %}
@@ -87,7 +87,7 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Annie Lee"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/annie_lee.jpeg"
    site="https://www.cs.toronto.edu/~ealee/public/"
    institution="University of Toronto"
 %}
@@ -115,7 +115,7 @@ toc_sticky: true
 ## Student Research Workshop Chairs
 {% include bio-box
    name="Yang (Trista) Cao"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/yang_cao.jpeg"
    site="http://ycao95.umiacs.io/"
    institution="University of Maryland"
 %}
@@ -136,7 +136,7 @@ toc_sticky: true
 **Advisors for the Student Research Workshop**
 {% include bio-box
    name="Marcos Zampieri"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/macros_zmpieri.jpeg"
    site="https://mzampieri.com/"
    institution="George Mason University"
 %}
@@ -148,7 +148,7 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Swabha Swayamdipta"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/swabha_swayamdipta.jpg"
    site="https://swabhs.com/"
    institution="University of Southern California"
 %}
@@ -233,7 +233,7 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Xinya Du"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/xinya_du.jpeg"
    site="https://xinyadu.github.io/"
    institution="University of Texas at Dallas"
 %}
