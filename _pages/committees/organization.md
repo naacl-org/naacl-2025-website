@@ -12,7 +12,7 @@ toc_sticky: true
 ## General Chair
 {% include bio-box
    name="Katrin Erk"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/katrin_erk.jpeg"
    site="http://www.katrinerk.com/"
    institution="The University of Texas at Austin"
 %}
@@ -75,13 +75,13 @@ toc_sticky: true
 ## Demo Chairs
 {% include bio-box
    name="Nazneen Rajani"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/nazneen_rajani.jpeg"
    site="https://www.nazneenrajani.com/"
    institution="Hugging Face"
 %}
 {% include bio-box
    name="Kai-Wei Chang"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/kai-wei_chang.jpeg"
    site="http://web.cs.ucla.edu/~kwchang/"
    institution="UCLA"
 %}
@@ -95,19 +95,19 @@ toc_sticky: true
 ## Workshops Chairs
 {% include bio-box
    name="Niranjan Balasubramanian"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/niranjan_balasubramanian.jpeg"
    site="https://www3.cs.stonybrook.edu/~niranjan/"
    institution="Stony Brook University"
 %}
 {% include bio-box
    name="Malihe Alikhani"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/malihe_alikhani.webp"
    site="https://www.malihealikhani.com/"
    institution="University of Pittsburgh"
 %}
 {% include bio-box
    name="Alexis Palmer"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Alexis_Palmer.webp"
    site="https://www.colorado.edu/linguistics/alexis-palmer"
    institution="University of Colorado Boulder"
 %}
@@ -121,13 +121,13 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Isabel Papadimitriou"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Isabel_Papadimitriou.png"
    site="https://nlp.stanford.edu/~isabelvp/"
    institution="Stanford University"
 %}
 {% include bio-box
    name="Anaelia Ovalle"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Anaelia_Ovalle.jpeg"
    site="https://anaeliaovalle.github.io/"
    institution="UCLA"
 %}
@@ -142,7 +142,7 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Frank Ferraro"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Frank_Ferraro.png"
    site="https://redirect.cs.umbc.edu/~ferraro/"
    institution="University of Maryland Baltimore County"
 %}
@@ -157,7 +157,7 @@ toc_sticky: true
 ## Publication Chairs 
 {% include bio-box
    name="Ryan Cotterell"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/ryan_cotterell.png"
    site="https://rycolab.io/authors/ryan/"
    institution="ETH Zürich & University of Cambridge"
 %}
@@ -183,19 +183,19 @@ toc_sticky: true
 ## Diversity & Inclusion Chairs
 {% include bio-box
    name="Ziyu Yao"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/ziyu_yao.jpeg"
    site="https://cs.gmu.edu/directory/detail/124/"
    institution="George Mason University"
 %}
 {% include bio-box
    name="Gemma Bel Enguix"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/gemma_enguix.jpeg"
    site="https://www.ii.unam.mx/es-mx/Investigacion/Academicos/Paginas/GBelE.aspx"
    institution="Universidad Nacional Autónoma de México"
 %}
 {% include bio-box
    name="Maria Pacheco"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/maria_pacheco.jpeg"
    site="https://mlpacheco.github.io/"
    institution="University of Colorado Boulder"
 %}
@@ -205,19 +205,19 @@ toc_sticky: true
 ## Publicity Chairs
 {% include bio-box
    name="Ximena Gutierrez-Vasques"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Ximena Gutierrez-Vasques.jpeg"
    site="https://sites.google.com/site/xgutierrezv/"
    institution="University of Zürich"
 %}
 {% include bio-box
    name="Samuel Gonzalez-Lopez"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Samuel Gonzalez-Lopez.jpeg"
    site="http://samuelgonzalez-lopez.com/"
    institution="Technological University of Nogales, Sonora"
 %}
 {% include bio-box
    name="Najoung Kim"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Najoung Kim.png"
    site="https://najoung.kim/"
    institution="Boston University"
 %}
