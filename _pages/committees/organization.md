@@ -136,7 +136,7 @@ toc_sticky: true
 **Advisors for the Student Research Workshop**
 {% include bio-box
    name="Marcos Zampieri"
-   picture="/assets/images/committee/macros_zmpieri.jpeg"
+   picture="/assets/images/committee/Macros Zampieri.jpeg"
    site="https://mzampieri.com/"
    institution="George Mason University"
 %}
