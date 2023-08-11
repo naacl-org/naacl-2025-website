@@ -101,13 +101,13 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Malihe Alikhani"
-   picture="/assets/images/committee/malihe_alikhani.webp"
+   picture="/assets/images/committee/malihe_alikhani.png"
    site="https://www.malihealikhani.com/"
    institution="University of Pittsburgh"
 %}
 {% include bio-box
    name="Alexis Palmer"
-   picture="/assets/images/committee/Alexis_Palmer.webp"
+   picture="/assets/images/committee/Alexis_Palmer.png"
    site="https://www.colorado.edu/linguistics/alexis-palmer"
    institution="University of Colorado Boulder"
 %}
