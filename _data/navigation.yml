@@ -18,8 +18,8 @@ main:
 #  - title: "Registration"
 #    url: /registration/
 
-#  - title: "Calls"
-#    subnav: calls
+  - title: "Calls"
+    subnav: calls
 
   - title: "Committees"
     subnav: committees
@@ -49,9 +49,11 @@ main:
 #      - title: "Accepted Papers"
 #        url: /program/accepted_papers/
 
-#calls:
-#  - title: Call for
-#    children:
+calls:
+  - title: Call for
+    children:
+      - title: "First Call for Papers"
+        url: /calls/papers/
 #      - title: "Main Conference Papers"
 #        url: /calls/papers/
 #      - title: "Industry Track Papers"
@@ -80,8 +82,6 @@ main:
   #  children:
   #    - title: "First Call for Papers"
   #      url: /calls/papers/first/
-  #    - title: "Preliminary Call for Papers"
-  #      url: /calls/papers/prelim/
 
 # ethics:
 #   - title: Ethics

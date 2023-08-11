@@ -14,6 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Aug 11, 2023 | [First call for papers](/calls/papers/) is out
 | May 24, 2023 | [Blogpost](/blog/naacl-2024-blog/): Welcome to the NAACL 2024 website!
 {: .news-table}
 
@@ -27,7 +28,12 @@ secondary_excerpt: "June 16--21, 2024"
 .dates-table del { color: #888; }
 </style>
 
-| Conference date | Sunday--Friday | June 16--21, 2024 |
+| Anonymity period begins| | November 15, 2023 |
+| Paper submission deadline to ARR | | December 15, 2023 |
+| Commitment deadline for NAACL 2024 | | February 20, 2024 |
+| Notification of acceptance | | March 15, 2024 |
+| Final version of papers due | | April 1, 2022 |
+| Conference dates | Sunday--Friday | June 16--21, 2024 |
 {: .dates-table}
 
 All deadlines are 23:59 <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth) unless stated otherwise.
