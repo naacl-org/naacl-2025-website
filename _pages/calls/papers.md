@@ -114,7 +114,7 @@ Long and short papers will be presented orally or as posters as determined by th
 
 **General chair:** Katrin Erk, The University of Texas at Austin
 
-**Program co-chairs** ([email](naacl2024-programchairs@googlegroups.com)):
+**Program co-chairs** ([email](mailto:naacl2024-programchairs@googlegroups.com)):
 
 * Kevin Duh, Johns Hopkins University
 * Helena Gómez-Adorno, Universidad Nacional Autónoma de México
