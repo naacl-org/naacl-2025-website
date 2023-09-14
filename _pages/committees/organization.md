@@ -18,7 +18,7 @@ toc_sticky: true
 %}
 
 ## Program Chairs
-\[[email](mailto:naacl-2024-program-chairs@googlegroups.com)\]
+\[[email](mailto:naacl2024-programchairs@googlegroups.com)\]
 
 {% include bio-box
    name="Kevin Duh"
