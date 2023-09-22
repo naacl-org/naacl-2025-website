@@ -51,6 +51,30 @@ toc_sticky: true
 %}
 
 ## Industry Track Chairs
+{% include bio-box
+   name="Avi Sil"
+   picture="/assets/images/committee/Avi_Sil.jpeg"
+   site="https://research.ibm.com/people/avi-sil"
+   institution="IBM"
+%}
+{% include bio-box
+   name="Yi Yang"
+   picture="/assets/images/committee/Yi_Yang.jpeg"
+   site="https://yiyangnlp.github.io/"
+   institution="ASAPP"
+%}
+{% include bio-box
+   name="Anoop Kumar"
+   picture="/assets/images/committee/books.jpg"
+   site="https://www.amazon.science/author/anoop-kumar"
+   institution="Amazon"
+%}
+{% include bio-box
+   name="Aida Davani"
+   picture="/assets/images/committee/Aida_Davani.jpeg"
+   site="https://aidamd.github.io/"
+   institution="Google"
+%}
 
 ## Tutorial Chairs
 {% include bio-box
@@ -174,6 +198,7 @@ toc_sticky: true
    institution="Virginia Tech"
 %}
 
+<<<<<<< Updated upstream
 ## Ethics Chairs
 {% include bio-box
    name="Cecilia Alm"
@@ -232,8 +257,49 @@ toc_sticky: true
 %}
 
 
+=======
+[comment]: <> (## Ethics Chairs)
+
+## Handbook Chair
+{% include bio-box
+   name="Katharina Kann"
+   picture="/assets/images/committee/Katharina_Kann.jpeg"
+   site="https://kelina.github.io/"
+   institution="University of Colorado Boulder"
+%}
+>>>>>>> Stashed changes
 
 ## Reproducibility Chairs
+{% include bio-box
+   name="Ghazaleh Kazeminejad"
+   picture="/assets/images/committee/Ghazaleh_Kazeminejad.jpg"
+   site="https://www.colorado.edu/linguistics/ghazaleh-kazeminejad"
+   institution="University of Colorado Boulder"
+%}
+{% include bio-box
+   name="Koustuv Sinha"
+   picture="/assets/images/committee/Koustuv_Sinha.jpg"
+   site="https://koustuvsinha.com/"
+   institution="Meta AI"
+%}
+{% include bio-box
+   name="Peter Jansen"
+   picture="/assets/images/committee/Peter_Jansen.jpg"
+   site="https://ischool.arizona.edu/person/peter-jansen"
+   institution="University of Arizona"
+%}
+{% include bio-box
+   name="Pastor Lopez"
+   picture="/assets/images/committee/Pastor_Lopez.jpg"
+   site="https://ccc.inaoep.mx/~pastor/"
+   institution="CIMAT"
+%}
+{% include bio-box
+   name="Ian Magnusson"
+   picture="/assets/images/committee/Ian_Magnusson.jpg"
+   site="https://ianmagnusson.github.io/"
+   institution="Allen Institute for AI"
+%}
 
 ## Sponsorship Chair
 
