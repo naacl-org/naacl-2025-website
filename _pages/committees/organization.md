@@ -260,8 +260,8 @@ toc_sticky: true
 {% include bio-box
    name="Ghazaleh Kazeminejad"
    picture="/assets/images/committee/Ghazaleh_Kazeminejad.jpg"
-   site="https://www.colorado.edu/linguistics/ghazaleh-kazeminejad"
-   institution="University of Colorado Boulder"
+   site=""
+   institution="IBM"
 %}
 {% include bio-box
    name="Koustuv Sinha"
