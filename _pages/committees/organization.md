@@ -198,7 +198,6 @@ toc_sticky: true
    institution="Virginia Tech"
 %}
 
-<<<<<<< Updated upstream
 ## Ethics Chairs
 {% include bio-box
    name="Cecilia Alm"
@@ -206,59 +205,48 @@ toc_sticky: true
    site="https://www.rit.edu/directory/coagla-cecilia-alm"
    institution="Rochester Institute of Technology"
 %}
-
 {% include bio-box
    name="Jocelyn Dunstan Escudero"
    picture="/assets/images/committee/Jocelyn-ok.jpg"
    site="jdunstan@ing.puc.cl"
    institution="Pontifical Catholic University of Chile"
 %}
-
 {% include bio-box
    name="Diana Galvan Sosa"
    picture="/assets/images/committee/Diana_Sosa.png"
    site="galvan.sosa.diana.b4@tohoku.ac.jp"
    institution="Tohoku University"
 %}
-
 {% include bio-box
    name="Anjalie Field"
    picture="/assets/images/committee/anjalie_field.jpeg"
    site="https://anjalief.github.io"
    institution="Johns Hopkins University"
 %}
-
 {% include bio-box
    name="Ameeta Agrawal"
    picture="/assets/images/committee/ameeta_agrawal.png"
    site="https://web.cecs.pdx.edu/~ameeta/"
    institution="Portland State University"
 %}
-
 {% include bio-box
    name="Daniel Fried"
    picture="/assets/images/committee/daniel_fried.jpeg"
    site="https://dpfried.github.io"
    institution="Carnegie Mellon University"
 %}
-
 {% include bio-box
    name="Mark Yatskar"
    picture="/assets/images/committee/mark_yatskar.png"
    site="https://www.cis.upenn.edu/~myatskar/"
    institution="University of Pennsylvania"
 %}
-
 {% include bio-box
    name="Maria Antoniak"
    picture="/assets/images/committee/maria_antoniak.jpeg"
    site="https://maria-antoniak.github.io"
    institution="Allen Institute for AI"
 %}
-
-
-=======
-[comment]: <> (## Ethics Chairs)
 
 ## Handbook Chair
 {% include bio-box
@@ -267,7 +255,6 @@ toc_sticky: true
    site="https://kelina.github.io/"
    institution="University of Colorado Boulder"
 %}
->>>>>>> Stashed changes
 
 ## Reproducibility Chairs
 {% include bio-box
