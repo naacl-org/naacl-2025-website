@@ -361,7 +361,7 @@ toc_sticky: true
    institution="Boston University"
 %}
 
-## Virtual Infrastructure Chair
+[comment]: <> (## Virtual Infrastructure Chair)
 
 ## Website Chairs
 {% include bio-box
