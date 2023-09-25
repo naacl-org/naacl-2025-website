@@ -250,10 +250,10 @@ toc_sticky: true
 
 ## Handbook Chair
 {% include bio-box
-   name="Katharina Kann"
+   name="Katharina von der Wense"
    picture="/assets/images/committee/Katharina_Kann.jpeg"
    site="https://kelina.github.io/"
-   institution="University of Colorado Boulder"
+   institution="Johannes Gutenberg University Mainz & University of Colorado Boulder"
 %}
 
 ## Reproducibility Chairs
