@@ -260,7 +260,7 @@ toc_sticky: true
 {% include bio-box
    name="Ghazaleh Kazeminejad"
    picture="/assets/images/committee/Ghazaleh_Kazeminejad.jpg"
-   site="/"
+   site="https://ghamzak.github.io/"
    institution="IBM"
 %}
 {% include bio-box
