@@ -80,9 +80,9 @@ Deadline for authors to commit their reviewed papers, reviews, and meta-review t
 
 **Notification of acceptance:** March 15, 2024
 
-**Deadline for authors to withdraw papers from NAACL 2024 or Findings of NAACL 2024:** April 1, 2022
+**Deadline for authors to withdraw papers from NAACL 2024 or Findings of NAACL 2024:** April 1, 2024
 
-**Final version of papers due:** April 1, 2022
+**Final version of papers due:** April 1, 2024
 
 **Note:** All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 

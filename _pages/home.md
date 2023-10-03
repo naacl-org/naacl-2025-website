@@ -32,7 +32,7 @@ secondary_excerpt: "June 16--21, 2024"
 | Paper submission deadline to ARR | | December 15, 2023 |
 | Commitment deadline for NAACL 2024 | | February 20, 2024 |
 | Notification of acceptance | | March 15, 2024 |
-| Final version of papers due | | April 1, 2022 |
+| Final version of papers due | | April 1, 2024 |
 | Conference dates | Sunday--Friday | June 16--21, 2024 |
 {: .dates-table}
 
