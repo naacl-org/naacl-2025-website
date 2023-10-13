@@ -65,7 +65,7 @@ toc_sticky: true
 %}
 {% include bio-box
    name="Anoop Kumar"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/Anoop_Kumar.jpg"
    site="https://www.amazon.science/author/anoop-kumar"
    institution="Amazon"
 %}
