@@ -292,7 +292,7 @@ toc_sticky: true
 
 {% include bio-box
    name="Ivan Meza"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/foto_ivan_meza.jpg"
    site="https://turing.iimas.unam.mx/~ivanvladimir/en/"
    institution="IIMAS /UNAM"
 %}
