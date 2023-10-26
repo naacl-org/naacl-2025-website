@@ -12,7 +12,7 @@ diversity-chairs:
 
 program-chairs:
   name        : "Program Chairs"
-  bio         : ""
+  bio         : "Kevin Duh, Helena Gomez, Steven Bethard (NAACL 2024 Program Chairs)"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 reproducibility-chairs:
