@@ -31,7 +31,7 @@ sidebar:
 ### Interpretability and Analysis of Models for NLP
 **SACs:** Arianna Bisazza, Carolin Lawrence, Nadir Duranni
 
-###Linguistic theories, Cognitive Modeling and Psycholinguistics
+### Linguistic theories, Cognitive Modeling and Psycholinguistics
 **SACs:** Cassandra Jacobs, Tal Linzen
 
 ### Generation
