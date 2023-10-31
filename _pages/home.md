@@ -14,6 +14,8 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+
+| Oct 31, 2023 | [Call for industry track papers](/calls/industry/) is out
 | Oct 30, 2023 | [NAACL 2024 Theme Track: Languages of Latin America](/blog/NAACL-2024-Theme-Track-Languages-of-Latin-America/) 
 | Oct 26, 2023 | [A quick introduction to submitting to NAACL 2024](/blog/A-quick-introduction-to-submitting-to-NAACL-2024/) 
 | Aug 11, 2023 | [First call for papers](/calls/papers/) is out
