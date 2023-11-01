@@ -3,9 +3,6 @@ main:
 #  - title: "Underline<div class=subtitle>Virtual<br>Conference<br>Website</div>"
 #    url: ""
 
-#  - title: "Program"
-#    subnav: program
-
   - title: "Blog"
     url: /blog/
 
@@ -21,13 +18,16 @@ main:
   - title: "Calls"
     subnav: calls
 
+  - title: "Program"
+    subnav: program
+
   - title: "Committees"
     subnav: committees
 
 
-#program:
-#  - title: Program Details
-#    children:
+program:
+  - title: Program Details
+    children:
 #      - title: "Overview"
 #        url: /program/
 #      - title: "Main Conference Schedule"
@@ -36,16 +36,16 @@ main:
 #        url: /downloads/handbook-final-v2.pdf
 #      - title: "Invited Speakers and Panels"
 #        url: /program/keynotes-panels/
-#      - title: "Tutorials"
-#        url: /program/tutorials/
+      - title: "Tutorials"
+        url: /program/tutorials/
 #      - title: "Affinity Group Workshops"
 #        url: /program/affinity/
 #      - title: "Structured Socials"
 #        url: /blog/welcome-to-structured-socials/
 #      - title: "Birds-of-a-Feather Meetups"
 #        url: /blog/welcome-to-bofs/
-#      - title: "Workshops"
-#        url: /program/workshops/
+      - title: "Workshops"
+        url: /program/workshops/
 #      - title: "Accepted Papers"
 #        url: /program/accepted_papers/
 
