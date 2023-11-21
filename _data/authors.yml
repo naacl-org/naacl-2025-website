@@ -17,25 +17,25 @@ program-chairs:
 
 reproducibility-chairs:
   name        : "Reproducibility Chairs"
-  bio         : ""
+  bio         : "Ghazaleh Kazeminejad, Koustuv Sinha, Peter Jansen, Pastor Lopez, Ian Magnusson"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 publicity-chairs:
   name        : "Publicity Chairs"
-  bio         : ""
+  bio         : "Ximena Gutierrez-Vasques, Samuel Gonzalez-Lopez, Najoung Kim"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 tutorial-chairs:
   name        : "Tutorial Chairs"
-  bio         : ""
+  bio         : "Rui Zhang, Nathan Schneider, Snigdha Chaturvedi"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 industry-track-chairs:
   name        : "Industry Track Chairs"
-  bio         : ""
+  bio         : "Avi Sil, Yi Yang, Anoop Kumar, Aida Davani"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 demo-chairs:
   name        : "Demonstration Chairs"
-  bio         : ""
+  bio         : "Nazneen Rajani, Kai-Wei Chang, and Annie Lee"
   avatar      : "assets/images/logos/acl-logo-square.png"

@@ -6,6 +6,8 @@ sidebar:
     nav: "calls"
 toc: true
 toc_sticky: true
+author: industry-track-chairs
+author_profile: true
 ---
 
 **Submission will be through OpenReview and link will be available soon.**
