@@ -38,8 +38,6 @@ program:
 #        url: /program/keynotes-panels/
       - title: "Tutorials"
         url: /program/tutorials/
-      - title: "Mexican NLP Summer School 2024"
-        url: https://ampln.github.io/escuelaverano2024/
 #      - title: "Structured Socials"
 #        url: /blog/welcome-to-structured-socials/
 #      - title: "Birds-of-a-Feather Meetups"
@@ -48,6 +46,8 @@ program:
         url: /program/workshops/
 #      - title: "Accepted Papers"
 #        url: /program/accepted_papers/
+      - title: "Mexican NLP Summer School 2024"
+        url: https://ampln.github.io/escuelaverano2024/
 
 calls:
   - title: Call for
