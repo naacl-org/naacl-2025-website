@@ -38,8 +38,8 @@ program:
 #        url: /program/keynotes-panels/
       - title: "Tutorials"
         url: /program/tutorials/
-#      - title: "Affinity Group Workshops"
-#        url: /program/affinity/
+     - title: "Mexican NLP Summer School 2024"
+       url: https://ampln.github.io/escuelaverano2024/
 #      - title: "Structured Socials"
 #        url: /blog/welcome-to-structured-socials/
 #      - title: "Birds-of-a-Feather Meetups"
