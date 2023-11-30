@@ -378,3 +378,17 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    site="https://xinyadu.github.io/"
    institution="University of Texas at Dallas"
 %}
+
+## Best Paper Committee chairs:
+{% include bio-box
+   name="Isabelle Augenstein"
+   picture="/assets/images/committee/Isabelle_Augenste.jpeg"
+   site="https://isabelleaugenstein.github.io"
+   institution="University of Copenhagen"
+%}
+{% include bio-box
+   name="Manuel Montes y Gómez"
+   picture="/assets/images/committee/Foto-ManuelMontes4.jpg"
+   site="https://ccc.inaoep.mx/~mmontesg/"
+   institution="National Institute of Astrophysics, Optics and Electronics"
+%}
