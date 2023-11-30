@@ -18,7 +18,9 @@ toc_sticky: true
 %}
 
 ## Program Chairs
-\[[email](mailto:naacl2024-programchairs@googlegroups.com)\]
+
+For questions related to paper submission, email: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
+For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailto:naacl2024-programchairs@googlegroups.com)
 
 {% include bio-box
    name="Kevin Duh"

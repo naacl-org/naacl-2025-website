@@ -1,5 +1,10 @@
 # Authors: TODO: fill this in when publishing blogs.
 
+general-chair-program-chairs:
+  name        : "Program Chairs and General Chair"
+  bio         : "Kevin Duh, Helena Gomez, Steven Bethard (Program Chairs) and Katrin Erk (General Chair)"
+  avatar      : "assets/images/logos/acl-logo-square.png"
+
 website-chairs:
   name        : "Website Chairs"
   bio         : "Vered Shwartz and Xinya Du"
@@ -12,7 +17,7 @@ diversity-chairs:
 
 program-chairs:
   name        : "Program Chairs"
-  bio         : "Kevin Duh, Helena Gomez, Steven Bethard (NAACL 2024 Program Chairs)"
+  bio         : "Kevin Duh, Helena Gomez, Steven Bethard"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 reproducibility-chairs:
