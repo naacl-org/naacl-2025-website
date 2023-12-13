@@ -14,7 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
-
+| Dec 12, 2023 | [FAQ for authors, reviewers, and action editors](https://docs.google.com/document/d/1uoa2jgHuEWK6zzHZvqLtdVrF8BbaQnMrDvvF1TlUaas/edit?usp=sharing)
 | Nov 30, 2023 | [Blog post: Improving the hybrid conference experience](/blog/hybrid/)
 | Nov 30, 2023 | [Second call for papers](/calls/papers/) is out
 | Oct 31, 2023 | [Call for system demonstrations](/calls/demos/) is out
