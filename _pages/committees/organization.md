@@ -249,6 +249,12 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    site="https://maria-antoniak.github.io"
    institution="Allen Institute for AI"
 %}
+{% include bio-box
+   name="Alane Suhr"
+   picture="/assets/images/committee/books.jpg"
+   site="suhr@berkeley.edu"
+   institution="UC Berkeley"
+%}
 
 ## Handbook Chair
 {% include bio-box
