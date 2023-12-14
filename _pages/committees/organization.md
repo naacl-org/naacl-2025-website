@@ -208,12 +208,6 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    institution="Rochester Institute of Technology"
 %}
 {% include bio-box
-   name="Jocelyn Dunstan Escudero"
-   picture="/assets/images/committee/Jocelyn-ok.jpg"
-   site="jdunstan@ing.puc.cl"
-   institution="Pontifical Catholic University of Chile"
-%}
-{% include bio-box
    name="Diana Galvan Sosa"
    picture="/assets/images/committee/Diana_Sosa.png"
    site="galvan.sosa.diana.b4@tohoku.ac.jp"
