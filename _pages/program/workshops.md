@@ -24,3 +24,4 @@ The accepted NAACL 2024 workshops are listed below. We will add more details suc
 * 5th Workshop on Insights from Negative Results in NLP
 * 4th Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)
 * 21st SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology 
+* [Student Research Workshop](https://naacl2024-srw.github.io/)
