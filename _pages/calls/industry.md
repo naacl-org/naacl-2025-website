@@ -10,11 +10,22 @@ author: industry-track-chairs
 author_profile: true
 ---
 
-**Submission will be through OpenReview and link will be available soon.**
+<table bgcolor="#f8f8ff" border="1px solid black;">
+    <tr><td><b>Paper Submission Information:</b><br/>
+    Papers must be submitted on ARR’s December 2023 cycle using the following link: <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December">https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December</a>.<br/>
+    Papers submitted to one of the earlier ARR deadlines are also eligible, and it is not necessary to (re) submit on the current cycle.</td></tr>
+</table>
+ 
 
 Language technologies and their applications are an integral and critical part of our daily lives. The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on the performance of a technology, transitioning the technology to real-world industrial-strength applications raises a different and challenging set of technical issues.
 
 We invite submissions describing innovations and implementations in all areas of speech and natural language processing technologies and systems that are relevant to real-word applications. The primary focus of this track is on papers that advance the understanding of, and demonstrate the effective handling of, practical issues related to the deployment of language processing technologies in non-trivial real-world systems. By “non-trivial real-world system” we mean an application that is deployed for real-world use, i.e., outside controlled environments such as laboratories, classrooms or experimental crowd-sourced setups, and that uses natural language processing (including speech technology), even if not state-of-the-art in terms of research. There is no requirement that the system be made by a for-profit company, but the users of the system are most likely outside the NLP research community.
+
+## **Paper Submission Information**
+
+Papers must be submitted using the following link:
+
+[https://openreview.net/group?id=aclweb.org/NAACL/2024/Industry_Track](https://openreview.net/group?id=aclweb.org/NAACL/2024/Industry_Track)
 
 
 ## **Important Dates**
@@ -74,6 +85,7 @@ The industry track welcomes submissions describing innovations and implementatio
 * Novel previously unsolved NLP problems
 * Offline and online system evaluation methodologies
 * Online learning for deployed systems
+* Robustness against various perturbations in deployed systems
 * System combination and hybridization
 * In addition, opinion/vision papers related to real-world applications are also welcome.
 
