@@ -81,8 +81,6 @@ The reviewing process will continue to be double-blind. Reviewers will not see a
 
 05 Jan 2024: Notification of desk rejection for submissions to ARR 2023 December that violate policy
 
-20 Jan 2024: Anonymity period begins for commitments to NAACL 2024
-
 22 Jan 2024 - 25 Jan 2024: Author response period for ARR 2023 December
 
 25 Jan 2024 - 29 Jan 2024: Review revision period for ARR 2023 December
@@ -95,15 +93,13 @@ The reviewing process will continue to be double-blind. Reviewers will not see a
 
 **15 Mar 2024: Notification of acceptance for NAACL 2024**
 
-15 Mar 2024: Anonymity period ends for commitments to NAACL 2024
-
 01 Apr 2024: Deadline for accepted papers to withdraw from NAACL 2024 or Findings of NAACL 2024
 
 01 Apr 2024: Deadline for accepted papers to upload of final version for NAACL 2024 or Findings of NAACL 2024
 
 **Note**: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
-Following the [ACL and ARR policies](https://aclrollingreview.org/cfp#anonymity-period), there are two overlapping anonymity periods, one for submissions to ARR 2023 December and one for commitments to NAACL 2024. So if you submit to ARR 2023 December and commit to NAACL 2024, your combined anonymity period runs from 15 Nov 2023 through 15 Mar 2024.
+Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is an anonymity period for submissions to ARR 2023 December but no anonymity period for commitments to NAACL 2024.
 
 At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., ACL 2024, NAACL 2024). This is used only to calculate acceptance rates. Authors who selected NAACL 2024 as a preferred venue when submitting to ARR may choose not to commit to NAACL 2024 after receiving their reviews, and authors who selected a preferred venue other than NAACL 2024 when submitting to ARR are still welcome to commit to NAACL 2024.
 
