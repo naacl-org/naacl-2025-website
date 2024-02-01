@@ -20,8 +20,9 @@ As in recent years, some of the presentations at the conference will be of paper
 
 <!-- [https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December) -->
 
-Papers may be submitted to the ARR 2023 December cycle using the following link: [https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December)
-Papers that have received reviews and a meta-review from ARR (whether from the ARR 2023 December cycle or an earlier ARR cycle) may be committed to NAACL using the following link: [https://openreview.net/group?id=aclweb.org/NAACL/2024/Conference#tab-recent-activity](https://openreview.net/group?id=aclweb.org/NAACL/2024/Conference#tab-recent-activity)
+Papers may be submitted to the ARR 2023 December cycle using the following link: [https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/December).
+
+Papers that have received reviews and a meta-review from ARR (whether from the ARR 2023 December cycle or an earlier ARR cycle) may be committed to NAACL using the following link: [https://openreview.net/group?id=aclweb.org/NAACL/2024/Conference#tab-recent-activity](https://openreview.net/group?id=aclweb.org/NAACL/2024/Conference#tab-recent-activity).
 
 <!-- Papers submitted to one of the earlier ARR deadlines are also eligible, and it is not necessary to (re) submit on the current cycle. -->
 
