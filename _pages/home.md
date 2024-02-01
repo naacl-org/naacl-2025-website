@@ -14,6 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Feb 1, 2024 | The [NAACL Commitment site](https://openreview.net/group?id=aclweb.org/NAACL/2024/Conference#tab-recent-activity) is open. See the [FAQ](https://docs.google.com/document/d/1uoa2jgHuEWK6zzHZvqLtdVrF8BbaQnMrDvvF1TlUaas/edit) for more info.
 | Jan 13, 2024 | [Blog post: Anonymity policy changes](/blog/anonimity)
 | Jan 8, 2024  | [Call for Affinity Group Workshops](/calls/affinity) is out
 | Dec 12, 2023 | [FAQ for authors, reviewers, and action editors](https://docs.google.com/document/d/1uoa2jgHuEWK6zzHZvqLtdVrF8BbaQnMrDvvF1TlUaas/edit?usp=sharing)
