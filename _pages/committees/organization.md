@@ -129,7 +129,7 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    name="Malihe Alikhani"
    picture="/assets/images/committee/malihe_alikhani.png"
    site="https://www.malihealikhani.com/"
-   institution="University of Pittsburgh"
+   institution="Northeastern University"
 %}
 {% include bio-box
    name="Alexis Palmer"
