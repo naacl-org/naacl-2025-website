@@ -17,7 +17,7 @@ The accepted NAACL 2024 workshops are listed below. We will add more details suc
 * [VarDial 2024: 11th Workshop on NLP for Similar Languages, Varieties and Dialects](https://sites.google.com/view/vardial-2024)
 * [SemEval-2024](https://semeval.github.io/SemEval2024/)
 * [44th Workshop on Figurative Language Processing](http://sites.google.com/view/figlang2024)
-* Data Science with Human-in-the-Loop: Language Advances
+* [Data Science with Human-in-the-Loop: Language Advances](https://www.dashworkshops.org/)
 * 4th Workshop on Trustworthy NLP (TrustNLP 2024)
 * [HCI+NLP: 3rd Workshop on Bridging Human-Computer Interaction and Natural Language Processing](https://sites.google.com/view/hciandnlp/home)
 * [Clinical NLP Workshop](https://clinical-nlp.github.io/2024/)
@@ -25,4 +25,3 @@ The accepted NAACL 2024 workshops are listed below. We will add more details suc
 * [4th Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/)
 * [21st SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology](https://sigmorphon.github.io/workshops/2024/) 
 * [Student Research Workshop](https://naacl2024-srw.github.io/)
-* [Workshops on Data Science with Human in the Loop](https://www.dashworkshops.org/)
