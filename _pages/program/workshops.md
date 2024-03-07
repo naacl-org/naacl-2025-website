@@ -18,7 +18,6 @@ The accepted NAACL 2024 workshops are listed below. We will add more details suc
 * [SemEval-2024](https://semeval.github.io/SemEval2024/)
 * [44th Workshop on Figurative Language Processing](http://sites.google.com/view/figlang2024)
 * [Data Science with Human-in-the-Loop: Language Advances](https://www.dashworkshops.org/)
-* 4th Workshop on Trustworthy NLP (TrustNLP 2024)
 * [HCI+NLP: 3rd Workshop on Bridging Human-Computer Interaction and Natural Language Processing](https://sites.google.com/view/hciandnlp/home)
 * [Clinical NLP Workshop](https://clinical-nlp.github.io/2024/)
 * [5th Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/)
