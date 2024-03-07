@@ -25,3 +25,4 @@ The accepted NAACL 2024 workshops are listed below. We will add more details suc
 * [4th Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/)
 * [21st SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology](https://sigmorphon.github.io/workshops/2024/) 
 * [Student Research Workshop](https://naacl2024-srw.github.io/)
+* [TrustNLP: Fourth Workshop on Trustworthy Natural Language Processing](https://trustnlpworkshop.github.io)
