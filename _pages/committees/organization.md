@@ -252,10 +252,10 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
 
 ## Handbook Chair
 {% include bio-box
-   name="Katharina von der Wense"
-   picture="/assets/images/committee/Katharina_Kann.jpeg"
-   site="https://kelina.github.io/"
-   institution="Johannes Gutenberg University Mainz & University of Colorado Boulder"
+   name="Luke Gessler"
+   picture="/assets/images/committee/luke_gessler.jpg"
+   site="https://lgessler.com/"
+   institution="University of Colorado Boulder"
 %}
 
 ## Reproducibility Chairs
