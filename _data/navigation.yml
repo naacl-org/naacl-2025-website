@@ -12,8 +12,8 @@ main:
   - title: "Info for Participants"
     subnav: participants
 
-#  - title: "Registration"
-#    url: /registration/
+  - title: "Registration"
+    subnav: registration
 
   - title: "Calls"
     subnav: calls
@@ -126,3 +126,10 @@ committees:
 #        url: /committees/diversity-inclusion/
 #      - title: "Technical Team"
 #        url: /committees/technical-team/
+
+
+registration:
+  - title: Registration
+    children:
+      - title: "Discounted Registration for Latin American Researchers"
+        url: /registration/discount/
