@@ -43,6 +43,7 @@ secondary_excerpt: "June 16--21, 2024"
 | Commitment deadline for NAACL 2024 | | February 20, 2024 |
 | Notification of acceptance | | March 15, 2024 |
 | Final version of papers due | | April 1, 2024 |
+| Virtual Pre-Conference Event | June 13, 2024 | 
 | Conference dates | Sunday--Friday | June 16--21, 2024 |
 {: .dates-table}
 
