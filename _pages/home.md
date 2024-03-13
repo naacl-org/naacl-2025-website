@@ -38,12 +38,12 @@ secondary_excerpt: "June 16--21, 2024"
 .dates-table del { color: #888; }
 </style>
 
-| Anonymity period begins| | November 15, 2023 |
-| Paper submission deadline to ARR | | December 15, 2023 |
-| Commitment deadline for NAACL 2024 | | February 20, 2024 |
-| Notification of acceptance | | March 15, 2024 |
-| Final version of papers due | | April 1, 2024 |
-| Virtual Pre-Conference Event | June 13, 2024 | 
+| Anonymity period begins| Wednesday | November 15, 2023 |
+| Paper submission deadline to ARR | Friday | December 15, 2023 |
+| Commitment deadline for NAACL 2024 | Tuesday | February 20, 2024 |
+| Notification of acceptance | Friday | March 15, 2024 |
+| Final version of papers due | Monday | April 1, 2024 |
+| Virtual Pre-Conference Event | Thursday | June 13, 2024 | 
 | Conference dates | Sunday--Friday | June 16--21, 2024 |
 {: .dates-table}
 
