@@ -62,6 +62,8 @@ calls:
 #        url: /calls/srw/
       - title: "Affinity Group Workshop Proposals"
         url: /calls/affinity/
+      - title: "NAACL Diversity and Inclusion Subsidies"
+        url: /calls/subsidies/
 #      - title: "Workshop Pre-submission Mentoring"
 #        url: /calls/workshop-mentoring/
 #      - title: "Tutorials"
