@@ -2,7 +2,7 @@
 title: Preliminary Registration info 3/20/2024
 layout: single
 author: 
-permalink: /registration/prelim_reg.md
+permalink: /registration/prelim_reg/
 sidebar:
     nav: "registration"
 ---
