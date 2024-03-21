@@ -42,13 +42,13 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
   <tr>
    <td>Notification of acceptance
    </td>
-   <td>March 20, 2024
+   <td>March 27, 2024
    </td>
   </tr>
   <tr>
    <td>Camera-ready version of papers due
    </td>
-   <td>April 1, 2024
+   <td>April 8, 2024
    </td>
   </tr>
   <tr>
