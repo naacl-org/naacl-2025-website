@@ -45,7 +45,10 @@ secondary_excerpt: "June 16--21, 2024"
 | Notification of acceptance | Friday | March 15, 2024 |
 | Final version of papers due | Monday | April 1, 2024 |
 | Virtual Pre-Conference Event | Thursday | June 13, 2024 | 
-| Conference dates | Sunday--Friday | June 16--21, 2024 |
+| Mexican NLP Summer School | Friday--Saturday | June 14--15, 2024 | 
+| Tutorials | Sunday | June 16, 2024 |
+| Main Conference | Monday--Wednesday | June 17--19, 2024 |
+| Workshops | Thursday--Friday | June 20--21, 2024 |
 {: .dates-table}
 
 All deadlines are 23:59 <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth) unless stated otherwise.
