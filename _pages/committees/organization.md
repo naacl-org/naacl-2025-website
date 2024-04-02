@@ -51,6 +51,12 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    name="Jennifer Rachford"
    picture="/assets/images/committee/books.jpg"
 %}
+{% include bio-box
+   name="Hiram Calvo"
+   picture="/assets/images/committee/hiram_calvo.jpg"
+   site="https://idic.likufanele.com/index.php/about-us/hiram-calvo/7-hiram-calvo"
+   institution="CIC-IPN"
+%}
 
 ## Industry Track Chairs
 {% include bio-box
