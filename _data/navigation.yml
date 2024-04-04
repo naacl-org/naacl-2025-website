@@ -6,7 +6,7 @@ main:
   - title: "Blog"
     url: /blog/
 
- - title: "Sponsors"
+  - title: "Sponsors"
     url: /sponsors/
 
   - title: "Info for Participants"
