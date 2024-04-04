@@ -1,10 +1,12 @@
 ---
 title: Sponsors
-layout: single
-author: 
+layout: archive
 permalink: /sponsors/
-sidebar:
-    nav: "sponsors"
+author_profile: false
+sidebar: false
+read_time: false
+share: true
+comments: false
 ---
 
 
