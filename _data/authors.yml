@@ -15,6 +15,11 @@ diversity-chairs:
   bio         : "Ziyu Yao, Gemma Bel Enguix, Maria Pacheco"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
+volunteer-chairs:
+  name        : "Volunteer Chairs"
+  bio         : "Lucy Lu Wang, Liang Huang"
+  avatar      : "assets/images/logos/acl-logo-square.png"
+
 program-chairs:
   name        : "Program Chairs"
   bio         : "Kevin Duh, Helena Gomez, Steven Bethard"
