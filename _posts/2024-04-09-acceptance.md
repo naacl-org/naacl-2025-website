@@ -6,7 +6,7 @@ tags:
   announcement
 categories:
   blog
-author: 
+author: program-chairs
 author_profile: true
 ---
 
