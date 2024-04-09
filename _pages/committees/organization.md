@@ -217,7 +217,7 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    name="Diana Galvan Sosa"
    picture="/assets/images/committee/Diana_Sosa.png"
    site="galvan.sosa.diana.b4@tohoku.ac.jp"
-   institution="Tohoku University"
+   institution="ALTA Institute, University of Cambridge"
 %}
 {% include bio-box
    name="Anjalie Field"
