@@ -10,7 +10,7 @@ author: program-chairs
 author_profile: true
 ---
 
-We are happy to announce the list of papers accepted to [NAACL 2024 Main Conference and Findings](/program/tutorials/)! In total, there are 565 papers accepted to the Main Conference and 304 papers accepted to Findings. The acceptance rate for Main Conference papers is 23%. For more details, read on. 
+We are happy to announce the list of papers accepted to [NAACL 2024 Main Conference and Findings](/program/accepted_papers/)! In total, there are 565 papers accepted to the Main Conference and 304 papers accepted to Findings. The acceptance rate for Main Conference papers is 23%. For more details, read on. 
 
 
 The acceptance rate calculation follows precedent set by previous conferences that also go through ACL Rolling Review (ARR), e.g. EACL 2023, NAACL 2022. The calculation takes into account the multi-stage process of ARR where a paper may get revised in ARR and then later committed to the conference. The denominator includes:

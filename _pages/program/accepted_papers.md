@@ -1,3 +1,20 @@
+---
+title: Accepted Papers
+layout: single
+excerpt: "NAACL 2024 Accepted Papers"
+permalink: /program/accepted_papers/
+sidebar: 
+    nav: program
+toc: true
+toc_sticky: true
+---
+
+<style>
+.speaker-images img {
+  border-radius: 50%;
+}
+</style>
+
 ## Main Conference - Long Papers
 
 * **Named Entity Recognition Under Domain Shift via Metric Learning for Life Sciences**
