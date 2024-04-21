@@ -50,7 +50,7 @@ bronze:
     image_path: /assets/images/logos/Adobe.png
     alt: Adobe
     title: Adobe
-Diversity and Inclusion Ally:
+diversity:
   - url: https://www.grammarly.com/
     image_path: /assets/images/logos/Grammarly.png
     alt: Grammarly
@@ -106,4 +106,8 @@ For any questions regarding sponsorship, please email [sponsoring@aclweb.org](ma
 ## Bronze
 
 {% include sponsors-list id="bronze" layout="third" %}
+
+## Diversity and Inclusion Ally
+
+{% include sponsors-list id="diversity" layout="third" %}
 
