@@ -50,6 +50,11 @@ bronze:
     image_path: /assets/images/logos/Adobe.png
     alt: Adobe
     title: Adobe
+Diversity and Inclusion Ally:
+  - url: https://www.grammarly.com/
+    image_path: /assets/images/logos/Grammarly.png
+    alt: Grammarly
+    title: Grammarly
 ---
 
 NAACL 2024 is extremely grateful to all sponsors, who are listed below. 
