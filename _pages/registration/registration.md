@@ -7,15 +7,6 @@ sidebar:
     nav: "registration"
 ---
 
----
-title: Preliminary Registration info 3/20/2024
-layout: single
-author: 
-permalink: /registration/registration/
-sidebar:
-    nav: "registration"
----
-
  Early Registration April 22 – May 24, 2024
 
  Late Registration May 25 – June 14, 2024
