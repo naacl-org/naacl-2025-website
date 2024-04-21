@@ -15,6 +15,8 @@ toc_sticky: true
 }
 </style>
 
+## [Orals, Posters, Demo's Up to date Schedule](https://docs.google.com/spreadsheets/d/1bx8VBbX2TY94PJA4EVhQ3hfCJ2-Qq7Ft-U-8m73I81M/edit#gid=0) 
+
 ## [Presentation Format](/downloads/NAACL24_presentation_format.pdf)
 
 ## Main Conference - Long Papers
