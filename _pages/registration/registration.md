@@ -24,7 +24,7 @@ sidebar:
 
  Virtual Discount Waiver application coming soon
 
- ## Registration
+## Registration
 
 Registration is scheduled to open the week of April 22nd .
 
