@@ -15,6 +15,8 @@ toc_sticky: true
 }
 </style>
 
+## [Presentation Format](/downloads/NAACL24_presentation_format.pdf)
+
 ## Main Conference - Long Papers
 
 * **Named Entity Recognition Under Domain Shift via Metric Learning for Life Sciences**
