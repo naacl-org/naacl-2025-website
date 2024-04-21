@@ -1,3 +1,20 @@
+---
+title: Accepted Industry Track Paper
+layout: single
+excerpt: "NAACL Accepted Industry Track Paper"
+permalink: /program/accepted_papers_industry/
+sidebar: 
+    nav: program
+toc: true
+toc_sticky: true
+---
+
+<style>
+.speaker-images img {
+  border-radius: 50%;
+}
+</style>
+
 * **HPipe: Large Language Model Pipeline Parallelism for Long Context on Heterogeneous Cost-effective Devices**
 
   Ruilong Ma, Xiang Yang, Jingyu Wang, Qi Qi, Haifeng Sun, Jing Wang, Zirui Zhuang, Jianxin Liao
