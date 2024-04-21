@@ -14,7 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
-| Apr 20, 2024 | [Blog post: NAACL 2024 presentation modes, acceptance types, and participation experiences (done, please post)](/blog/presentation/)
+| Apr 20, 2024 | [Blog post: NAACL 2024 presentation modes, acceptance types, and participation experiences](/blog/presentation/)
 | Apr 9, 2024 | [Blog post: NAACL 2024 Acceptance Rate](/blog/acceptance/)
 | Apr 3, 2024  | [Call for NAACL 2024 Volunteers](/calls/volunteers/) is out
 | Mar 15, 2024  | [Call for NAACL Diversity and Inclusion Subsidies](/calls/subsidies/) is out

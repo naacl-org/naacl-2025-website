@@ -1,5 +1,5 @@
 ---
-title: "NAACL 2024 presentation modes, acceptance types, and participation experiences (done, please post)"
+title: "NAACL 2024 presentation modes, acceptance types, and participation experiences"
 author: program-chairs
 author_profile: true
 tags:
