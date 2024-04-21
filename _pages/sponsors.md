@@ -7,13 +7,13 @@ toc: true
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
-  - url: https://www.capitalone.com/
-    image_path: /assets/images/logos/capital-one.jpeg
+  - url: https://www.capitalone.com/tech/machine-learning/
+    image_path: /assets/images/logos/C1_Core_RGB.png
     alt: Capital One
     title: Capital One
 platinum:
-  - url: https://www.baidu.com/
-    image_path: /assets/images/logos/Baidu.png
+  - url: https://ir.baidu.com/
+    image_path: /assets/images/logos/Baidu Logo-RGB.png
     alt: Baidu
     title: Baidu
   - url: https://www.grammarly.com/
