@@ -28,20 +28,20 @@ main:
 program:
   - title: Program Details
     children:
-#      - title: "Overview"
-#        url: /program/
+      - title: "Overview"
+        url: /program/overview
 #      - title: "Main Conference Schedule"
 #        url: /program/schedule/
 #      - title: "Conference Handbook (PDF)"
 #        url: /downloads/handbook-final-v2.pdf
-#      - title: "Invited Speakers and Panels"
-#        url: /program/keynotes-panels/
+      - title: "Keynotes"
+        url: /program/keynotes/
       - title: "Tutorials"
         url: /program/tutorials/
 #      - title: "Structured Socials"
 #        url: /blog/welcome-to-structured-socials/
-#      - title: "Birds-of-a-Feather Meetups"
-#        url: /blog/welcome-to-bofs/
+     - title: "Panel"
+       url: /blog/welcome-to-bofs/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Accepted Papers"
@@ -50,6 +50,8 @@ program:
         url: /program/accepted_papers_industry/
       - title: "Mexican NLP Summer School 2024"
         url: https://ampln.github.io/escuelaverano2024/
+      - title: "Welcome Reception and Social Event "
+        url: /program/welcome/
 
 calls:
   - title: Call for
