@@ -72,7 +72,7 @@ All deadlines are 11:59 pm [UTC -12h](https://www.timeanddate.com/time/zone/time
 
 Application Deadline: **April 18th, 2024, 11:59pm  (AoE)**
 
-Notification Deadline: **April 23rd, 2024, 11:59pm (AoE)**
+Notification Deadline: **May 13--14, 2024, 11:59pm (AoE)**
 
 
 # Notification of acceptance 
