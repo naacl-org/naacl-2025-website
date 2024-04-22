@@ -19,27 +19,27 @@ table th:nth-of-type(2) {
 
 
 | <span>Thursday, June 13</span> |
-| -- | -- |
+| -- | ------ |
 | TBD | Session 1 of Virtual Poster Presentations |
 | TBD | Session 2 of Virtual Poster Presentations |
 
 | <span>Saturday, June 15th</span> |
-| -- | -- |
+| -- | ------ |
 | 15:00 - 19:00 | Registration |
 | 09:00 - 17:30 | Summer School |
 
 | <span>Friday, June 14</span> |
-| -- | -- |
+| -- | ------ |
 | 09:00 - 19:00 | Registration |
 | 09:00 - 17:30 | Summer School |
 
 | <span>Saturday, June 15th</span> |
-| -- | -- |
+| -- | ------ |
 | 15:00 - 19:00 | Registration |
 | 09:00 - 17:30 | Summer School |
 
 | <span>Sunday, June 16th</span> |
-| -- | -- |
+| -- | ------ |
 | 07:00 - 20:30 | Registration |
 | 09:00 - 12:30 | Tutorials |
 | 09:00 - 17:30 | Queer in AI Workshop |
@@ -48,7 +48,7 @@ table th:nth-of-type(2) {
 | 19:00 - 21:00 | Welcome Reception (Please link to Welcome Reception Section) |
 
 | <span>Monday, June 17th</span> |
-| -- | -- |
+| -- | ------ |
 | 07:00 - 17:00 | Registration |
 | 09:00 - 10:30 | Opening Session & Keynote Address: Professor Claudio Santos Pinhanex |
 | 10:30 - 11:00 | AM Break |
@@ -59,7 +59,7 @@ table th:nth-of-type(2) {
 | 16:00 - 17:30 | Orals, Posters, BoF & Affinity Groups |
 
 | <span>Tuesday, June 18th</span> |
-| -- | -- |
+| -- | ------ |
 | 08:00 - 16:00 | Registration |
 | 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
 | 10:30 - 11:00 | AM Break |
@@ -72,7 +72,7 @@ table th:nth-of-type(2) {
 | 19:00 - 22:00 | Social Event (Please link to Social Event Section) |
 
 | <span>Wednesday, June 19th</span> |
-| -- | -- |
+| -- | ------ |
 | 08:00 - 17:00 | Registration |
 | 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
 | 10:30 - 11:00 | AM Break |
@@ -83,14 +83,14 @@ table th:nth-of-type(2) {
 | 15:30 - 17:00 | Best Paper Awards and Closing Session |
 
 | <span>Thursday, June 20th</span> |
-| -- | -- |
+| -- | ------ |
 | 08:00 - 16:30 | Registration |
 | Workshops | Please see workshop for details schedule |
 | 10:30 - 11:00 | AM Workshop Break |
 | 15:30 - 16:00 | PM Workshop Break |
 
 | <span>Friday, June 21st</span> |
-| -- | -- |
+| -- | ------ |
 | 08:00 - 16:30 | Registration |
 | Workshops | Please see workshop for details schedule |
 | 10:30 - 11:00 | AM Workshop Break |
