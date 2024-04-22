@@ -10,10 +10,10 @@ sidebar:
 
 <style>
 table th:first-of-type {
-    width: 20%;
+    width: 30%;
 }
 table th:nth-of-type(2) {
-    width: 80%;
+    width: 70%;
 }
 </style>
 
