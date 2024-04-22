@@ -16,8 +16,8 @@ platinum:
     image_path: /assets/images/logos/Baidu Logo-RGB.png
     alt: Baidu
     title: Baidu
-  - url: https://www.grammarly.com/
-    image_path: /assets/images/logos/Grammarly.png
+  - url: https://www.grammarly.com/research?utm_source=NAACL&utm_medium=website&utm_campaign=conference
+    image_path: /assets/images/logos/grammarly.png
     alt: Grammarly
     title: Grammarly
   - url: https://www.kensho.com/
