@@ -1,8 +1,8 @@
 ---
-title: Workshops
+title: Overview
 layout: single
-excerpt: "NAACL 2024 Workshops"
-permalink: /program/workshops/
+excerpt: "NAACL 2024 Program Overview"
+permalink: /program/overview/
 toc: false
 sidebar: 
     nav: program
@@ -23,26 +23,75 @@ table th:nth-of-type(2) {
 | TBD | Session 1 of Virtual Poster Presentations |
 | TBD | Session 2 of Virtual Poster Presentations |
 
-| <span>Saturday, June 15th </span> |
+| <span>Saturday, June 15th</span> |
 | -- | -- |
-| 15:00 - 19:00  | Registration |
-| 09:00 - 17:30  | Summer School |
+| 15:00 - 19:00 | Registration |
+| 09:00 - 17:30 | Summer School |
 
-| <span>Friday, June 14  </span> |
+| <span>Friday, June 14</span> |
 | -- | -- |
-| 15:00 - 19:00  | Registration |
-| 09:00 - 17:30  | Summer School |
+| 09:00 - 19:00 | Registration |
+| 09:00 - 17:30 | Summer School |
 
-| <span>June 21, 2024</span> |
+| <span>Saturday, June 15th</span> |
 | -- | -- |
-[Clinical NLP Workshop](https://clinical-nlp.github.io/2024/) | Alberto 2 |
-[6th Workshop on NLP and Computational Social Science](https://sites.google.com/site/nlpandcss/) | Alberto 3 |
-[TrustNLP: Fourth Workshop on Trustworthy Natural Language Processing](https://trustnlpworkshop.github.io) | Alberto 4 |
-[44th Workshop on Figurative Language Processing](http://sites.google.com/view/figlang2024) | Genaro |
-[HCI+NLP: 3rd Workshop on Bridging Human-Computer Interaction and Natural Language Processing](https://sites.google.com/view/hciandnlp/home) | Julian |
-[4th Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/) | Socorro |
+| 15:00 - 19:00 | Registration |
+| 09:00 - 17:30 | Summer School |
 
-| <span>June 20--21, 2024</span> |
+| <span>Sunday, June 16th</span> |
 | -- | -- |
-[*SEM 2024: The 13th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2024) | Adaleta  |
-[SemEval-2024](https://semeval.github.io/SemEval2024/) | Alberto 1 |
+| 07:00 - 20:30 | Registration |
+| 09:00 - 12:30 | Tutorials |
+| 09:00 - 17:30 | Queer in AI Workshop |
+| 09:00 - 17:30 | LatinoX in AI Workshop |
+| 14:00 - 17:30 | Tutorials |
+| 19:00 - 21:00 | Welcome Reception (Please link to Welcome Reception Section) |
+
+| <span>Monday, June 17th</span> |
+| -- | -- |
+| 07:00 - 17:00 | Registration |
+| 09:00 - 10:30 | Opening Session & Keynote Address: Professor Claudio Santos Pinhanex |
+| 10:30 - 11:00 | AM Break |
+| 11:00 - 12:30 | Orals, Posters, BoF & Affinity Groups |
+| 12:30 - 14:00 | Lunch on own |
+| 14:00 - 15:30 | Orals, Posters, BoF & Affinity Groups |
+| 15:30 - 16:00 | PM Break |
+| 16:00 - 17:30 | Orals, Posters, BoF & Affinity Groups |
+
+| <span>Tuesday, June 18th</span> |
+| -- | -- |
+| 08:00 - 16:00 | Registration |
+| 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
+| 10:30 - 11:00 | AM Break |
+| 11:00 - 12:00 | Panel |
+| 12:00 - 14:00 | Lunch on own |
+| 14:00 - 15:00 | Business Meeting Don Alberto 2 - 3 Ballrooms |
+| 15:00 - 15:30 | PM Break |
+| 15:30 - 17:00 | Posters, BoF & Affinity Groups |
+| 18:00 - 21:30 | Social Event Check-in |
+| 19:00 - 22:00 | Social Event (Please link to Social Event Section) |
+
+| <span>Wednesday, June 19th</span> |
+| -- | -- |
+| 08:00 - 17:00 | Registration |
+| 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
+| 10:30 - 11:00 | AM Break |
+| 11:00 - 12:30 | Orals, Posters, BoF & Affinity Groups |
+| 12:30 - 14:00 | Lunch on own |
+| 14:00 - 15:00 | Plenary: Keynote: Dr. Seana Coulson |
+| 15:00 - 15:30 | PM Break |
+| 15:30 - 17:00 | Best Paper Awards and Closing Session |
+
+| <span>Thursday, June 20th</span> |
+| -- | -- |
+| 08:00 - 16:30 | Registration |
+| Workshops | Please see workshop for details schedule |
+| 10:30 - 11:00 | AM Workshop Break |
+| 15:30 - 16:00 | PM Workshop Break |
+
+| <span>Friday, June 21st</span> |
+| -- | -- |
+| 08:00 - 16:30 | Registration |
+| Workshops | Please see workshop for details schedule |
+| 10:30 - 11:00 | AM Workshop Break |
+| 15:30 - 16:00 | PM Workshop Break |
