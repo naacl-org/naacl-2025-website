@@ -139,9 +139,9 @@ committees:
 registration:
   - title: Registration
     children:
-      - title: "Discounted Registration for Latin American Researchers"
-        url: /registration/discount/
-      - title: "Preliminary Registration info 3/20/2024"
-        url: /registration/prelim_reg/
       - title: "Registration"
         url: /registration/registration/
+      - title: "Discounted Registration for Latin American Researchers"
+        url: /registration/discount/
+      - title: "Discounted Virtual Registration for Non-Presenters"
+        url: /registration/discount-virtual/

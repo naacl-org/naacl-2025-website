@@ -7,13 +7,13 @@ sidebar:
     nav: "registration"
 ---
 
- Early Registration April 22 – May 24, 2024
+Early Registration April 22 – May 24, 2024
 
- Late Registration May 25 – June 14, 2024
+Late Registration May 25 – June 14, 2024
 
- Onsite Registration June 15 – 21, 2024
+Onsite Registration June 15 – 21, 2024
 
- Virtual Discount Waiver application coming soon
+Virtual Discount Waiver application coming soon
 
 ## Registration
 
@@ -41,7 +41,7 @@ Attendance to all recorded sessions on demand for at least one month following t
 
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2024) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2024 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
 
-## Cancelation Policy
+## Cancellation Policy
 
 
 Cancellation of registration one month or more prior to the conference (May 16th, 2024, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
