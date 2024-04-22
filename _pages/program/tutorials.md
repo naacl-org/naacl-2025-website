@@ -36,9 +36,6 @@ table th:nth-of-type(2) {
 | Catch Me If You GPT: Tutorial on Deepfake Texts | Adaku Uchendu, Saranya Venkatraman, Thai Le and Dongwon Lee | Doña Adelita | 
 | Combating Security and Privacy Issues in the Era of Large Language Models | Muhao Chen, Chaowei Xiao, Huan Sun, Lei Li, Leon Derczynski and Anima Anandkumar | Don Alberto 4 |
 | Explanation in the Era of Large Language Models | Zining Zhu, Hanjie Chen, Xi Ye, Chenhao Tan, Ana Marasovic, Sarah Wiegreffe and Qing Lyu | Don Alberto 3 |
-<!-- | [VarDial 2024: 11th Workshop on NLP for Similar Languages, Varieties and Dialects](https://sites.google.com/view/vardial-2024) | Genaro | -->
-<!-- | [Data Science with Human-in-the-Loop: Language Advances](https://www.dashworkshops.org/) | Julian | -->
-<!-- | [21st SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology](https://sigmorphon.github.io/workshops/2024/)  | Socorro  | -->
 
 | <span>14:00 - 17:30</span> |
 | -- | -- | -- |
