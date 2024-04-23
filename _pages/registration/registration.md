@@ -7,7 +7,8 @@ sidebar:
     nav: "registration"
 ---
 
-**Registration will be opening soon, link to come**
+**Registration is officially open, register now at: [http://acl.swoogo.com/naacl2024](http://acl.swoogo.com/naacl2024)**
+
 
 The ACL & NAACL Exec have put together the registration fee.
 
