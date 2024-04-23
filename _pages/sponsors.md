@@ -37,7 +37,7 @@ gold:
     image_path: /assets/images/logos/Apple.png
     alt: Apple
     title: Apple
-  - url: https://www.bloomberg.com/
+  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
     image_path: /assets/images/logos/Bloomberg.png
     alt: Bloomberg
     title: Bloomberg
