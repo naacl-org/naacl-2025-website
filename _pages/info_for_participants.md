@@ -51,7 +51,7 @@ Rate: $110 USD a night
 
 ## Visas
 
-For visa requests please fill out the following form. 
+For visa requests please fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLSeCow9R7wqdbezUnPc2uu6akLZ26IXNrGp4TY5fEjRFrsmFew/viewform). 
 
 To travel to Mexico, it is necessary to have a valid passport with more than six months of validity (Mexican authorities require a passport to be valid for the duration of the stay in Mexico, but transit countries and airline companies may have other requirements).
 
