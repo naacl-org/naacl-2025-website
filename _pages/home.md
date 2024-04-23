@@ -14,7 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
-| Apr 22, 2024 | [Registration info](/registration/registration/) updated, including [discounted registration for Latin American researchers](/registration/dicount/) (deadline extended to May 8, 2024), and [discounted virtual registration for non-presenters](/registration/dicount/)
+| Apr 22, 2024 | [Registration info](/registration/registration/) updated, including [discounted registration for Latin American researchers](/registration/discount/) (deadline extended to May 8, 2024), and [discounted virtual registration for non-presenters](/registration/discount-virtual/)
 | Apr 20, 2024 | [Blog post: NAACL 2024 presentation modes, acceptance types, and participation experiences](/blog/presentation/)
 | Apr 9, 2024 | [Blog post: NAACL 2024 Acceptance Rate](/blog/acceptance/)
 | Apr 3, 2024  | [Call for NAACL 2024 Volunteers](/calls/volunteers/) is out
