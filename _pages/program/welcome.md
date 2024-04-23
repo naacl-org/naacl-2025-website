@@ -59,3 +59,33 @@ Dinner & Drink Ticket
 
 Local Entertainment DJ & Dancing
 
+<table>
+  <tr>
+   <td colspan="2"><strong>Welcome Reception Add on Rates by Age</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>0-4
+   </td>
+   <td><p>$0.00</p>
+   </td>
+  </tr>
+  <tr>
+   <td>5-8
+   </td>
+   <td><p>$25.00</p>
+   </td>
+  </tr>
+  <tr>
+   <td>9-17
+   </td>
+   <td><p>$50.00</p>
+   </td>
+  </tr>
+  <tr>
+   <td>18+
+   </td>
+   <td><p>$100.00</p>
+   </td>
+  </tr>
+</table>
