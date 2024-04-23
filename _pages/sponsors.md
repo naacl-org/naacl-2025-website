@@ -51,7 +51,7 @@ bronze:
     alt: Adobe
     title: Adobe
 diversity:
-  - url: https://www.grammarly.com/
+  - url: https://gram.ly/49HkYus
     image_path: /assets/images/logos/Grammarly.png
     alt: Grammarly
     title: Grammarly

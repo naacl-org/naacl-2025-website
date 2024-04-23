@@ -300,7 +300,7 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
 
 {% include bio-box
    name="Ivan Meza"
-   picture="/assets/images/committee/foto_ivan_meza.jpg"
+   picture="/assets/images/committee/ivan_meza.jpg"
    site="https://turing.iimas.unam.mx/~ivanvladimir/en/"
    institution="IIMAS /UNAM"
 %}
