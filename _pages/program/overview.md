@@ -45,7 +45,7 @@ table th:nth-of-type(2) {
 | 09:00 - 17:30 | Queer in AI Workshop |
 | 09:00 - 17:30 | LatinoX in AI Workshop |
 | 14:00 - 17:30 | Tutorials |
-| 19:00 - 21:00 | Welcome Reception (Please link to Welcome Reception Section) |
+| 19:00 - 21:00 | Welcome Reception |
 
 | <span>Monday, June 17th</span> |
 | -- | ------ |
@@ -69,7 +69,7 @@ table th:nth-of-type(2) {
 | 15:00 - 15:30 | PM Break |
 | 15:30 - 17:00 | Posters, BoF & Affinity Groups |
 | 18:00 - 21:30 | Social Event Check-in |
-| 19:00 - 22:00 | Social Event (Please link to Social Event Section) |
+| 19:00 - 22:00 | Social Event |
 
 | <span>Wednesday, June 19th</span> |
 | -- | ------ |
