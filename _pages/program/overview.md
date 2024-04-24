@@ -23,11 +23,6 @@ table th:nth-of-type(2) {
 | TBD | Session 1 of Virtual Poster Presentations |
 | TBD | Session 2 of Virtual Poster Presentations |
 
-| <span>Saturday, June 15th</span> |
-| -- | ------ |
-| 15:00 - 19:00 | Registration |
-| 09:00 - 17:30 | Summer School |
-
 | <span>Friday, June 14</span> |
 | -- | ------ |
 | 09:00 - 19:00 | Registration |
