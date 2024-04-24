@@ -77,7 +77,7 @@ Notification Deadline: **May 13--14, 2024, 11:59pm (AoE)**
 
 # Notification of acceptance 
 
-Applicants will be notified on (or before) **Tuesday April 23rd, 2024, 11:59pm (AoE)**, which is with time enough to register in the conference. We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can, and no matter what the response is.
+Applicants will be notified on (or before) **May 13–14, 2024, 11:59pm (AoE)**, which is with time enough to register in the conference. We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can, and no matter what the response is.
 
 
 # Contact
