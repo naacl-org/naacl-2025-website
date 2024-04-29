@@ -51,7 +51,7 @@ bronze:
     alt: Adobe
     title: Adobe
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
-    image_path: /assets/images/logos/jpmorgan.png
+    image_path: /assets/images/logos/JPMorgan.png
     alt: JPMorgan
     title: JPMorgan
 diversity:
