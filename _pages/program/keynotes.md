@@ -17,7 +17,7 @@ The following speakers have graciously accepted to give invited talks at NAACL 2
 
 **Title:** Harnessing the Power of LLMs to Vitalize Indigenous Languages
 
-**Time:** Monday, June 17
+**Time:** Monday, June 17, 9:30--10:30
 
 **Abstract:**
 How can Large Language Models (LLMs) and modern NLP be used to increase the use and the documentation of Indigenous languages which are in danger of disappearing? First, I report on the development of high-quality translators for Indigenous languages by fine-tuning SOTA machine translators with tiny amounts of data, and discuss how to avoid some common pitfalls. Next, I present prototypes built with Indigenous communities aiming to stimulate and facilitate writing, using LLM models to create spell-checkers, next-word predictors, and similar tools. Finally, I discuss a future for documentation where dying languages are preserved as interactive language models.
@@ -32,7 +32,7 @@ Claudio Pinhanez is a scientist, innovator, and professor. He is currently a Pri
 
 **Title:** Distributional Semantics: What do large language models have to say?
 
-**Time:** Wednesday, June 19
+**Time:** Wednesday, June 19, 14:00--15:00
 
 **Abstract:**
 Large language models motivate an approach to meaning known as distributional semantics, that words mean what they do because of how they’re distributed in language. In this talk I will describe some evidence from my lab that suggests metrics from large language models do a good job of predicting behavioral and neural responses to some aspects of human language. I go on to describe some research that highlights important differences in meaning processing in humans and the ‘understanding’ displayed by language models. Discrepancies are particularly noteworthy in studies of joke comprehension.
