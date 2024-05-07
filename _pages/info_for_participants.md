@@ -32,22 +32,33 @@ Click on the link and adjust your dates at the top of the page and secure your r
 
 ### Fiesta inn Historic Center Mexico City (Right Next Door)
 
-At Fiesta inn we Like you to Relax
-
-At Fiesta Inn Centro Historico, everything is designed to offer you rest and relaxation. Disconnect from the routine, we want you to have fun.
-
-To give you access to the main attractions of the destination, we are located inside the Parque Alameda Shopping Center, near Paseo de la Reforma, the Palace of Fine Arts and the Zócalo of Mexico City.
-
 Address: Av. Juarez 76, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico
 
 Phone: 52 (443) 310 81 37
 
-Rate: $110 USD a night 
+NAACL 24 Student Hotel Block Announcement: Reserve Your Room at Fiesta Inn (next door to the Hilton Reforma Mexico City).
+We're excited to extend an exclusive offer to our esteemed guests attending the upcoming NAACL 24 Student Block event. 
+Immerse yourself in comfort and convenience at the prestigious Fiesta Inn, 
+where we've secured a limited block of 80 rooms at specially discounted rates just for you.
 
-**Book by May 15, 2024 for discounted NAACL Rate**
+Room Rates: $110.00+ (35 Executive Room Single Occupancy & 45 Executive Room Double Occupancy (2) double beds) 
 
-**Student Block Coming Soon**
+Single Occupancy: $138.90 (inclusive)
+Double Occupancy: $143.90 (inclusive)
 
+Reservation Details:
+
+Act swiftly to request your preferred accommodation as this block operates on a first-come, first-served basis. 
+To request a room, simply fill in the details on the provided Google Form. 
+Once submitted, your request will be promptly forwarded to the ACL Staff and hotel for processing.
+
+Payment Procedure:
+
+Upon receipt of your reservation request, the hotel will directly contact you to facilitate payment and finalize your booking. If the rooms have filled us the ACL Staff will reach out to let you know and place you on a wait list. Please ensure that all payment details are provided to the hotel no later than May 17th to guarantee your reservation or your room will be opened up to the wait list. Kindly note that these rooms are non-refundable; once payment is made, cancellations are not eligible for refunds.
+
+Act Fast: 
+
+With only 80 rooms, click Here to fill out your Reservation Request.
 
 ## Visas
 
