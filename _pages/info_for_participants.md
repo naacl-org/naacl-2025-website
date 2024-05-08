@@ -58,7 +58,7 @@ Upon receipt of your reservation request, the hotel will directly contact you to
 
 Act Fast: 
 
-With only 80 rooms, click Here to fill out your Reservation Request.
+With only 80 rooms, click [Here](https://docs.google.com/forms/d/e/1FAIpQLSczPr4jCPox5QPiURJSowixgKyoR_78LgcEwzN_OcFH7xWkuA/viewform?usp=sharing) to fill out your Reservation Request.
 
 ## Visas
 
