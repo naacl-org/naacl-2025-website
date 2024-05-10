@@ -15,7 +15,7 @@ The ACL & NAACL Exec have put together the registration fee.
 # Authors Registration Fees
 
 At least one author of each accepted paper at an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) or must register for
-the conference by the **early registration deadline** and at the Author/Paper Presenter Rate. Similarly, at least one
+the conference by the **early registration deadline** and at the Author/Paper Presenter (Regular or Student) Rate. Similarly, at least one
 author for any Findings paper to be presented at the event or paper at any affiliated workshop (exclusive of shared task
 papers) but register for the conference no later than **2 weeks before **the conference and at the Author/Paper
 Presenter Rate
@@ -31,7 +31,7 @@ Presenter Rate
   
 * Please note all Accepted Papers accepted to the Main Conference must be attached to 1 Author Paper Present. These fees are to aid in covering the hard costs of the paper being presented at the conference. 
 * When registering you will select your paper title in the dropdown box this will guarantee that your paper has been registered. (Papers not registered for the conference with the registration type Author Paper Presenter will be pulled from the conference and will not be published). Furthermore, if a paper accepted to finding is presenting, they would follow the same guidelines with the exception that Findings not presenting are not required to register for the conference. Therefore, if a Finding paper shows it’s being presented in person, and they are not registered 2 weeks before the conference then they will be removed from the program as a presenter.
-* Each paper ID must be linked to an Author/Paper Presenter Registration. However, a student author on the paper registered under a student fee is permitted to present the registered paper.
+* Each paper ID must be linked to an Author/Paper Presenter (Regular or Student) Registration. However, a student author on the paper registered under a student fee is permitted to present the registered paper.
 
 ## Further details:
 
@@ -43,7 +43,7 @@ Presenter Rate
 * Since workshop notifications can come after early registration ends, there will be a way to add a paper to a
   registration.
 * Authors of Findings papers who choose to present there papers at a workshops or at the main conference will need to
-  register at a Author/Paper Presenter for either the Workshop Only they are presenting at or Full Conference if
+  register at a Author/Paper Presenter (Regular or Student) for either the Workshop Only they are presenting at or Full Conference if
   presenting at the Main Conference. If your paper is presented at workshop but you wish to attend the full conference
   you will need to register
 * D&I subsidies will continue to be available to offset registration costs and travel for those in need.
@@ -123,7 +123,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -279,7 +279,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -359,7 +359,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -453,7 +453,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -533,7 +533,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -613,7 +613,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -707,7 +707,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -787,7 +787,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
@@ -867,7 +867,7 @@ The Full Conference **Virtual Registration** Fee Includes:
    <tr>
       <td>
          <p>
-            Author/Paper Presenter
+            Author/Paper Presenter (Regular or Student)
          </p>
       </td>
       <td>
