@@ -18,75 +18,94 @@ table th:nth-of-type(2) {
 </style>
 
 
-| <span>Thursday, June 13</span> |
+| Thursday, June 13: | Virtual Poster Sessions |
 | -- | ------ |
-| TBD | Session 1 of Virtual Poster Presentations |
-| TBD | Session 2 of Virtual Poster Presentations |
+| 09:00 – 11:00 | Session 1 of Virtual Poster Presentations. Log into Underline to join, presentations are in Gathertown |
+| 20:00 – 22:00 | Session 2 of Virtual Poster Presentations. Log into Underline to join, presentations are in Gathertown |
 
-| <span>Friday, June 14</span> |
+| Friday, June 14: | Mexican NLP Summer School |
 | -- | ------ |
-| 09:00 - 19:00 | Registration |
+| 08:20 - 17:00 | Registration |
 | 09:00 - 17:30 | Summer School |
+| 08:50 - 11:00 | Opening Session, Keynotes Diyi Yang & Alexis Palmer | 
+| 11:00 - 11:30 | AM Coffee Break (coffee & tea included) | 
+| 11:30 - 13:00 | Panel A: From "publish or perish" to "publicize or perish": Navigating challenges and opportunities for career advancement in Latin American Communities in the current era of scientific publication trends |
+| 13:00 - 14:30 | Lunch Break (All attendees on their own) | 
+| 14:30 - 16:30 | Keynotes: Umut Pajaro Velasquez & Veronica Perez Rosas |
+| 16:30 - 17:00 | PM Coffee Break (coffee & tea included) | 
+| 17:00 - 18:30 | Panel B: Perspectivas de NLP desde Latinoamérica / NLP perspectives, an overview from Latin America |
 
-| <span>Saturday, June 15th</span> |
+
+| Saturday, June 15: | Mexican NLP Summer School |
 | -- | ------ |
-| 15:00 - 19:00 | Registration |
-| 09:00 - 17:30 | Summer School |
+| 08:30 - 17:00 | Registration |
+| 09:00 - 10:30 | Tutorials:<br>1: Training Lightweight Models via Knowledge Distillation and Parameter Efficient Finetuning/English<br>2: Introduction to Attention  Mechanisms in Transformers/Spanish |
+| 10:30 - 11:00 | AM Coffee Break (coffee & tea included) | 
+| 11:00 - 12:30 | Tutorials Continue | 
+| 12:30 - 14:00 | Lunch Break (All attendees on their own) | 
+| 14:00 - 16:00 | Tutorials:<br>1: Exploring Transformers and Limitations in Language Modeling/Spanish<br>2: The Power of Rewards - Reinforcing Language Models with Reinforcement Learning/English |
+| 16:00 - 16:30 | PM Coffee Break (coffee & tea included) | 
+| 16:15 - 18:30 | Panel C: Getting into NLP: Insights from experts and peers + Closing Session |
 
-| <span>Sunday, June 16th</span> |
+| Sunday, June 16: | Tutorials  |
 | -- | ------ |
 | 07:00 - 20:30 | Registration |
-| 09:00 - 12:30 | Tutorials |
-| 09:00 - 17:30 | Queer in AI Workshop |
-| 09:00 - 17:30 | LatinoX in AI Workshop |
-| 14:00 - 17:30 | Tutorials |
-| 19:00 - 21:00 | Welcome Reception |
+| 09:00 - 12:30 | Tutorials:<br>1. Catch Me If You GPT: Tutorial on Deepfake Texts<br>2. Combating Security and Privacy Issues in the Era of Large Language Models<br>3. Explanation in the Era of Large Language Models | 
+| 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
+| 09:00 - 17:30 | Affinity Workshop: Queer in AI |
+| 09:00 - 18:00 | Affinity Workshops: LatinoX in AI |
+| 12:30 - 14:00 | Lunch Break (All attendees on their own) |
+| 14:00 - 17:30 | Tutorials:<br>1. From Text to Context: Contextualizing Language with Humans, Groups, and Communities for Socially Aware NLP<br>2. Human-AI Interaction in the Age of LLMs<br>3. Spatial and Temporal Language Understanding: Representation, Reasoning, and Grounding |
+| 15:30 - 16:00 | PM Coffee Break (coffee, tea & snacks included) |
+| 19:00 - 21:00 | Welcome Reception (Light canapes & Sweets Included) |
 
-| <span>Monday, June 17th</span> |
+| Monday, June 17: | Main Conference Day 1 |
 | -- | ------ |
-| 07:00 - 17:00 | Registration |
+| 07:30 - 16:30 | Registration |
 | 09:00 - 10:30 | Opening Session & Keynote Address: Professor Claudio Santos Pinhanex |
-| 10:30 - 11:00 | AM Break |
+| 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 11:00 - 12:30 | Orals, Posters, BoF & Affinity Groups |
-| 12:30 - 14:00 | Lunch on own |
+| 12:30 - 14:00 | Lunch Break (All attendees on their own) |
 | 14:00 - 15:30 | Orals, Posters, BoF & Affinity Groups |
-| 15:30 - 16:00 | PM Break |
+| 15:30 - 16:00 | PM Coffee Break (coffee, tea & snacks included) |
 | 16:00 - 17:30 | Orals, Posters, BoF & Affinity Groups |
 
-| <span>Tuesday, June 18th</span> |
+| Tuesday, June 18: | Main Conference Day 2 |
 | -- | ------ |
-| 08:00 - 16:00 | Registration |
+| 08:30 -16:30 | Registration |
 | 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
-| 10:30 - 11:00 | AM Break |
-| 11:00 - 12:00 | Panel |
-| 12:00 - 14:00 | Lunch on own |
+| 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
+| 11:00 - 12:00 | Panel: Large Language Models (LLMs) and their Impact on Education: Karen Matías, Swapna Somasundaran, Victoria Yaneva, Ekaterina Kochmar |
+| 12:00 - 14:00 | Lunch Break (All attendees on their own) |
 | 14:00 - 15:00 | Business Meeting Don Alberto 2 - 3 Ballrooms |
-| 15:00 - 15:30 | PM Break |
+| 15:00 - 15:30 | PM Coffee Break (coffee, tea & snacks included) |
 | 15:30 - 17:00 | Posters, BoF & Affinity Groups |
 | 18:00 - 21:30 | Social Event Check-in |
 | 19:00 - 22:00 | Social Event |
 
-| <span>Wednesday, June 19th</span> |
+| Wednesday, June 19: | Main Conference Day 3 |
 | -- | ------ |
 | 08:00 - 17:00 | Registration |
 | 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
-| 10:30 - 11:00 | AM Break |
+| 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 11:00 - 12:30 | Orals, Posters, BoF & Affinity Groups |
-| 12:30 - 14:00 | Lunch on own |
-| 14:00 - 15:00 | Plenary: Keynote: Dr. Seana Coulson |
-| 15:00 - 15:30 | PM Break |
+| 12:30 - 14:00 | Lunch Break (All attendees on their own) |
+| 14:00 - 15:00 | Plenary: Keynote: Seana Coulson, University of California San Diego: "Distributional Semantics: What do large language models have to say?" |
+| 15:00 - 15:30 | PM Coffee Break (coffee, tea & snacks included) |
 | 15:30 - 17:00 | Best Paper Awards and Closing Session |
 
-| <span>Thursday, June 20th</span> |
+| Thursday, June 20: | Workshop Day 1 |
 | -- | ------ |
 | 08:00 - 16:30 | Registration |
 | Workshops | Please see workshop for details schedule |
-| 10:30 - 11:00 | AM Workshop Break |
-| 15:30 - 16:00 | PM Workshop Break |
+| 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
+| TBD | Lunch Break (All attendees on their own) |
+| 15:30 - 16:00 | PM Coffee Break (coffee, tea & snacks included) |
 
-| <span>Friday, June 21st</span> |
+| Friday, June 21: | Workshop Day 2 |
 | -- | ------ |
 | 08:00 - 16:30 | Registration |
 | Workshops | Please see workshop for details schedule |
-| 10:30 - 11:00 | AM Workshop Break |
-| 15:30 - 16:00 | PM Workshop Break |
+| 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
+| TBD | Lunch Break (All attendees on their own) |
+| 15:30 - 16:00 | PM Coffee Break (coffee, tea & snacks included) |
