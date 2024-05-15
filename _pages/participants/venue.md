@@ -1,7 +1,7 @@
 ---
-title: Information for Participants
+title: Information about the Venue
 layout: single
-permalink: /info-for-participants/
+permalink: /participants/venue/
 sidebar:
     nav: "participants"
 toc: true

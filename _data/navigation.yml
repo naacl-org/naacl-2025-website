@@ -6,20 +6,20 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Sponsors"
-    url: /sponsors/
-
-  - title: "Info for Participants"
-    url: /info-for-participants/
-
   - title: "Registration"
     subnav: registration
+
+  - title: "Info for Participants"
+    subnav: participants
 
   - title: "Calls"
     subnav: calls
 
   - title: "Program"
     subnav: program
+
+  - title: "Sponsors"
+    url: /sponsors/
 
   - title: "Committees"
     subnav: committees
@@ -109,15 +109,15 @@ calls:
 #       - title: "Reviewing Advice"
 #         url: /reviewer/advice/
 
-#participants:
-#  - title: Information for Participants
-#    children:
-#      - title: "Venue"
-#        url: /venue/
+participants:
+  - title: Information for Participants
+    children:
+      - title: "Venue"
+        url: /participants/venue/
+      - title: "Presenter FAQ"
+        url: /participants/presenter-faq/
 #      - title: "Visa Information"
 #        url: /visa-info/
-#      - title: "COVID-19 Safety"
-#        url: /covid-19-safety/
 
 committees:
   - title: Committees
