@@ -23,7 +23,7 @@ Key questions that the panelist will discuss:
  
 ## Panelists Information:
 
-### Karen Matías,  National Autonomus University of Mexico (UNAM)
+## Karen Matías,  National Autonomus University of Mexico (UNAM)
 
 [karen_matias@cuaieed.unam.mx](karen_matias@cuaieed.unam.mx)
 
@@ -35,7 +35,7 @@ Preferred name (with pronouns): Karen Matias (she/her).
 ![Karen Matías](/assets/images/panel/karen.png){: .align-center}
 
 
-### Swapna Somasundaran - Educational Testing Services (ETS) 
+## Swapna Somasundaran - Educational Testing Services (ETS) 
 
 [ssomasundaran@ets.org](ssomasundaran@ets.org)
 
@@ -44,7 +44,7 @@ Somasundaran has numerous publications in top peer-reviewed international artifi
 
 ![Swapna Somasundaran](/assets/images/panel/swapna.png){: .align-center}
 
-### Victoria Yaneva - National Board of Medical Examiners (NBME)
+## Victoria Yaneva - National Board of Medical Examiners (NBME)
 
 [vyaneva@nbme.org](vyaneva@nbme.org)
 
@@ -53,7 +53,7 @@ Victoria completed her PhD in NLP at the Research Group in Computational Linguis
 
 **Preferred name (with pronouns)**: Victoria (she/her)
 
-![Victoria Yaneva](/assets/images/panel/victoria.png)
+![Victoria Yaneva](/assets/images/panel/victoria.png){: .align-center}
 
 
 ## Ekaterina Kochmar - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
