@@ -64,4 +64,4 @@ Ekaterina Kochmar is an Assistant Professor at the Natural Language Processing D
 
 **Preferred name (with pronouns)**: Ekaterina (she/her)
 
-![Ekaterina Kochmar](/assets/images/panel/ekaterina.png)
+![Ekaterina Kochmar](/assets/images/panel/ekaterina.png){: .align-center}
