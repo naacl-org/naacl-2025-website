@@ -8,9 +8,12 @@ toc: true
 toc_sticky: true
 ---
 
+Videos, slides and posters are due to Underline on May 19. 
+
 ### Poster specifications
 
 Posters should be A0 portrait.
+
 
 ### Talk specifications 
 
