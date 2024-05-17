@@ -45,6 +45,10 @@ gold:
     image_path: /assets/images/logos/TwoSigma.jpeg
     alt: Two Sigma
     title: Two Sigma
+  - url: https://cohere.com/
+    image_path: /assets/images/logos/Cohere.png
+    alt: Cohere
+    title: Cohere
 bronze:
   - url: https://research.adobe.com/
     image_path: /assets/images/logos/Adobe.png
