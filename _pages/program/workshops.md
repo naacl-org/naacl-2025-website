@@ -36,7 +36,7 @@ table th:nth-of-type(2) {
 [Clinical NLP Workshop](https://clinical-nlp.github.io/2024/) | Alberto 2 |
 [6th Workshop on NLP and Computational Social Science](https://sites.google.com/site/nlpandcss/) | Alberto 3 |
 [TrustNLP: Fourth Workshop on Trustworthy Natural Language Processing](https://trustnlpworkshop.github.io) | Alberto 4 |
-[44th Workshop on Figurative Language Processing](http://sites.google.com/view/figlang2024) | Genaro |
+[4th Workshop on Figurative Language Processing](http://sites.google.com/view/figlang2024) | Genaro |
 [HCI+NLP: 3rd Workshop on Bridging Human-Computer Interaction and Natural Language Processing](https://sites.google.com/view/hciandnlp/home) | Julian |
 [4th Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/) | Socorro |
 

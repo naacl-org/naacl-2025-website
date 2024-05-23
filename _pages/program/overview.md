@@ -53,7 +53,7 @@ table th:nth-of-type(2) {
 | 09:00 - 12:30 | Tutorials:<br>1. Catch Me If You GPT: Tutorial on Deepfake Texts<br>2. Combating Security and Privacy Issues in the Era of Large Language Models<br>3. Explanation in the Era of Large Language Models | 
 | 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 09:00 - 17:30 | Affinity Workshop: Queer in AI |
-| 09:00 - 18:00 | Affinity Workshops: LatinoX in AI |
+| 09:00 - 18:00 | Affinity Workshops: LatinX in AI |
 | 12:30 - 14:00 | Lunch Break (All attendees on their own) |
 | 14:00 - 17:30 | Tutorials:<br>1. From Text to Context: Contextualizing Language with Humans, Groups, and Communities for Socially Aware NLP<br>2. Human-AI Interaction in the Age of LLMs<br>3. Spatial and Temporal Language Understanding: Representation, Reasoning, and Grounding |
 | 15:30 - 16:00 | PM Coffee Break (coffee, tea & snacks included) |
