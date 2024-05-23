@@ -62,7 +62,7 @@ table th:nth-of-type(2) {
 | Monday, June 17: | Main Conference Day 1 |
 | -- | ------ |
 | 07:30 - 16:30 | Registration |
-| 09:00 - 10:30 | Opening Session & Keynote Address: Professor Claudio Santos Pinhanex |
+| 09:00 - 10:30 | Opening Session & Keynote Address: Claudio Santos Pinhanez: "Harnessing the Power of LLMs to Vitalize Indigenous Languages" |
 | 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 11:00 - 12:30 | Orals, Posters, BoF & Affinity Groups |
 | 12:30 - 14:00 | Lunch Break (All attendees on their own) |
@@ -90,7 +90,7 @@ table th:nth-of-type(2) {
 | 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 11:00 - 12:30 | Orals, Posters, BoF & Affinity Groups |
 | 12:30 - 14:00 | Lunch Break (All attendees on their own) |
-| 14:00 - 15:00 | Plenary: Keynote: Seana Coulson, University of California San Diego: "Distributional Semantics: What do large language models have to say?" |
+| 14:00 - 15:00 | Plenary: Keynote: Seana Coulson: "Distributional Semantics: What do large language models have to say?" |
 | 15:00 - 15:30 | PM Coffee Break (coffee, tea & snacks included) |
 | 15:30 - 17:00 | Best Paper Awards and Closing Session |
 
