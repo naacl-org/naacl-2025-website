@@ -26,8 +26,9 @@ Poster price is 300 Mexican Pesos per unit, taxes included (this is equivalent t
 Payment has to be done to the following link: [paypal.me/EnefectoPrint](paypal.me/EnefectoPrint). Make sure payment is done in Mexican Pesos.
 
 ### Deadline
-The deadline to submit your poster is on Monday, June 3, 2024 EOD, in order to deliver the printed pieces on Thursday, June 14, 2024 at the beginning of the day. 
-Posters received after this date will have a late-fee charge of 100%, costing 600 Mexican Pesos, and the delivery will not be guaranteed before the beginning of the conference.
+The deadline to submit your poster is on Friday, June 7th EOD, in order to deliver the printed pieces on Friday, June 14th at the beginning of the day. 
+Poster orders placed from June 7th - 13th cost 450 Mexican Pesos, taxes included (equivalent to 27 USD) and will be delivered 9 am on Monday, June 17th. 
+If you need to print a poster during the week of the conference, you can place a 24-hour order for the price of 600 Mexican Pesos, taxes included (equivalent to 36 USD). 
 
 ### Submission
 To submit your poster for printing, please send an email to the following address: [PostersNACCL@enefecto.com.mx](mailto:PostersNACCL@enefecto.com.mx), 
@@ -60,4 +61,4 @@ but we cannot take responsibility for the final result of the poster if it does 
 ### Delivery 
 
 Files will be printed as they are delivered on a first come first served basis. 
-Posters will be delivered at the registration desk right before the entrance of the exhibit on the first day of activities.
+Posters can be picked at the Registration Solutions Desk located on Level 2 outside of Don Américo. 
