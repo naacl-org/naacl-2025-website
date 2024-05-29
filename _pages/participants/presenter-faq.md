@@ -8,13 +8,56 @@ toc: true
 toc_sticky: true
 ---
 
-Videos, slides and posters are due to Underline on May 19. 
+## Underline
 
-### Poster specifications
+Videos, slides and posters are due to Underline on ~~May 19~~ May 26. Posters should be A0 portrait. 
+Videos uploaded to Underline should be 13 minutes. Slides should be 16:9 ratio.
 
-Posters should be A0 portrait.
+## Oral Presentations
 
+Oral presentations should be 13 minutes. Slides should be 16:9 ratio.
 
-### Talk specifications 
+## In person posters
 
-Both oral presentations and videos uploaded to Underline should be 13 minutes. Slides should be 16:9 ratio.
+We are happy to offer poster printing services. In order to cover the demand of all participants, please read carefully the instructions regarding format, timing and technical specifications. 
+
+### Payment
+Poster price is 300 Mexican Pesos per unit, taxes included (this is equivalent to around 18 USD). 
+Payment has to be done to the following link: [paypal.me/EnefectoPrint](paypal.me/EnefectoPrint). Make sure payment is done in Mexican Pesos.
+
+### Deadline
+The deadline to submit your poster is on Monday, June 3, 2024 EOD, in order to deliver the printed pieces on Thursday, June 14, 2024 at the beginning of the day. 
+Posters received after this date will have a late-fee charge of 100%, costing 600 Mexican Pesos, and the delivery will not be guaranteed before the beginning of the conference.
+
+### Submission
+To submit your poster for printing, please send an email to the following address: [PostersNACCL@enefecto.com.mx](mailto:PostersNACCL@enefecto.com.mx), 
+with the following info:
+
+- Your name
+- Proof of payment thru PayPal, with the file name as part of the reference
+- File to print
+
+### Format
+Posters will be printed in A0 format (84.1 x 118.9 cm, / 33.1" x 46.8") in Portrait / Vertical format. 
+All posters will be considered in full color. The price does not change if design is in black and white. 
+All posters will be printed in a substrate equivalent to 300 gsm.
+
+The file submitted for printing needs to cover these specs:
+
+- File in PDF format
+- Final arts at 100% of printing size
+- CMYK color scheme
+- Text and images in vectors
+- Photos at 300 dpi, embedded
+- Trim lines
+- 3 mm bleed area
+
+Due to the expected load of work for this event, we cannot make any changes of any part of the posters you send as final art. 
+We will execute a process called 'preflight' before printing, to review and fix the most common mistakes on files, 
+such as RGB color scheme, sizing, margins; 
+but we cannot take responsibility for the final result of the poster if it does not come with the right specifications.
+
+### Delivery 
+
+Files will be printed as they are delivered on a first come first served basis. 
+Posters will be delivered at the registration desk right before the entrance of the exhibit on the first day of activities.
