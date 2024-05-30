@@ -75,7 +75,7 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    name="Anoop Kumar"
    picture="/assets/images/committee/Anoop_Kumar.jpg"
    site="https://www.amazon.science/author/anoop-kumar"
-   institution="Amazon"
+   institution="Capital One"
 %}
 {% include bio-box
    name="Aida Davani"
