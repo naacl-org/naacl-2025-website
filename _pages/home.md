@@ -14,6 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| May 30, 2024 | [Additional hotel rooms are available](/participants/venue/)
 | May 23, 2024 | [Blog post: Call for Live Microblogging Volunteers](/blog/live-microblogging/)
 | Apr 22, 2024 | [Registration info](/registration/registration/) updated, including [discounted registration for Latin American researchers](/registration/discount/) (deadline extended to May 8, 2024), and [discounted virtual registration for non-presenters](/registration/discount-virtual/)
 | Apr 20, 2024 | [Blog post: NAACL 2024 presentation modes, acceptance types, and participation experiences](/blog/presentation/)

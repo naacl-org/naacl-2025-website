@@ -10,7 +10,6 @@ toc_sticky: true
 
 ## Discounted Hotel Blocks
 
-
 ### Hilton Reforma Mexico City (Conference Hotel)
 
 Find our high-rise hotel in the heart of Mexico City, opposite Alameda Central park and just 650 meters from the Palacio de Bellas Artes. The historic center of Mexico City, which is centered around Zócalo plaza, is less than two kilometers away. We’re home to a rooftop pool, a spa, and a two-story convention center.
@@ -27,7 +26,9 @@ Rate: $195 USD a night
 
 Click on the link and adjust your dates at the top of the page and secure your room before they sell out. ·  
 
-**Book by May 24, 2024 for discounted NAACL Rate**
+~~Book by May 24, 2024 for discounted NAACL Rate~~
+
+**Update May 30, 2024: The hotel has kindly agreed to extend our room block by 30 additional rooms.**
 
 
 ### Fiesta inn Historic Center Mexico City (Right Next Door)
@@ -59,6 +60,13 @@ Upon receipt of your reservation request, the hotel will directly contact you to
 Act Fast: 
 
 With only 80 rooms, click [Here](https://docs.google.com/forms/d/e/1FAIpQLSczPr4jCPox5QPiURJSowixgKyoR_78LgcEwzN_OcFH7xWkuA/viewform?usp=sharing) to fill out your Reservation Request.
+
+**Update May 30, 2024: There are 10 rooms left in the student block at the Fiesta Hotel for June 16-19 only.**
+
+### Ibis Alameda, for student volunteers
+
+There are 10 more rooms available at the Ibis for student volunteers. Book here: [ibis Alameda](https://forms.gle/g2UEpp4bGjmRLE6D6).
+
 
 ## Visas
 
