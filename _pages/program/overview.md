@@ -47,9 +47,15 @@ table th:nth-of-type(2) {
 | 16:00 - 16:30 | PM Coffee Break (coffee & tea included) | 
 | 16:15 - 18:30 | Panel C: Getting into NLP: Insights from experts and peers + Closing Session |
 
+
+| Saturday, June 15: | Main Conference & Tutorials |
+| -- | ------ |
+| 14:00 - 19:00 | Registration Open Check in on Level 2 Don Diego Foyer |
+
+
 | Sunday, June 16: | Tutorials  |
 | -- | ------ |
-| 07:00 - 20:30 | Registration |
+| 07:30 - 21:00 | Registration |
 | 09:00 - 12:30 | Tutorials:<br>1. Catch Me If You GPT: Tutorial on Deepfake Texts<br>2. Combating Security and Privacy Issues in the Era of Large Language Models<br>3. Explanation in the Era of Large Language Models | 
 | 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 09:00 - 17:30 | Affinity Workshop: Queer in AI |
@@ -57,7 +63,7 @@ table th:nth-of-type(2) {
 | 12:30 - 14:00 | Lunch Break (All attendees on their own) |
 | 14:00 - 17:30 | Tutorials:<br>1. From Text to Context: Contextualizing Language with Humans, Groups, and Communities for Socially Aware NLP<br>2. Human-AI Interaction in the Age of LLMs<br>3. Spatial and Temporal Language Understanding: Representation, Reasoning, and Grounding |
 | 15:30 - 16:00 | PM Coffee Break (coffee, tea & snacks included) |
-| 19:00 - 21:00 | Welcome Reception (Light canapes & Sweets Included) |
+| 19:00 - 21:30 | Welcome Reception (Light canapes & Sweets Included) |
 
 | Monday, June 17: | Main Conference Day 1 |
 | -- | ------ |
@@ -73,14 +79,14 @@ table th:nth-of-type(2) {
 | Tuesday, June 18: | Main Conference Day 2 |
 | -- | ------ |
 | 08:30 -16:30 | Registration |
-| 09:00 - 10:30 | Orals, Posters, BoF & Affinity Groups |
+| 09:00 - 10:30 | Orals, SRW panel, BoF & Affinity Groups |
 | 10:30 - 11:00 | AM Coffee Break (coffee, tea & snacks included) |
 | 11:00 - 12:00 | Panel: Large Language Models (LLMs) and their Impact on Education: Karen Matías, Swapna Somasundaran, Victoria Yaneva, Ekaterina Kochmar |
 | 12:00 - 14:00 | Lunch Break (All attendees on their own) |
-| 14:00 - 15:00 | Business Meeting Don Alberto 2 - 3 Ballrooms |
+| 14:00 - 15:00 | Business Meeting (All Attendees Welcome) Don Alberto 2 - 3 Ballrooms |
 | 15:00 - 15:30 | PM Coffee Break (coffee, tea & snacks included) |
 | 15:30 - 17:00 | Posters, BoF & Affinity Groups |
-| 18:00 - 21:30 | Social Event Check-in |
+| 18:30 - 21:30 | Social Event Check-in |
 | 19:00 - 22:00 | Social Event |
 
 | Wednesday, June 19: | Main Conference Day 3 |
