@@ -23,7 +23,7 @@ We are happy to offer poster printing services. In order to cover the demand of 
 
 ### Payment
 Poster price is 300 Mexican Pesos per unit, taxes included (this is equivalent to around 18 USD). 
-Payment has to be done to the following link: [paypal.me/EnefectoPrint](paypal.me/EnefectoPrint). Make sure payment is done in Mexican Pesos.
+Payment has to be done to the following link: [paypal.me/EnefectoPrint](https://www.paypal.com/paypalme/EnefectoPrint). Make sure payment is done in Mexican Pesos.
 
 ### Deadline
 The deadline to submit your poster is on Friday, June 7th EOD, in order to deliver the printed pieces on Friday, June 14th at the beginning of the day. 
