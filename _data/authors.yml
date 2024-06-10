@@ -1,5 +1,10 @@
 # Authors: TODO: fill this in when publishing blogs.
 
+general-chair:
+  name        : "General Chair"
+  bio         : "Katrin Erk"
+  avatar      : "assets/images/logos/acl-logo-square.png"
+
 general-chair-program-chairs:
   name        : "Program Chairs and General Chair"
   bio         : "Kevin Duh, Helena Gomez, Steven Bethard (Program Chairs) and Katrin Erk (General Chair)"
