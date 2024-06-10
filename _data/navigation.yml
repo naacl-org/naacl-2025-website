@@ -30,6 +30,8 @@ program:
     children:
       - title: "Overview"
         url: /program/overview
+      - title: "Schedule on Underline"
+        url: https://underline.io/events/458/schedule?timeZone=America%2FMexico_City&day=2024-06-13T07%3A00%3A00.000Z
 #      - title: "Main Conference Schedule"
 #        url: /program/schedule/
 #      - title: "Conference Handbook (PDF)"
