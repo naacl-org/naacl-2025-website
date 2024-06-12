@@ -35,7 +35,7 @@ For all other questions, email: [naacl2024-programchairs@googlegroups.com](mailt
    institution="Universidad Nacional Autónoma de México"
 %}
 {% include bio-box
-   name="Steve Bethard"
+   name="Steven Bethard"
    picture="/assets/images/committee/steven_bethard.jpg"
    site="https://profiles.arizona.edu/person/bethard"
    institution="University of Arizona"
