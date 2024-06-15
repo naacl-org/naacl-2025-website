@@ -6,146 +6,118 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Registration"
-    subnav: registration
+#  - title: "Registration"
+#    subnav: registration
 
-  - title: "Info for Participants"
-    subnav: participants
+#  - title: "Info for Participants"
+#    subnav: participants
 
-  - title: "Calls"
-    subnav: calls
+#  - title: "Calls"
+#    subnav: calls
 
-  - title: "Program"
-    subnav: program
+#  - title: "Program"
+#    subnav: program
 
-  - title: "Sponsors"
-    url: /sponsors/
+#  - title: "Sponsors"
+#    url: /sponsors/
 
   - title: "Committees"
     subnav: committees
 
 
 program:
-  - title: Program Details
-    children:
-      - title: "Overview"
-        url: /program/overview
-      - title: "Schedule on Underline"
-        url: https://underline.io/events/458/schedule?timeZone=America%2FMexico_City&day=2024-06-13T07%3A00%3A00.000Z
-#      - title: "Main Conference Schedule"
-#        url: /program/schedule/
-#      - title: "Conference Handbook (PDF)"
-#        url: /downloads/handbook-final-v2.pdf
-      - title: "Keynotes"
-        url: /program/keynotes/
-      - title: "Tutorials"
-        url: /program/tutorials/
-#      - title: "Structured Socials"
-#        url: /blog/welcome-to-structured-socials/
-      - title: "Panel"
-        url: /program/panel/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Accepted Papers"
-        url: /program/accepted_papers/
-      - title: "Accepted Industry Track Papers"
-        url: /program/accepted_papers_industry/
-      - title: "Accepted Demo Papers"
-        url: /program/accepted_papers_demo/
-      - title: "Mexican NLP Summer School 2024"
-        url: https://ampln.github.io/escuelaverano2024/
-      - title: "Welcome Reception and Social Event "
-        url: /program/welcome/
-
-calls:
-  - title: Call for
-    children:
-      - title: "Main Conference Papers"
-        url: /calls/papers/
-      - title: "Industry Track Papers"
-        url: /calls/industry/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-#      - title: "Student Research Workshop Papers"
-#        url: /calls/srw/
-      - title: "Affinity Group Workshop Proposals"
-        url: /calls/affinity/
-      - title: "NAACL Diversity and Inclusion Subsidies"
-        url: /calls/subsidies/
-      - title: "NAACL 2024 Volunteers"
-        url: /calls/volunteers/
-#      - title: "Workshop Pre-submission Mentoring"
-#        url: /calls/workshop-mentoring/
+#  - title: Program Details
+#    children:
+#      - title: "Overview"
+#        url: /program/overview
+#      - title: "Schedule on Underline"
+#        url: https://underline.io/events/458/schedule?timeZone=America%2FMexico_City&day=2024-06-13T07%3A00%3A00.000Z
+##      - title: "Main Conference Schedule"
+##        url: /program/schedule/
+##      - title: "Conference Handbook (PDF)"
+##        url: /downloads/handbook-final-v2.pdf
+#      - title: "Keynotes"
+#        url: /program/keynotes/
 #      - title: "Tutorials"
-#        url: /calls/tutorials/
-#      - title: "Workshop Proposals"
-#        url: /calls/workshops/
-  #- title: Submission Material
-  #  children:
-  #    - title: "Area Descriptions"
-  #      url: /calls/area-descriptions/
-  #    - title: "Style Files and Formatting"
-  #      url: /calls/style-and-formatting/
-  #    - title: "Reproducibility Checklist"
-  #      url: /calls/reproducibility-checklist/
-  #- title: Archived calls
-  #  children:
-  #    - title: "First Call for Papers"
-  #      url: /calls/papers/first/
+#        url: /program/tutorials/
+##      - title: "Structured Socials"
+##        url: /blog/welcome-to-structured-socials/
+#      - title: "Panel"
+#        url: /program/panel/
+#      - title: "Workshops"
+#        url: /program/workshops/
+#      - title: "Accepted Papers"
+#        url: /program/accepted_papers/
+#      - title: "Accepted Industry Track Papers"
+#        url: /program/accepted_papers_industry/
+#      - title: "Accepted Demo Papers"
+#        url: /program/accepted_papers_demo/
+#      - title: "Mexican NLP Summer School 2024"
+#        url: https://ampln.github.io/escuelaverano2024/
+#      - title: "Welcome Reception and Social Event "
+#        url: /program/welcome/
 
-# ethics:
-#   - title: Ethics
-#     children:
-#       - title: "Ethics FAQ"
-#         url: /ethics/faq/
-#       - title: "Ethics Review Questions"
-#         url: /ethics/review-questions/
-#       - title: "Ethics Committee"
-#         url: /ethics/committee/
-# 
-# reviewer:
-#   - title: Reviewer
-#     children:
-#       - title: "Reviewer Instructions"
-#         url: /reviewer/instructions/
-#       - title: "Example Review Form"
-#         url: /downloads/NAACL2021-Review-Form.pdf
-#       - title: "Reviewing Advice"
-#         url: /reviewer/advice/
+#calls:
+#  - title: Call for
+#    children:
+#      - title: "Main Conference Papers"
+#        url: /calls/papers/
+#      - title: "Industry Track Papers"
+#        url: /calls/industry/
+#      - title: "System Demonstrations"
+#        url: /calls/demos/
+##      - title: "Student Research Workshop Papers"
+##        url: /calls/srw/
+#      - title: "Affinity Group Workshop Proposals"
+#        url: /calls/affinity/
+#      - title: "NAACL Diversity and Inclusion Subsidies"
+#        url: /calls/subsidies/
+#      - title: "NAACL 2024 Volunteers"
+#        url: /calls/volunteers/
+##      - title: "Workshop Pre-submission Mentoring"
+##        url: /calls/workshop-mentoring/
+##      - title: "Tutorials"
+##        url: /calls/tutorials/
+##      - title: "Workshop Proposals"
+##        url: /calls/workshops/
+#  #- title: Submission Material
+#  #  children:
+#  #    - title: "Area Descriptions"
+#  #      url: /calls/area-descriptions/
+#  #    - title: "Style Files and Formatting"
+#  #      url: /calls/style-and-formatting/
+#  #    - title: "Reproducibility Checklist"
+#  #      url: /calls/reproducibility-checklist/
+#  #- title: Archived calls
+#  #  children:
+#  #    - title: "First Call for Papers"
+#  #      url: /calls/papers/first/
 
-participants:
-  - title: Information for Participants
-    children:
-      - title: "Venue"
-        url: /participants/venue/
-      - title: "Presenter FAQ"
-        url: /participants/presenter-faq/
-#      - title: "Visa Information"
-#        url: /visa-info/
+#participants:
+#  - title: Information for Participants
+#    children:
+#      - title: "Venue"
+#        url: /participants/venue/
+#      - title: "Presenter FAQ"
+#        url: /participants/presenter-faq/
+##      - title: "Visa Information"
+##        url: /visa-info/
 
 committees:
   - title: Committees
     children:
       - title: "Organizing Committee"
         url: /committees/organization/
-      - title: "Senior Program Committee"
-        url: /committees/program/
-#      - title: "Industry Track SACs"
-#        url: /committees/industry/
-#      #- title: "Ethics Committee"
-#      #  url: /ethics/committee/
-#      - title: "Diversity & Inclusion Committee"
-#        url: /committees/diversity-inclusion/
-#      - title: "Technical Team"
-#        url: /committees/technical-team/
+#      - title: "Senior Program Committee"
+#        url: /committees/program/
 
 
-registration:
-  - title: Registration
-    children:
-      - title: "Registration"
-        url: /registration/registration/
-      - title: "Discounted Registration for Latin American Researchers"
-        url: /registration/discount/
-      - title: "Discounted Virtual Registration for Non-Presenters"
-        url: /registration/discount-virtual/
+#registration:
+#  - title: Registration
+#    children:
+#      - title: "Registration"
+#        url: /registration/registration/
+#      - title: "Discounted Registration for Latin American Researchers"
+#        url: /registration/discount/
+#      - title: "Discounted Virtual Registration for Non-Presenters"
+#        url: /registration/discount-virtual/

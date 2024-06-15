@@ -2,55 +2,55 @@
 
 general-chair:
   name        : "General Chair"
-  bio         : "Katrin Erk"
+  bio         : "Colin Cherry"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 general-chair-program-chairs:
   name        : "Program Chairs and General Chair"
-  bio         : "Kevin Duh, Helena Gomez, Steven Bethard (Program Chairs) and Katrin Erk (General Chair)"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 website-chairs:
   name        : "Website Chairs"
-  bio         : "Vered Shwartz and Xinya Du"
+  bio         : "Vered Shwartz and Arya McCarthy"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 diversity-chairs:
   name        : "Diversity and Inclusion Chairs"
-  bio         : "Ziyu Yao, Gemma Bel Enguix, Maria Pacheco"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 volunteer-chairs:
   name        : "Volunteer Chairs"
-  bio         : "Lucy Lu Wang, Liang Huang"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 program-chairs:
   name        : "Program Chairs"
-  bio         : "Kevin Duh, Helena Gomez, Steven Bethard"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 reproducibility-chairs:
   name        : "Reproducibility Chairs"
-  bio         : "Ghazaleh Kazeminejad, Koustuv Sinha, Peter Jansen, Pastor Lopez, Ian Magnusson"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 publicity-chairs:
   name        : "Publicity Chairs"
-  bio         : "Ximena Gutierrez-Vasques, Samuel Gonzalez-Lopez, Najoung Kim"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 tutorial-chairs:
   name        : "Tutorial Chairs"
-  bio         : "Rui Zhang, Nathan Schneider, Snigdha Chaturvedi"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 industry-track-chairs:
   name        : "Industry Track Chairs"
-  bio         : "Avi Sil, Yi Yang, Anoop Kumar, Aida Davani"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 demo-chairs:
   name        : "Demonstration Chairs"
-  bio         : "Nazneen Rajani, Kai-Wei Chang, and Annie Lee"
+  bio         : "..."
   avatar      : "assets/images/logos/acl-logo-square.png"
