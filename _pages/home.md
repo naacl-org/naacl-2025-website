@@ -3,8 +3,12 @@ title: "2025 Annual Conference of the North American Chapter of the Association 
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/venue/banner.png"
+
+  overlay_image: "/assets/images/venue/balloons.jpg"
+  caption: 'Photo by <a href="https://unsplash.com/@kajhinkson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kyle Hinkson</a> on <a href="https://unsplash.com/photos/hot-air-balloon-pfestival-xyXcGADvAwE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
+  
 excerpt: "Albuquerque, New Mexico"
+  
 secondary_excerpt: "April 29--May 4, 2025"
 ---
 
