@@ -31,6 +31,7 @@ secondary_excerpt: "April 29--May 4, 2025"
 <style>
 .dates-table del { color: #888; }
 </style>
+| Submission Deadline (via ACL Rolling Review) | | October 15, 2024 |
 | Welcome Reception | Tuesday | April 29, 2025 |
 | Main Conference | Wednesday--Friday | April 30--May 2, 2025 |
 | Tutorials and Workshops | Saturday--Sunday | May 3--4, 2025 |
