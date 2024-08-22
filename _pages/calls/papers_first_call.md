@@ -3,7 +3,7 @@ title: First Call for Main Conference Papers
 layout: single
 author: general-chair-program-chairs
 author_profile: true
-permalink: /calls/first_call_for_papers/
+permalink: /calls/papers/
 sidebar:
     nav: "calls"
 toc: true

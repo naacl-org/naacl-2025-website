@@ -12,8 +12,8 @@ main:
 #  - title: "Info for Participants"
 #    subnav: participants
 
-#  - title: "Calls"
-#    subnav: calls
+  - title: "Calls"
+    subnav: calls
 
 #  - title: "Program"
 #    subnav: program
@@ -57,11 +57,11 @@ program:
 #      - title: "Welcome Reception and Social Event "
 #        url: /program/welcome/
 
-#calls:
-#  - title: Call for
-#    children:
-#      - title: "Main Conference Papers"
-#        url: /calls/papers/
+calls:
+  - title: Call for
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/papers/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry/
 #      - title: "System Demonstrations"
