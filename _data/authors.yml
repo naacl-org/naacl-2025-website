@@ -7,7 +7,7 @@ general-chair:
 
 general-chair-program-chairs:
   name        : "Program Chairs and General Chair"
-  bio         : "..."
+  bio         : "Colin Cherry, Lu Wang, Alan Ritter, Luis Chiruzzo"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 website-chairs:
@@ -27,7 +27,7 @@ volunteer-chairs:
 
 program-chairs:
   name        : "Program Chairs"
-  bio         : "..."
+  bio         : "Lu Wang, Alan Ritter, Luis Chiruzzo"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 reproducibility-chairs:

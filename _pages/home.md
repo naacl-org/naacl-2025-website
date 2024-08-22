@@ -18,6 +18,7 @@ secondary_excerpt: "April 29--May 4, 2025"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Aug 21, 2024 | [First call for papers](/calls/first_call_for_papers/) is out
 | Jun 15, 2024 | [Blogpost](/blog/NAACL-2025-blog/): Welcome to the NAACL 2025 website!
 {: .news-table}
 
