@@ -15,6 +15,11 @@ website-chairs:
   bio         : "Vered Shwartz and Arya McCarthy"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
+workshop-chairs:
+  name        : "Workshop Chairs"
+  bio         : "Saab Mansour, Kenton Murray, and Alexis Palmer"
+  avatar      : "assets/images/logos/acl-logo-square.png"
+
 diversity-chairs:
   name        : "Diversity and Inclusion Chairs"
   bio         : "..."
@@ -42,7 +47,7 @@ publicity-chairs:
 
 tutorial-chairs:
   name        : "Tutorial Chairs"
-  bio         : "..."
+  bio         : "Maria Lomeli, Swabha Swayamdipta, and Rui Zhang"
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 industry-track-chairs:
