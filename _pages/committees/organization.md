@@ -235,6 +235,77 @@ toc_sticky: true
    institution="Amazon"
 %}
 
+## Volunteers Chairs
+
+{% include bio-box
+   name="Robin Jia"
+   picture="/assets/images/committee/Robin_Jia.jpg"
+   site="https://robinjia.github.io/"
+   institution="University of Southern California"
+%}
+{% include bio-box
+   name="David Mortensen"
+   picture="/assets/images/committee/David_Mortensen.png"
+   site="https://www.cs.cmu.edu/~dmortens/"
+   institution="Carnegie Mellon University"
+%}
+
+## Handbook Chair
+
+{% include bio-box
+   name="Winston Wu"
+   picture="/assets/images/committee/Winston_Wu.jpg"
+   site="https://wswu.github.io/"
+   institution="University of Hawaiʻi at Hilo"
+%}
+
+## Sponsorship Chairs
+
+{% include bio-box
+   name="Prithviraj (Raj) Ammanabrolu"
+   picture="/assets/images/committee/Raj_Ammanabrolu.jpg"
+   site="https://prithvirajva.com/"
+   institution="University of California, San Diego"
+%}
+{% include bio-box
+   name="Maha Elbayad"
+   picture="/assets/images/committee/Maha_Elbayad.jpg"
+   site="https://elbayadm.github.io/"
+   institution="Meta"
+%}
+
+## Diversity & Inclusion Chairs
+
+Email: [naacl2025-dei-chairs@googlegroups.com](emailto:naacl2025-dei-chairs@googlegroups.com)
+
+{% include bio-box
+   name="Chi-Kiu (Jackie) Lo"
+   picture="/assets/images/committee/Jackie_Lo.jpg"
+   site="https://chikiu-jackie-lo.org/"
+   institution="National Research Council Canada"
+%}
+{% include bio-box
+   name="Niloofar Mireshghallah"
+   picture="/assets/images/committee/Niloofar_Mireshghallah.jpg"
+   site="https://homes.cs.washington.edu/~niloofar/"
+   institution="University of Washington"
+%}
+{% include bio-box
+   name="Akiko Eriguchi"
+   picture="/assets/images/committee/Akiko_Eriguchi.jpg"
+   site="https://www.microsoft.com/en-us/research/people/akikoe/"
+   institution="Microsoft"
+%}
+
+## Virtual Infrastructure Chair
+
+{% include bio-box
+   name="Jieyu Zhao"
+   picture="/assets/images/committee/Jieyu_Zhao.jpg"
+   site="https://jyzhao.net/"
+   institution="University of Southern California"
+%}
+
 ## Website Chairs
 
 {% include bio-box
