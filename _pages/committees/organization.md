@@ -79,6 +79,162 @@ toc_sticky: true
    institution="Penn State University"
 %}
 
+## Industry Track Chairs
+
+{% include bio-box
+   name="Weizhu Chen"
+   picture="/assets/images/committee/Weizhu_Chen.jpg"
+   site="https://www.microsoft.com/en-us/research/people/wzchen/"
+   institution="Microsoft"
+%}
+{% include bio-box
+   name="Yi Yang"
+   picture="/assets/images/committee/Yi_Yang.jpg"
+   site="https://yiyangnlp.github.io/"
+   institution="ASAPP"
+%}
+{% include bio-box
+   name="Mohammad Kachuee"
+   picture="/assets/images/committee/Mohammad_Kachuee.jpeg"
+   site="https://scholar.google.com/citations?user=GJ1sDlEAAAAJ&hl=en"
+   institution="Meta"
+%}
+{% include bio-box
+   name="Xue-Yong Fu"
+   picture="/assets/images/committee/Xue-Yong_Fu.jpeg"
+   site="https://scholar.google.ca/citations?user=E9GHluYAAAAJ&hl=en"
+   institution="Dialpad"
+%}
+
+## Demo Track Chairs
+
+{% include bio-box
+   name="Nouha Dziri"
+   picture="/assets/images/committee/Nouha_Dziri.jpg"
+   site="https://nouhadziri.github.io/"
+   institution="Allen Institute for AI"
+%}
+{% include bio-box
+   name="Shizhe Diao"
+   picture="/assets/images/committee/Shizhe_Diao.jpg"
+   site="https://shizhediao.github.io/"
+   institution="NVIDIA Research"
+%}
+{% include bio-box
+   name="Sean (Xiang) Ren"
+   picture="/assets/images/committee/Xiang_Ren.jpg"
+   site="https://www.seanre.com/"
+   institution="University of Southern California"
+%}
+
+## Publication Chairs
+
+{% include bio-box
+   name="Yichao Zhou"
+   picture="/assets/images/committee/Yichao_Zhou.png"
+   site="https://yz-joey.github.io/"
+   institution="Google"
+%}
+{% include bio-box
+   name="Manling Li"
+   picture="/assets/images/committee/Manling_Li.jpg"
+   site="https://limanling.github.io/"
+   institution="Northwestern University"
+%}
+{% include bio-box
+   name="Arman Cohan"
+   picture="/assets/images/committee/Arman_Cohan.jpg"
+   site="https://armancohan.com/"
+   institution="Yale University"
+%}
+
+## Student Research Workshop Chairs
+
+{% include bio-box
+   name="Abteen Ebrahimi"
+   picture="/assets/images/committee/Abteen_Ebrahimi.jpeg"
+   site="https://scholar.google.com/citations?user=38YRik0AAAAJ&hl=en"
+   institution="University of Colorado Boulder"
+%}
+{% include bio-box
+   name="Emmy Liu"
+   picture="/assets/images/committee/Emmy_Liu.jpeg"
+   site="https://nightingal3.github.io/"
+   institution="Carnegie Mellon University"
+%}
+{% include bio-box
+   name="Samar Haider"
+   picture="/assets/images/committee/Samar_Haider.jpg"
+   site="https://samarh.github.io/"
+   institution="University of Pennsylvania"
+%}
+
+### Faculty Advisors for the Student Research Workshop
+
+{% include bio-box
+   name="Maria Leonor Pacheco"
+   picture="/assets/images/committee/Maria_Leonor_Pacheco.jpg"
+   site="https://blast-cu.github.io/mlpacheco/"
+   institution="University of Colorado Boulder"
+%}
+{% include bio-box
+   name="Shira Wein"
+   picture="/assets/images/committee/Shira_Wein.jpg"
+   site="https://shirawein.github.io/"
+   institution="Amherst College"
+%}
+
+## Visa Chairs
+
+{% include bio-box
+   name="Eduardo Blanco"
+   picture="/assets/images/committee/Eduardo_Blanco.jpg"
+   site="https://eduardoblanco.github.io/"
+   institution="University of Arizona"
+%}
+{% include bio-box
+   name="Parisa Kordjamshidi"
+   picture="/assets/images/committee/Parisa_Kordjamshidi.png"
+   site="https://www.cse.msu.edu/~kordjams/"
+   institution="Michigan State University"
+%}
+
+## Publicity Chairs
+
+{% include bio-box
+   name="Ximena Gutierrez-Vasques"
+   picture="/assets/images/committee/Ximena_Gutierrez-Vasques.jpg"
+   site="https://sites.google.com/site/xgutierrezv/"
+   institution="Universidad Nacional Autónoma de México"
+%}
+{% include bio-box
+   name="Eleftheria Briakou"
+   picture="/assets/images/committee/Eleftheria_Briakou.jpg"
+   site="https://elbria.github.io/"
+   institution="Google"
+%}
+{% include bio-box
+   name="Tuhin Chakrabarty"
+   picture="/assets/images/committee/Tuhin_Chakrabarty.jpeg"
+   site="https://tuhinjubcse.github.io/"
+   institution="Stony Brook University"
+%}
+
+## Ethics Chairs
+
+{% include bio-box
+   name="Yulia Tsvetkov"
+   picture="/assets/images/committee/Yulia_Tsvetkov.jpg"
+   site="https://homes.cs.washington.edu/~yuliats/"
+   institution="University of Washington"
+%}
+{% include bio-box
+   name="Manuel Mager"
+   picture="/assets/images/committee/Manuel_Mager.jpeg"
+   site="https://scholar.google.com.mx/citations?user=AtfatawAAAAJ&hl=en"
+   institution="Amazon"
+%}
+
 ## Website Chairs
 
 {% include bio-box
