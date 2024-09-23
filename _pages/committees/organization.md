@@ -186,6 +186,8 @@ toc_sticky: true
 
 ## Visa Chairs
 
+Email: [naacl2025-visa-chairs@googlegroups.com](emailto:naacl2025-visa-chairs@googlegroups.com)
+
 {% include bio-box
    name="Eduardo Blanco"
    picture="/assets/images/committee/Eduardo_Blanco.jpg"
