@@ -18,7 +18,7 @@ We invite submissions describing innovations and implementations in all areas of
 
 Papers must be submitted using the following link:
 
-[https://openreview.net/group?id=aclweb.org/NAACL/2025/Industry_Track](https://openreview.net/group?id=aclweb.org/NAACL/2024/Industry_Track)
+[https://openreview.net/group?id=aclweb.org/NAACL/2025/Industry_Track](https://openreview.net/group?id=aclweb.org/NAACL/2025/Industry_Track)
 
 
 ## Important Dates
