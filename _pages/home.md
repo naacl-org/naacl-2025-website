@@ -18,6 +18,7 @@ secondary_excerpt: "April 29--May 4, 2025"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Oct 8, 2024 | [Call for industry track papers](/calls/industry/) is out
 | Oct 1, 2024 | [Second call for papers](/calls/papers/) is out
 | Sep 10, 2024 | The [ACL-NAACL-EMNLP joint call for tutorials](/calls/tutorials/) is out
 | Sep 10, 2024 | The [ACL-NAACL-EMNLP joint call for workshops](/calls/workshops/) is out

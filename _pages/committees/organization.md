@@ -81,6 +81,8 @@ toc_sticky: true
 
 ## Industry Track Chairs
 
+Email: [naacl2025-industry@googlegroups.com](mailto:naacl2025-industry@googlegroups.com)
+
 {% include bio-box
    name="Weizhu Chen"
    picture="/assets/images/committee/Weizhu_Chen.jpg"

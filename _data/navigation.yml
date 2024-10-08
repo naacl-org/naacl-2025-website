@@ -62,8 +62,8 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
-#      - title: "Industry Track Papers"
-#        url: /calls/industry/
+      - title: "Industry Track Papers"
+        url: /calls/industry/
 #      - title: "System Demonstrations"
 #        url: /calls/demos/
 ##      - title: "Student Research Workshop Papers"
