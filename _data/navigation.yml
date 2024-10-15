@@ -64,8 +64,8 @@ calls:
         url: /calls/papers/
       - title: "Industry Track Papers"
         url: /calls/industry/
-#      - title: "System Demonstrations"
-#        url: /calls/demos/
+      - title: "System Demonstrations"
+        url: /calls/demos/
 ##      - title: "Student Research Workshop Papers"
 ##        url: /calls/srw/
 #      - title: "Affinity Group Workshop Proposals"
