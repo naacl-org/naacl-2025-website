@@ -3,7 +3,7 @@ title: Call for System Demonstrations
 layout: single
 author: demo-chairs
 author_profile: true
-permalink: /calls/tutorials/
+permalink: /calls/demo/
 sidebar:
     nav: "calls"
 toc: true
