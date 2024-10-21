@@ -324,3 +324,39 @@ Email: [naacl2025-dei-chairs@googlegroups.com](emailto:naacl2025-dei-chairs@goog
    site="https://aryamccarthy.github.io/"
    institution="Scaled Cognition"
 %}
+
+## Best Paper Chairs
+	
+{% include bio-box
+   name="Marine Carpuat"
+   picture="/assets/images/committee/Marine_Carpuat.jpeg"
+   site="https://www.cs.umd.edu/~marine/"
+   institution="University of Maryland"
+%}
+{% include bio-box
+   name="Anna Rumshisky"
+   picture="/assets/images/committee/Anna_Rumshisky.jpg"
+   site="https://www.cs.uml.edu/~arum/"
+   institution="University of Massachusetts Lowell"
+%}
+
+## ARR Editors in Chief
+	
+{% include bio-box
+   name="Viviane Moreira"
+   picture="/assets/images/committee/Viviane_Moreira.webp"
+   site="https://www.vivianemoreira.org/"
+   institution="Universidade Federal do Rio Grande do Sul"
+%}
+{% include bio-box
+   name="Anna Rogers"
+   picture="/assets/images/committee/Anna_Rogers.jpg"
+   site="https://annargrs.github.io/"
+   institution="University of Copenhagen"
+%}
+{% include bio-box
+   name="Michael White"
+   picture="/assets/images/committee/Michael_White.jpeg"
+   site="https://u.osu.edu/white.1240/"
+   institution="Ohio State University"
+%}
