@@ -9,8 +9,8 @@ main:
 #  - title: "Registration"
 #    subnav: registration
 
-#  - title: "Info for Participants"
-#    subnav: participants
+  - title: "Info for Participants"
+    subnav: participants
 
   - title: "Calls"
     subnav: calls
@@ -93,15 +93,15 @@ calls:
 #  #    - title: "First Call for Papers"
 #  #      url: /calls/papers/first/
 
-#participants:
-#  - title: Information for Participants
-#    children:
+participants:
+  - title: Information for Participants
+    children:
 #      - title: "Venue"
 #        url: /participants/venue/
 #      - title: "Presenter FAQ"
 #        url: /participants/presenter-faq/
-##      - title: "Visa Information"
-##        url: /visa-info/
+      - title: "Visa Information"
+        url: /participants/visa-info/
 
 committees:
   - title: Committees
