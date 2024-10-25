@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 ---
 
-The North American Chapter of the ACL - Human Language Technologies (NAACL-HLT), the Association for Computational Linguistics (ACL), and the Conference on Empirical Methods in Natural Language Processing (EMNLP) invite proposals for tutorials in conjunction with **NAACL-HLT 2025, ACL 2025**, and **EMNLP 2025 conferences**. We seek proposals in all areas of computational linguistics (CL) / natural language processing (NLP), broadly conceived to include related disciplines. We invite proposals for two types of tutorials:
+The Nations of the Americas Chapter of the ACL - Human Language Technologies (NAACL-HLT), the Association for Computational Linguistics (ACL), and the Conference on Empirical Methods in Natural Language Processing (EMNLP) invite proposals for tutorials in conjunction with **NAACL-HLT 2025, ACL 2025**, and **EMNLP 2025 conferences**. We seek proposals in all areas of computational linguistics (CL) / natural language processing (NLP), broadly conceived to include related disciplines. We invite proposals for two types of tutorials:
 
 1. **Cutting-edge in CL / NLP**: Tutorials that cover advances in newly emerging areas not previously covered in any EACL/NAACL-HLT/ACL/EMNLP related tutorial (see the [list of tutorials](https://www.aclweb.org/adminwiki/index.php/Past_tutorials) in the past 9 years), or
 2. **Introductory to fields related to CL / NLP**: Tutorials that provide introductions to related fields that are potentially relevant for the CL / NLP community (e.g., linguistics, bioinformatics, machine learning techniques, human-computer interaction, large language models for non-English languages, etc.).

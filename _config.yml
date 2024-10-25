@@ -23,7 +23,7 @@ title                    : "NAACL-HLT 2025"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "NAACL"
-description              : "Official website for the 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+description              : "Official website for the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies"
 url                      : "https://2025.naacl.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "naacl-org/naacl-2025-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

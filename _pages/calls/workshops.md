@@ -14,7 +14,7 @@ The Association for Computational Linguistics, the European Language Resource As
 
 Workshops will be held at one of the following conference venues:
 
-* [NAACL 2025](https://2025.naacl.org/) (The 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics), which will be a hybrid conference, and physically held in Albuquerque, New Mexico, USA from April 29 - May 4, 2025
+* [NAACL 2025](https://2025.naacl.org/) (The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics), which will be a hybrid conference, and physically held in Albuquerque, New Mexico, USA from April 29 - May 4, 2025
 * [ACL 2025](https://2025.aclweb.org/) (The 63rd Annual Meeting of the Association for Computational Linguistics) which will be held as a hybrid conference, and physically held in Vienna, Austria from July 27 - August 1, 2025
 * EMNLP 2025 (The 2025 Conference on Empirical Methods in Natural Language Processing) which will be held as a hybrid conference, with the physical location and dates to be confirmed.
 
