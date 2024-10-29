@@ -15,8 +15,8 @@ main:
   - title: "Calls"
     subnav: calls
 
-#  - title: "Program"
-#    subnav: program
+  - title: "Program"
+    subnav: program
 
 #  - title: "Sponsors"
 #    url: /sponsors/
@@ -26,8 +26,8 @@ main:
 
 
 program:
-#  - title: Program Details
-#    children:
+  - title: Program Details
+    children:
 #      - title: "Overview"
 #        url: /program/overview
 #      - title: "Schedule on Underline"
@@ -44,8 +44,8 @@ program:
 ##        url: /blog/welcome-to-structured-socials/
 #      - title: "Panel"
 #        url: /program/panel/
-#      - title: "Workshops"
-#        url: /program/workshops/
+      - title: "Workshops"
+        url: /program/workshops/
 #      - title: "Accepted Papers"
 #        url: /program/accepted_papers/
 #      - title: "Accepted Industry Track Papers"

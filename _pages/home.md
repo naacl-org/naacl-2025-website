@@ -18,6 +18,7 @@ secondary_excerpt: "April 29--May 4, 2025"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Oct 29, 2024 | The [Student Research Workshop](https://naacl2025-srw.github.io/) will happen on April 30, 2025
 | Oct 25, 2024 | [Visa information](/participants/visa-info/) is available
 | Oct 25, 2024 | [Blogpost](/blog/name-change/): NAACL 2025 is now the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL
 | Oct 15, 2024 | [Call for System Demonstrations](/calls/demo/) is out
