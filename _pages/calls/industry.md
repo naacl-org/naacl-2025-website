@@ -53,7 +53,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
   </tr>
 </table>
 
-
+Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.
 
 ## Topics of Interest
 
