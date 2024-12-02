@@ -88,7 +88,6 @@ The reviewing process will continue to be double-blind. Reviewers will not see a
 * 30 Oct 2024 - 18 Nov 2024: Reviewing period for ARR 2024 October
 * 11 Nov 2024: Notification of desk rejection for submissions to ARR 2024 October that violate policy
 * 22 Nov 2024 - 26 Nov 2024: Author response period for ARR 2024 October
-* 27 Nov 2024 - 2 Dec 2024: Review revision period for ARR 2024 October
 * **12 Dec 2024: Reviews and meta-reviews released for ARR 2024 October**
 * **16 Dec 2024: Commitment deadline for NAACL 2025**
 * **22 Jan 2025: Notification of acceptance for NAACL 2025**
