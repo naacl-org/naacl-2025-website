@@ -30,7 +30,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
   <tr>
    <td>Paper submission deadline
    </td>
-   <td>December 2, 2024
+   <td>~~December 2, 2024~~ December 2, 2024
    </td>
   </tr>
   <tr>
