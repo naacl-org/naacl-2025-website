@@ -80,7 +80,7 @@ We will present a Best Demo Paper Award. The winner will be chosen based on the 
 All submissions should be made electronically via OpenReview. Submissions must include:
 
 * A paper describing the motivation and technical details of the system, including visual aids (e.g., screenshots, snapshots, or diagrams). See examples of recently accepted demo papers in *ACL conferences.
-    * The papers must be no more than six (6) pages, plus extra space for an optional ethics/broader impact statement and unlimited references. Please use the main NAACL 2025 paper-style files. Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account.
+    * The papers must be no more than six (6) pages, plus extra space for an optional ethics/broader impact statement and unlimited appendix and references. Authors may also include acknowledgments, which do not count toward the six-page limit. Please use the main NAACL 2025 paper-style files. Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account.
     * Any papers that do not follow the official style guidelines and page limits will be automatically rejected.
 * A short (max. 2 minutes) video demonstrating the system. This video will be used to evaluate the paper, but won’t be published unless requested.
     * A [screencast](https://en.wikipedia.org/wiki/Screencast) with audio narration is a natural choice for demos that can be presented on a screen. Otherwise, a video of a user interacting with the system can be used (see [this video](https://sounding-board.github.io/demo.html) demonstrating the sounding board system as an example).
