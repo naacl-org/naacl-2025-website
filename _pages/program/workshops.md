@@ -31,17 +31,13 @@ We will update the date and location for each workshop soon.
 | [Cognitive Modeling and Computational Linguistics (CMCL) 2025](https://cmclorg.github.io/) |  |
 | [The 10th Workshop on Representation Learning for NLP (RepL4NLP-2025)](https://sites.google.com/view/repl4nlp2025) |  |
 | [The Eighth Workshop on Technologies for Machine Translation of Low Resource Languages (LoResMT  2025)](https://sites.google.com/view/loresmt/) |  |
-| [The 5th Wordplay: When Language Meets Games Workshop]() |  |
 | [The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods]() |  |
 | [The 9th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2025)](https://sighum.wordpress.com/events/latech-clfl-2025/) |  |
 | [The Seventh Workshop on Narrative Understanding](https://tinyurl.com/wnu25) |  |
-| [Sixth Workshop on Privacy in Natural Language Processing](https://sites.google.com/view/privatenlp/home?authuser=0) |  |
-| [The 5th Workshop on Trustworthy NLP (TrustNLP 2024)]() |  |
 | [Joint Workshop on Privacy and Trustworthiness in NLP](https://sites.google.com/view/privtrustnlp) |  |
 | [21st Workshop on Multiword Expressions (MWE 2025): Organized, sponsored and endorsed by SIGLEX, the Special Interest Group on the Lexicon of the ACL]() |  |
 | [Fourth Workshop on Intelligent and Interactive Writing Assistants](https://in2writing.glitch.me) |  |
 | [The Sixths Workshop on Insights from Negative Results in NLP](https://insights-workshop.github.io/) |  |
-| [The 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)]() |  |
 | [AI and Scientific Discovery: Directions and Opportunities](https://ai-and-scientific-discovery.github.io) |  |
 | [Tenth Workshop on Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) |  |
 | [Queer in AI workshop](https://www.queerinai.com/naacl-2025) |  |
@@ -50,6 +46,5 @@ We will update the date and location for each workshop soon.
 | [The Fifth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/) |  |
 | [The Second Workshop on Ancient Language Processing (ALP2025)](https://www.ancientnlp.com/alp2025/) |  |
 | [The Seventh Workshop on Computational Approaches to Linguistic Code Switching](https://code-switching.github.io/) |  |
-| [Cross-Cultural Considerations in NLP (C3NLP) 2025](https://c3nlp.github.io/) |  |
 | [Towards Knowledgeable Foundation Models]() |  |
 | [The 5th International Conference on Natural Language Processing for Digital Humanities](https://www.nlp4dh.com/nlp4dh-2025) |  |
