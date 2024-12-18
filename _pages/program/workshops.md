@@ -48,3 +48,4 @@ We will update the date and location for each workshop soon.
 | [The Seventh Workshop on Computational Approaches to Linguistic Code Switching](https://code-switching.github.io/) |  |
 | [Towards Knowledgeable Foundation Models]() |  |
 | [The 5th International Conference on Natural Language Processing for Digital Humanities](https://www.nlp4dh.com/nlp4dh-2025) |  |
+| [Cross-Cultural Considerations in NLP (C3NLP) 2025](https://c3nlp.github.io) |  |
