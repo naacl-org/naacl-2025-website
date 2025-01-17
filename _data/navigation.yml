@@ -96,8 +96,8 @@ calls:
 participants:
   - title: Information for Participants
     children:
-#      - title: "Venue"
-#        url: /participants/venue/
+      - title: "Venue"
+        url: /participants/venue/
 #      - title: "Presenter FAQ"
 #        url: /participants/presenter-faq/
       - title: "Visa Information"
