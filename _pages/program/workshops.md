@@ -34,7 +34,7 @@ We will update the date and location for each workshop soon.
 | [The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods]() |  |
 | [The 9th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2025)](https://sighum.wordpress.com/events/latech-clfl-2025/) |  |
 | [The Seventh Workshop on Narrative Understanding](https://tinyurl.com/wnu25) |  |
-| [Sixth Workshop on Privacy in Natural Language Processing](https://sites.google.com/view/privatenlp/home?authuser=0) | |
+| [Sixth Workshop on Privacy in Natural Language Processing](https://sites.google.com/view/privatenlp2025/) | |
 | [The 5th Workshop on Trustworthy NLP (TrustNLP 2025)](https://trustnlpworkshop.github.io/) | |
 | [21st Workshop on Multiword Expressions (MWE 2025): Organized, sponsored and endorsed by SIGLEX, the Special Interest Group on the Lexicon of the ACL]() |  |
 | [Fourth Workshop on Intelligent and Interactive Writing Assistants](https://in2writing.glitch.me) |  |
