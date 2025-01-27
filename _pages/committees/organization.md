@@ -93,7 +93,7 @@ Email: [naacl2025-industry@googlegroups.com](mailto:naacl2025-industry@googlegro
    name="Yi Yang"
    picture="/assets/images/committee/Yi_Yang.jpg"
    site="https://yiyangnlp.github.io/"
-   institution="ASAPP"
+   institution="Meta"
 %}
 {% include bio-box
    name="Mohammad Kachuee"
