@@ -38,8 +38,8 @@ program:
 ##        url: /downloads/handbook-final-v2.pdf
 #      - title: "Keynotes"
 #        url: /program/keynotes/
-#      - title: "Tutorials"
-#        url: /program/tutorials/
+      - title: "Tutorials"
+        url: /program/tutorials/
 ##      - title: "Structured Socials"
 ##        url: /blog/welcome-to-structured-socials/
 #      - title: "Panel"
