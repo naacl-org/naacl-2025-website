@@ -36,13 +36,13 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
   <tr>
    <td>Notification of acceptance
    </td>
-   <td>February 5, 2025
+   <td><s>February 5, 2025</s> February 12, 2025
    </td>
   </tr>
   <tr>
    <td>Camera-ready version of papers due
    </td>
-   <td>February 14, 2025
+   <td><s>February 14, 2025</s> February 21, 2025
    </td>
   </tr>
   <tr>
