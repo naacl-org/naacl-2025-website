@@ -295,7 +295,7 @@ Email: [naacl2025-dei-chairs@googlegroups.com](emailto:naacl2025-dei-chairs@goog
    institution="University of Washington"
 %}
 {% include bio-box
-   name="Akiko Eriguchi"
+   name="Akiko I. Eriguchi"
    picture="/assets/images/committee/Akiko_Eriguchi.jpg"
    site="https://www.microsoft.com/en-us/research/people/akikoe/"
    institution="Microsoft"
