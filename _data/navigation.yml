@@ -70,8 +70,8 @@ calls:
 ##        url: /calls/srw/
 #      - title: "Affinity Group Workshop Proposals"
 #        url: /calls/affinity/
-#      - title: "NAACL Diversity and Inclusion Subsidies"
-#        url: /calls/subsidies/
+      - title: "NAACL Diversity and Inclusion Subsidies"
+        url: /calls/subsidies/
       - title: "Volunteers"
         url: /calls/volunteers/
 ##      - title: "Workshop Pre-submission Mentoring"
