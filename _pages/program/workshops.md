@@ -24,10 +24,6 @@ table th:nth-of-type(3) {
 }
 </style>
 
-| <span>Tuesday</span> | <span>April 30, 2025, 09:00 - 17:30 </span> | 
-| -- | -- | -- |
-| | [Student Research Workshop](https://naacl2025-srw.github.io/) |  |
-
 | <span>Saturday</span> | <span>May 3, 2025, 09:00 - 17:30 </span> | 
 | -- | -- | -- |
 | W01 | [First Workshop on AI and Scientific Discovery: Directions and Opportunities (AISD)](https://ai-and-scientific-discovery.github.io/) | Picuris/Sandia | 
