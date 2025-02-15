@@ -32,7 +32,7 @@ Breakfast, lunch, and dinner are not provided
 
 | 07:30 - 16:30 | Registration | 
 | 09:00 - 09:30 | Session A: Plenary - Opening Session  | 
-| 09:30 - 10:30 | Session A: Plenary -  Keynote Speaker: Rada Mihalcea | 
+| 09:30 - 10:30 | Session A: Plenary -  Keynote Speaker: [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (University of Michigan) | 
 | 10:30 - 11:00 | Break | 
 | 11:00 - 12:30 | Session B: Orals/Posters/Demos/BOF: Session 1 | 
 | 12:30 - 14:00 | Lunch | 
@@ -45,7 +45,7 @@ Breakfast, lunch, and dinner are not provided
 Breakfast, lunch, and dinner are not provided
 
 | 08:30 - 16:30 | Registration  | 
-| 09:00 - 10:30 | Session E: Plenary - Keynote Speaker: Mike Lewis | 
+| 09:00 - 10:30 | Session E: Plenary - Keynote Speaker: [Mike Lewis](https://ai.meta.com/people/209431298931133/mike-lewis/) (Meta) | 
 | 10:00 - 10:30 | Break |
 | 10:30 - 12:00 | Session F: Orals/Posters/Demos/BOF: Session 4 | 
 | 12:00 - 13:00 | Lunch | 
@@ -63,7 +63,7 @@ Breakfast, lunch, and dinner are not provided
 | 10:30 - 11:00 | Break | 
 | 11:00 - 12:30 | Session K: Orals/Posters/Demos/BOF: Session 8 | 
 | 12:30 - 14:00 | Lunch | 
-| 14:00 - 15:00 | Session L: Keynote Speaker | 
+| 14:00 - 15:00 | Session L: Keynote Speaker: [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) (MIT) | 
 | 15:00 - 15:30 | Break | 
 | 15:30 - 16:30 | Session M: Best Paper Awards | 
 | 16:30 - 17:00 | Session M: Closing Session | 
