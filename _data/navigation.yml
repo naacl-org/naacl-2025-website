@@ -6,8 +6,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-#  - title: "Registration"
-#    subnav: registration
+  - title: "Registration"
+    subnav: registration
 
   - title: "Info for Participants"
     subnav: participants
@@ -112,11 +112,11 @@ committees:
 #        url: /committees/program/
 
 
-#registration:
-#  - title: Registration
-#    children:
-#      - title: "Registration"
-#        url: /registration/registration/
+registration:
+  - title: Registration
+    children:
+      - title: "Registration"
+        url: /registration/registration/
 #      - title: "Discounted Registration for Latin American Researchers"
 #        url: /registration/discount/
 #      - title: "Discounted Virtual Registration for Non-Presenters"
