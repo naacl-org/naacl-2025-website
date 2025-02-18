@@ -18,8 +18,8 @@ main:
   - title: "Program"
     subnav: program
 
-#  - title: "Sponsors"
-#    url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
 
   - title: "Committees"
     subnav: committees
