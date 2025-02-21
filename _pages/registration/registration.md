@@ -7,11 +7,11 @@ sidebar:
     nav: "registration"
 ---
 
-[comment]: <> (**Registration is officially open, register now at: [http://acl.swoogo.com/naacl2025]&#40;http://acl.swoogo.com/naacl2025&#41;**)
+**Registration is officially open, register now at: [http://acl.swoogo.com/naacl2025](http://acl.swoogo.com/naacl2025)**
 
 The registration pricing below has been proposed to the ACL Board for approval. Prices are not final. 
 Final registration prices and schedule will be posted on or about February 19th. Registration will open the week of February 24th. 
-The ACL & NAACL Exec have put together the registration fee.
+In order to keep prices affordable for students, The ACL Board has introduced a three-tier system, listed below.
 
 # Authors Registration Fees
 
