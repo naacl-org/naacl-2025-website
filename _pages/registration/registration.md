@@ -46,9 +46,9 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 
 # Cancelation Policy
 
-Cancellation of registration one month or more prior to the conference (March 29th, 2025, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
+Cancellation of registration one month or more prior to the conference (April 1st, 2025, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
 
-Cancellations up to three weeks prior to the conference (April 8th, 2025) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200. Cancellations 2 weeks prior to start of the conference (April 14th, 2025), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
+Cancellations up to three weeks prior to the conference (April 8th, 2025) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200. Cancellations 2 weeks prior to start of the conference (April 15th, 2025), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
 
 Exceptions: Cancellation due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting the above cancellation exceptions.
 
