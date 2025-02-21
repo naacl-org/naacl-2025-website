@@ -56,7 +56,7 @@ Exceptions: Cancellation due to governmental travel restrictions, failure to obt
 
 **Early Registration: February 20--April 7**
 
-**Late Registration April 8--April 25**
+**Late Registration April 8--April 28**
 
 **Onsite Registration April 29--May 7**
 
