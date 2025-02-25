@@ -49,7 +49,7 @@ Please note: Commercial sales and marketing activities are not appropriate in th
   <tr>
    <td>Notification of acceptance
    </td>
-   <td>Feb 24, 2025
+   <td><strike>Feb 24, 2025</strike> Feb 28, 2025
    </td>
   </tr>
   <tr>
