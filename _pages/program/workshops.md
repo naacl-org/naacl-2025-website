@@ -33,7 +33,7 @@ table th:nth-of-type(3) {
 | W05 | [Fifth Workshop on Speech and Language Technologies for Dravidian Languages (DravidianLangTech)](https://sites.google.com/view/dravidianlangtech-2025/) | Acoma | 
 | W06 | The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods | La Cienega | 
 | W07 | [The Eighth Workshop on Technologies for Machine Translation of Low Resource Languages (LoResMT)](https://sites.google.com/view/loresmt/) | Cochiti | 
-| W08 | [22nd SIGMORPHON Workshop on Computational Morphology, Phonology, and Phonetics (SIGMORPHON)](https://sigmorphon.github.io/workshops/) | Tigeras | 
+| W08 | [22nd SIGMORPHON Workshop on Computational Morphology, Phonology, and Phonetics (SIGMORPHON)](https://sigmorphon.github.io/workshops/) | Laguna | 
 | W09 | [Tenth Workshop on Noisy and User-generated Text (W-NUT)](http://noisy-text.github.io/) | Navajo/Nambe |
 | W10 | [The 5th Workshop on Trustworthy NLP (TrustNLP)](https://trustnlpworkshop.github.io/) | San Miguel | 
 | W11 | [5th International Conference on Natural Language Processing for Digital Humanities (NLP4DH)](https://www.nlp4dh.com/nlp4dh-2025) | Taos |
@@ -41,7 +41,7 @@ table th:nth-of-type(3) {
 | <span>Sunday</span> | <span>May 4, 2025, 09:00 - 17:30 </span> | 
 | -- | -- | -- |
 | W11 | [5th International Conference on Natural Language Processing for Digital Humanities (NLP4DH)](https://www.nlp4dh.com/nlp4dh-2025) | Taos |  
-| W12 | [The Second Workshop on Ancient Language Processing (ALP)](https://www.ancientnlp.com/alp2025/) | Tigeras |  
+| W12 | [The Second Workshop on Ancient Language Processing (ALP)](https://www.ancientnlp.com/alp2025/) | Laguna |  
 | W13 | [The Fifth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/) | La Cienega |  
 | W14 | [The Third Workshop on Cross-Cultural Considerations in NLP (C3NLP)](https://c3nlp.github.io/) | Pecos |  
 | W15 | [Second Workshop on Patient-oriented Language Processing (CL4Health)](https://bionlp.nlm.nih.gov/cl4health2025/) | Cochiti |  

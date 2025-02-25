@@ -23,7 +23,7 @@ platinum:
     image_path: /assets/images/logos/Baidu Logo-RGB.png
     alt: Baidu
     title: Baidu
-  - url: https://www.capitalone.com/
+  - url: https://www.capitalone.com/tech/ai-research/
     image_path: /assets/images/logos/Capital_One.webp
     alt: Capital One
     title: Capital One

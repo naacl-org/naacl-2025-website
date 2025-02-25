@@ -26,7 +26,7 @@ NAACL 2025 has secured a room block at The Clyde Hotel and DoubleTree by Hilton 
 
 #### The Clyde Hotel
 
-[The Clyde Hotel](https://www.clydehotel.com/)  
+[The Clyde Hotel](https://www.clydehotel.com/) is located across the corner from the convention center.
 330 Tijeras Ave NW  
 Albuquerque, NM 87102  
 +1 (505) 302-6930
@@ -42,7 +42,7 @@ Discounted booking link [here](https://be.synxis.com/?adult=1&arrive=2025-04-30&
 
 #### DoubleTree by Hilton Albuquerque
 
-[DoubleTree by Hilton Albuquerque](https://www.hilton.com/en/hotels/albsmdt-doubletree-albuquerque/)  
+[DoubleTree by Hilton Albuquerque](https://www.hilton.com/en/hotels/albsmdt-doubletree-albuquerque/) is located next door and connected to the convention center. 
 201 Marquette Ave NW,  
 Albuquerque, NM 87102  
 +1 (505) 247-3344
@@ -58,21 +58,11 @@ Discounted booking link [here](https://www.hilton.com/en/attend-my-event/albsmdt
 
 ### Additional Hotel Options
 
-#### Crown Plaza Albuquerque
+#### Hilton Garden Inn and Homewood Suites
 
-[Crowne Plaza Albuquerque](https://www.ihg.com/crowneplaza/hotels/us/en/albuquerque/abqcp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-US-_-ABQCP)  
-1901 University Blvd  
-Albuquerque, NM 87102  
-+1 (505) 884-2500
+[Hilton Garden Inn](https://www.hilton.com/en/hotels/abqsegi-hilton-garden-inn-albuquerque-downtown/) and [Homewood Suites](https://www.hilton.com/en/hotels/abqsahw-homewood-suites-albuquerque-downtown/) 
+are located .4 miles (2 minute drive; 6 minute walk) from the convention center.
 
-Discounted Booking link **coming soon**. <span style="color: red;">Cutoff date is April 8, 2025</span>
-
-##### Discounted rates
-* USD - $119.00  Single-Quad Occupancy per room per night, breakfast included
-
-#### Hilton Garden Inn
-
-[Hilton Garden Inn](https://www.hilton.com/en/hotels/abqsegi-hilton-garden-inn-albuquerque-downtown/)  
 222 Central Ave. SE,  
 Albuquerque, NM 87102  
 +1 (505) 808-1041
@@ -82,14 +72,23 @@ Discounted Booking link **coming soon**. <span style="color: red;">Cutoff date i
 ##### Discounted rates
 * USD - $119.00  Single-Quad Occupancy per room per night
 
-#### Homewood Suites
+#### Arrive Albuquerque
 
-[Homewood Suites](https://www.hilton.com/en/hotels/abqsahw-homewood-suites-albuquerque-downtown/)  
-222 Central Ave SE,  
+[Arrive Albuquerque](https://www.arrivehotels.com/albuquerque) - Information coming soon. Located .6 miles (3-minute drive; 9 minute walk) from the convention center.
+
+
+#### Crown Plaza Albuquerque
+
+[Crowne Plaza Albuquerque](https://www.ihg.com/crowneplaza/hotels/us/en/albuquerque/abqcp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-US-_-ABQCP)  
+1901 University Blvd  
 Albuquerque, NM 87102  
-+1 (505) 808-1042
++1 (505) 884-2500
 
-Discounted Booking link **coming soon**. <span style="color: red;">Cutoff date is April 8, 2025</span>
+Discounted Booking link [here](https://www.ihg.com/crowneplaza/hotels/us/en/albuquerque/abqcp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=ABQCP&qGrpCd=ACL&setPMCookies=true&qSHBrC=CP&qDest=1901%20University%20Boulevard%20NE%2C%20Albuquerque%2C%20NM%2C%20US&srb_u=1). 
+<span style="color: red;">Cutoff date is April 8, 2025</span>. 
+Discounted rates available April 29th - May 5th. 
+**Please note that the link will default to today's date. You will need to put the conference dates in for the conference rate to populate** or
+call in +1-877-227-6963 and reference NAACL.
 
 ##### Discounted rates
 * USD - $119.00  Single-Quad Occupancy per room per night, breakfast included
