@@ -52,7 +52,7 @@ Exceptions: Cancellation due to governmental travel restrictions, failure to obt
 
 ## Registration Rates
 
-**Early Registration: February 20--April 7**
+**Early Registration: February 20--April 7**, ending 11:59pm (Anywhere on Earth)
 
 **Late Registration April 8--April 28**
 
@@ -99,29 +99,29 @@ The Full Conference **Virtual Registration** Fee Includes:
 | IP - Workshop & Tutorial - Registering Paper Student                 | $350.00           | $400.00            | $450.00           |
 | IP - Workshop & Tutorial - Student                                   | $150.00           | $200.00            | $250.00           |
 
-| Virtual Registration Rates                                          | Early Rates       | Late Rates         |  On-site Rates    | Virtual Subsidy |
-| ------------------------------------------------------------------- | ----------------- | ------------------ | ----------------- | --------------- |
-| V - Full Conference - Registering Paper Industrial/Non-Academic     | $500.00           | $700.00            | $700.00           | n/a             |
-| V - Full Conference - Industrial/Non-Academic                       | $400.00           | $650,550.00        | $600.00           | n/a             |
-| V - Full Conference - Registering Paper Academic                    | $350.00           | $500.00            | $550.00           | n/a             |
-| V - Full Conference - Academic                                      | $250.00           | $400.00            | $450.00           | $100.00         |
-| V - Full Conference - Registering Paper Student                     | $250.00           | $375.00            | $475.00           | n/a             |
-| V - Full Conference - Student                                       | $150.00           | $275.00            | $375.00           | $50.00          |
-| V - Workshop Only - Registering Paper Industrial/Non-Academic       | $250.00           | $300.00            | $300.00           | n/a             |
-| V - Workshop Only - Industrial/Non-Academic                         | $150.00           | $200.00            | $200.00           | n/a             |
-| V - Workshop Only - Registering Paper Academic                      | $200.00           | $250.00            | $250.00           | n/a             |
-| V - Workshop Only - Academic                                        | $100.00           | $150.00            | $150.00           | n/a             |
-| V - Workshop Only - Registering Paper Student                       | $150.00           | $200.00            | $200.00           | n/a             |
-| V - Workshop Only - Student                                         | $50.00            | $100.00            | $100.00           | n/a             |
-| V - Tutorial Only - Industrial/Non-Academic                         | $75.00            | $125.00            | $125.00           | n/a             |
-| V - Tutorial Only - Academic                                        | $50.00            | $85.00             | $85.00            | n/a             |
-| V - Tutorial Only - Student                                         | $25.00            | $40.00             | $40.00            | n/a             |
-| V - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | $250.00           | $300.00            | $300.00           | n/a             |
-| V - Workshop & Tutorial - Industrial/Non-Academic                   | $150.00           | $200.00            | $200.00           | n/a             |
-| V - Workshop & Tutorial - Registering Paper Academic                | $200.00           | $250.00            | $250.00           | n/a             |
-| V - Workshop & Tutorial - Academic                                  | $100.00           | $150.00            | $150.00           | n/a             |
-| V - Workshop & Tutorial - Registering Paper Student                 | $150.00           | $200.00            | $200.00           | n/a             |
-| V - Workshop & Tutorial - Student                                   | $50.00            | $100.00            | $100.00           | n/a             |
+| Virtual Registration Rates                                          | Early Rates       | Late Rates         |  On-site Rates    | 
+| ------------------------------------------------------------------- | ----------------- | ------------------ | ----------------- | 
+| V - Full Conference - Registering Paper Industrial/Non-Academic     | $500.00           | $700.00            | $700.00           | 
+| V - Full Conference - Industrial/Non-Academic                       | $400.00           | $650,550.00        | $600.00           | 
+| V - Full Conference - Registering Paper Academic                    | $350.00           | $500.00            | $550.00           | 
+| V - Full Conference - Academic                                      | $250.00           | $400.00            | $450.00           | 
+| V - Full Conference - Registering Paper Student                     | $250.00           | $375.00            | $475.00           | 
+| V - Full Conference - Student                                       | $150.00           | $275.00            | $375.00           | 
+| V - Workshop Only - Registering Paper Industrial/Non-Academic       | $250.00           | $300.00            | $300.00           | 
+| V - Workshop Only - Industrial/Non-Academic                         | $150.00           | $200.00            | $200.00           | 
+| V - Workshop Only - Registering Paper Academic                      | $200.00           | $250.00            | $250.00           | 
+| V - Workshop Only - Academic                                        | $100.00           | $150.00            | $150.00           | 
+| V - Workshop Only - Registering Paper Student                       | $150.00           | $200.00            | $200.00           | 
+| V - Workshop Only - Student                                         | $50.00            | $100.00            | $100.00           | 
+| V - Tutorial Only - Industrial/Non-Academic                         | $75.00            | $125.00            | $125.00           | 
+| V - Tutorial Only - Academic                                        | $50.00            | $85.00             | $85.00            | 
+| V - Tutorial Only - Student                                         | $25.00            | $40.00             | $40.00            | 
+| V - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | $250.00           | $300.00            | $300.00           | 
+| V - Workshop & Tutorial - Industrial/Non-Academic                   | $150.00           | $200.00            | $200.00           | 
+| V - Workshop & Tutorial - Registering Paper Academic                | $200.00           | $250.00            | $250.00           | 
+| V - Workshop & Tutorial - Academic                                  | $100.00           | $150.00            | $150.00           | 
+| V - Workshop & Tutorial - Registering Paper Student                 | $150.00           | $200.00            | $200.00           | 
+| V - Workshop & Tutorial - Student                                   | $50.00            | $100.00            | $100.00           | 
 
 
 # Code of Ethics Policy 
