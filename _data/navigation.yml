@@ -72,6 +72,8 @@ calls:
 #        url: /calls/affinity/
       - title: "NAACL Diversity and Inclusion Subsidies"
         url: /calls/dei_subsidies/
+      - title: "Virtual Registration Subsidies Application"
+        url: /calls/virtual_dei_subsidies/
       - title: "Volunteers"
         url: /calls/volunteers/
 ##      - title: "Workshop Pre-submission Mentoring"
