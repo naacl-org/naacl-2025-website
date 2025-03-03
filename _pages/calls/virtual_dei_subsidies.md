@@ -35,12 +35,10 @@ All deadlines are 11:59 pm UTC -12h (“Anywhere on Earth”, AoE).
 
 Application Deadline: Mar 10, 2025, 11:59pm (AoE)
 
-Notification Deadline: Mar 14, 2025, 11:59pm (AoE)
-
 
 # Notification of acceptance
 
-Applicants will be notified on (or before) Mar 14, 2025, 11:59pm (AoE), which is with time enough to complete early registration for the conference. We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can, and no matter what the response is.
+Applicants will be notified with time enough to complete early registration for the conference. Please be patient and wait for our email as we will notify you as soon as we can, and no matter what the response is.
 
 
 # Contact
