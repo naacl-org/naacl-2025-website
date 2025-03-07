@@ -52,7 +52,6 @@ table th:nth-of-type(3) {
 | W20 | 21st Workshop on Multiword Expressions (MWE) | Santa Ana | 
 | W21 | [Queer in AI workshop](https://www.queerinai.com/naacl-2025) | Navajo/Nambe |
 | W22 | [10th Workshop on Representation Learning for NLP (Rep4NLP)](https://sites.google.com/view/repl4nlp2025) | Ballroom A |  
-| W23 | Towards Knowledgeable Foundation Models | Ballroom B | 
-| W24 | [Sixth Workshop on Privacy in Natural Language Processing](https://sites.google.com/view/privatenlp2025/) | Acoma | 
-| W25 | [The Seventh Workshop on Narrative Understanding (WNU)](https://tinyurl.com/wnu25) | Tesuque/Zuni |  
+| W23 | [Sixth Workshop on Privacy in Natural Language Processing](https://sites.google.com/view/privatenlp2025/) | Acoma | 
+| W24 | [The Seventh Workshop on Narrative Understanding (WNU)](https://tinyurl.com/wnu25) | Tesuque/Zuni |  
 		

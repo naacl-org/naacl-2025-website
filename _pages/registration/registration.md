@@ -54,9 +54,9 @@ Exceptions: Cancellation due to governmental travel restrictions, failure to obt
 
 **Early Registration: February 20--April 7**, ending 11:59pm (Anywhere on Earth)
 
-**Late Registration April 8--April 28**
+**Late Registration April 8--April 28, ending 11:59pm MDT**
 
-**Onsite Registration April 29--May 7**
+**Onsite Registration April 29--May 7, ending 11:59pm MDT**
 
 The Full Conference **In-person Registration** Fee Includes:
 

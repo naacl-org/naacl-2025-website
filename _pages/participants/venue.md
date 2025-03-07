@@ -74,12 +74,13 @@ Discounted Booking link **coming soon**. <span style="color: red;">Cutoff date i
 
 #### Arrive Albuquerque
 
-[Arrive Albuquerque](https://www.arrivehotels.com/albuquerque) - Information coming soon. Located .6 miles (3-minute drive; 9 minute walk) from the convention center.
-
+[Arrive Albuquerque](https://www.arrivehotels.com/albuquerque) - is located .7 miles (3 minute drive; 13 minute walk) from the convention center. 
+717 Central Ave NW
+Albuquerque, NM 87102
 
 #### Crown Plaza Albuquerque
 
-[Crowne Plaza Albuquerque](https://www.ihg.com/crowneplaza/hotels/us/en/albuquerque/abqcp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-US-_-ABQCP)  
+[Crowne Plaza Albuquerque](https://www.ihg.com/crowneplaza/hotels/us/en/albuquerque/abqcp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-US-_-ABQCP) - is located 2.5 miles (7 minute drive; 1 hour walk) from the convention center.  
 1901 University Blvd  
 Albuquerque, NM 87102  
 +1 (505) 884-2500
