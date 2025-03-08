@@ -9,6 +9,8 @@ toc: true
 toc_sticky: true
 ---
 
+<!-- To future maintainers: an important note. Include two spaces after the title, as this is the Markdown cue to put a line break before the author line, keepign it attached to the same bullet point. Otherwise, the two will bleed together into one line. -->
+
 ## Main Conference - Long Papers
 
 * **Effective Skill Unlearning through Intervention and Abstention**  
