@@ -18,9 +18,10 @@ secondary_excerpt: "April 29--May 4, 2025"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
-| Feb 26, 2025 | [Call for Virtual Registration Subsidies Application](/calls/virtual_dei_subsidies/) is out
-| Feb 10, 2025 | [Call for Diversity and Inclusion Subsidies](/calls/dei_subsidies/) is out
-| Feb 05, 2025 | [Call for Volunteers](/calls/volunteers/) is out
+| Mar 12, 2025 | The [call for Birds of a Feather Session / Affinity Group Meeting Organizer Application](/calls/affinity/) is out
+| Feb 26, 2025 | The [call for Virtual Registration Subsidies Application](/calls/virtual_dei_subsidies/) is out
+| Feb 10, 2025 | The [call for Diversity and Inclusion Subsidies](/calls/dei_subsidies/) is out
+| Feb 05, 2025 | The [call for Volunteers](/calls/volunteers/) is out
 | Feb 04, 2025 | The [list of NAACL tutorials](/program/tutorials/) is out
 | Dec 16, 2024 | The [list of NAACL workshops](/program/workshops/) is out
 | Dec 2, 2024 | An [ACL blog post on the NAACL+ACL+EMNLP workshop selection process](https://2025.aclweb.org/workshop-report/) is published

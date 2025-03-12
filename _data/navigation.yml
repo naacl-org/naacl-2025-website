@@ -68,8 +68,8 @@ calls:
         url: /calls/demo/
 ##      - title: "Student Research Workshop Papers"
 ##        url: /calls/srw/
-#      - title: "Affinity Group Workshop Proposals"
-#        url: /calls/affinity/
+      - title: "Birds of a Feather / Affinity Group Meetings"
+        url: /calls/affinity/
       - title: "NAACL Diversity and Inclusion Subsidies"
         url: /calls/dei_subsidies/
       - title: "Virtual Registration Subsidies Application"
