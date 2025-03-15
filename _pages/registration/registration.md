@@ -14,7 +14,7 @@ In order to keep prices affordable for students, The ACL Board has introduced a 
 # Authors Registration Fees
 
 At least one author of each accepted paper at an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) 
-or must register for the conference by the early registration deadline and at the Author/Paper Presenter (Regular or Student) Rate.
+must register for the conference by the early registration deadline and at the Author/Paper Presenter (Regular or Student) Rate.
 Similarly, at least one author for any Findings paper to be presented at the event or paper at any affiliated workshop 
 (exclusive of shared task papers) but register for the conference no later than **2 weeks before** the conference 
 and at the Author/Paper Presenter Rate.
