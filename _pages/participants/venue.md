@@ -58,20 +58,6 @@ Discounted booking link [here](https://www.hilton.com/en/attend-my-event/albsmdt
 
 ### Additional Hotel Options
 
-#### Hilton Garden Inn and Homewood Suites
-
-[Hilton Garden Inn](https://www.hilton.com/en/hotels/abqsegi-hilton-garden-inn-albuquerque-downtown/) and [Homewood Suites](https://www.hilton.com/en/hotels/abqsahw-homewood-suites-albuquerque-downtown/) 
-are located .4 miles (2 minute drive; 6 minute walk) from the convention center.
-
-222 Central Ave. SE,  
-Albuquerque, NM 87102  
-+1 (505) 808-1041
-
-Discounted Booking link **coming soon**. <span style="color: red;">Cutoff date is April 8, 2025</span>
-
-##### Discounted rates
-* USD - $119.00  Single-Quad Occupancy per room per night
-
 #### Arrive Albuquerque
 
 [Arrive Albuquerque](https://www.arrivehotels.com/albuquerque) - is located .7 miles (3 minute drive; 13 minute walk) from the convention center. 
