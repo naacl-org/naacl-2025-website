@@ -21,6 +21,8 @@ table th:nth-of-type(2) {
 }
 </style>
 
+[Click for Detailed Program](https://docs.google.com/spreadsheets/d/1SXIF0ovLudQ4UvR0nTyagDcgnn9zdulhUY578mvQpRk/edit?usp=sharing) (Please check back for updates)
+
 ## Tuesday, April 29, 2025
 
 | 14:00 - 20:00 | Registration |
