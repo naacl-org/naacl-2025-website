@@ -100,8 +100,8 @@ participants:
     children:
       - title: "Venue"
         url: /participants/venue/
-#      - title: "Presenter FAQ"
-#        url: /participants/presenter-faq/
+      - title: "Presenter FAQ"
+        url: /participants/presenter-faq/
       - title: "Visa Information"
         url: /participants/visa-info/
 
