@@ -49,7 +49,7 @@ table th:nth-of-type(3) {
 | W17 | [Sixth Workshop on Insights from Negative Results in NLP (Insights)](https://insights-workshop.github.io/) | San Miguel |  
 | W18 | [Ninth Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)](https://sighum.wordpress.com/events/latech-clfl-2025/) | Picuris/Sandia | 
 | W19 | [First Workshop on Language Models for Underserved Communities (LM4UC)](http://lm4uc.github.io/) | Ruidoso |  
-| W20 | 21st Workshop on Multiword Expressions (MWE) | Santa Ana | 
+| W20 | [21st Workshop on Multiword Expressions (MWE)](https://multiword.org/mwe2025/) | Santa Ana | 
 | W21 | [Queer in AI workshop](https://www.queerinai.com/naacl-2025) | Navajo/Nambe |
 | W22 | [10th Workshop on Representation Learning for NLP (Rep4NLP)](https://sites.google.com/view/repl4nlp2025) | Ballroom A |  
 | W23 | [Sixth Workshop on Privacy in Natural Language Processing](https://sites.google.com/view/privatenlp2025/) | Acoma | 
