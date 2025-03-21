@@ -31,7 +31,7 @@ table th:nth-of-type(3) {
 | W03 | [10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) | Tesuque/Zuni | 
 | W04 | [Workshop on Cognitive Modeling and Computational Linguistics (CMCL)](https://cmclorg.github.io/) | Santa Ana |
 | W05 | [Fifth Workshop on Speech and Language Technologies for Dravidian Languages (DravidianLangTech)](https://sites.google.com/view/dravidianlangtech-2025/) | Acoma | 
-| W06 | The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods | La Cienega | 
+| W06 | [The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods](https://knowledge-nlp.github.io/naacl2025) | La Cienega | 
 | W07 | [The Eighth Workshop on Technologies for Machine Translation of Low Resource Languages (LoResMT)](https://sites.google.com/view/loresmt/) | Cochiti | 
 | W08 | [22nd SIGMORPHON Workshop on Computational Morphology, Phonology, and Phonetics (SIGMORPHON)](https://sigmorphon.github.io/workshops/) | Laguna | 
 | W09 | [Tenth Workshop on Noisy and User-generated Text (W-NUT)](http://noisy-text.github.io/) | Navajo/Nambe |
