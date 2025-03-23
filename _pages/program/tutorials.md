@@ -39,4 +39,4 @@ table th:nth-of-type(5) {
 | T5 | Adaptation of Large Language Models | Zixuan Ke, Yifei Ming, Shafiq Joty | Ballroom B | 14:00-17:30 |
 | T6 | Learning Language through Grounding | Freda Shi, Ziqiao Ma, Jiayuan Mao, Parisa Kordjamshidi, Joyce Chai | Ballroom A | 14:00-17:30 |
 | T7 | LLMs and Copyright Risks: Benchmarks and Mitigation Approaches | Denghui Zhang, Zhaozhuo Xu, Weijie Zhao, Kaize Ding | Ruidoso | 14:00-17:30 |
-| T8 | Social Intelligence in the Age of LLMs | Bodhisattwa Prasad Majumder, Dirk Hovy, Diyi Yang | Pecos | 14:00-17:30 |
+| T8 | Social Intelligence in the Age of LLMs | Hao Zhu, Bodhisattwa Prasad Majumder, Dirk Hovy, Diyi Yang | Pecos | 14:00-17:30 |
