@@ -27,8 +27,8 @@ table th:nth-of-type(3) {
 | <span>Saturday</span> | <span>May 3, 2025, 09:00 - 17:30 </span> | 
 | -- | -- | -- |
 | W01 | [First Workshop on AI and Scientific Discovery: Directions and Opportunities (AISD)](https://ai-and-scientific-discovery.github.io/) | Picuris/Sandia | 
-| W02 | [Seventh Workshop on Computational Approaches to Linguistic Code Switching (CALCS)](https://code-switching.github.io/) | Islet/Jemex | 
-| W03 | [10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) | Tesuque/Zuni | 
+| W02 | [Seventh Workshop on Computational Approaches to Linguistic Code Switching (CALCS)](https://code-switching.github.io/) | Tesuque/Zuni | 
+| W03 | [10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) | Islet/Jemez | 
 | W04 | [Workshop on Cognitive Modeling and Computational Linguistics (CMCL)](https://cmclorg.github.io/) | Santa Ana |
 | W05 | [Fifth Workshop on Speech and Language Technologies for Dravidian Languages (DravidianLangTech)](https://sites.google.com/view/dravidianlangtech-2025/) | Acoma | 
 | W06 | [The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods](https://knowledge-nlp.github.io/naacl2025) | La Cienega | 

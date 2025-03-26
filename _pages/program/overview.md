@@ -47,7 +47,7 @@ Breakfast, lunch, and dinner are not provided
 Breakfast, lunch, and dinner are not provided
 
 | 08:30 - 16:30 | Registration  | 
-| 09:00 - 10:30 | Session E: Plenary - Keynote Speaker: [Mike Lewis](https://ai.meta.com/people/209431298931133/mike-lewis/) (Meta) | 
+| 09:00 - 10:00 | Session E: Plenary - Keynote Speaker: [Mike Lewis](https://ai.meta.com/people/209431298931133/mike-lewis/) (Meta) | 
 | 10:00 - 10:30 | Break |
 | 10:30 - 12:00 | Session F: Orals/Posters/Demos/BOF: Session 4 | 
 | 12:00 - 13:00 | Lunch | 
@@ -61,6 +61,7 @@ Breakfast, lunch, and dinner are not provided
 
 Breakfast, lunch, and dinner are not provided
 
+| 08:30 - 16:30 | Registration  | 
 | 09:00 - 10:30 | Session J: Orals/Posters/Demos/BOF: Session 7 | 
 | 10:30 - 11:00 | Break | 
 | 11:00 - 12:30 | Session K: Orals/Posters/Demos/BOF: Session 8 | 
