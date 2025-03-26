@@ -21,6 +21,8 @@ table th:nth-of-type(2) {
 }
 </style>
 
+Conference Time Zone: MDT (UTC-6)
+
 [Click for Detailed Program](https://docs.google.com/spreadsheets/d/1SXIF0ovLudQ4UvR0nTyagDcgnn9zdulhUY578mvQpRk/edit?usp=sharing) (Please check back for updates)
 
 ## Tuesday, April 29, 2025
@@ -97,7 +99,7 @@ Student Research Workshop will be a part of the Main Conference.
 
 ## Tuesday, May 6, 2025: Virtual Conference
 
-All times are in GMT-6. 
+All times are in UTC-6. 
 
 | 09:00 - 10:30 | Gather Session 1 | 
 | 15:00 - 16:30 | Gather Session 2 | 
