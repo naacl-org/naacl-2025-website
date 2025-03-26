@@ -93,4 +93,13 @@ See detailed schedules in [Workshop](/program/workshops) / [Tutorials](/program/
 | 12:30 - 14:00 | Lunch | 
 | 15:30 - 16:00	| Break |
 
-Student Research Workshop will be a part of the Main Conference. Scheduled TBA.
+Student Research Workshop will be a part of the Main Conference.
+
+## Tuesday, May 6, 2025: Virtual Conference
+
+All times are in GMT-6. 
+
+| 09:00 - 10:30 | Gather Session 1 | 
+| 15:00 - 16:30 | Gather Session 2 | 
+| 21:00 - 22:30 | Gather Session 3 |
+
