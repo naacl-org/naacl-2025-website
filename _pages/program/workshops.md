@@ -28,7 +28,7 @@ table th:nth-of-type(3) {
 | -- | -- | -- |
 | W01 | [First Workshop on AI and Scientific Discovery: Directions and Opportunities (AISD)](https://ai-and-scientific-discovery.github.io/) | Picuris/Sandia | 
 | W02 | [Seventh Workshop on Computational Approaches to Linguistic Code Switching (CALCS)](https://code-switching.github.io/) | Tesuque/Zuni | 
-| W03 | [10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) | Islet/Jemez | 
+| W03 | [10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych)](https://clpsych.org/) | Isleta/Jemez | 
 | W04 | [Workshop on Cognitive Modeling and Computational Linguistics (CMCL)](https://cmclorg.github.io/) | Santa Ana |
 | W05 | [Fifth Workshop on Speech and Language Technologies for Dravidian Languages (DravidianLangTech)](https://sites.google.com/view/dravidianlangtech-2025/) | Acoma | 
 | W06 | [The 4th Workshop on Knowledge-Augmentation for Language Models and NLP Methods](https://knowledge-nlp.github.io/naacl2025) | La Cienega | 
@@ -45,7 +45,7 @@ table th:nth-of-type(3) {
 | W13 | [The Fifth Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](https://turing.iimas.unam.mx/americasnlp/) | La Cienega |  
 | W14 | [The Third Workshop on Cross-Cultural Considerations in NLP (C3NLP)](https://c3nlp.github.io/) | Pecos |  
 | W15 | [Second Workshop on Patient-oriented Language Processing (CL4Health)](https://bionlp.nlm.nih.gov/cl4health2025/) | Cochiti |  
-| W16 | [Fourth Workshop on Intelligent and Interactive Writing Assistants (in2writing)](https://in2writing.glitch.me) | Islet/Jemex |  
+| W16 | [Fourth Workshop on Intelligent and Interactive Writing Assistants (in2writing)](https://in2writing.glitch.me) | Isleta/Jemex |  
 | W17 | [Sixth Workshop on Insights from Negative Results in NLP (Insights)](https://insights-workshop.github.io/) | San Miguel |  
 | W18 | [Ninth Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)](https://sighum.wordpress.com/events/latech-clfl-2025/) | Picuris/Sandia | 
 | W19 | [First Workshop on Language Models for Underserved Communities (LM4UC)](http://lm4uc.github.io/) | Ruidoso |  
