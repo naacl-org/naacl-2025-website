@@ -12,7 +12,7 @@ platinum:
     alt: Toloka AI
     title: Toloka AI
   - url: https://research.adobe.com/
-    image_path: /assets/images/logos/Adobe.png
+    image_path: /assets/images/logos/Adobe.jpg
     alt: Adobe
     title: Adobe
   - url: https://megagon.ai/
