@@ -8,8 +8,6 @@ toc: false
 toc_sticky: false
 ---
 
-# Whova App
-
 Attention registered attendees, be sure to download the **Whova App**!
 
 Use Whova to:
