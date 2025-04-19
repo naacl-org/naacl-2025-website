@@ -76,43 +76,37 @@ For any questions regarding sponsorship, please email sponsoring@aclweb.org. The
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-{% assign diamond_sponsors = site.data.sponsors | where: "tier", "diamond" %}
-{% if diamond_sponsors.size > 0 %}
+{% if page.sponsors.diamond %}
 ## Diamond
 
 {% include sponsors-list id="diamond" layout="third" %}
 {% endif %}
 
-{% assign platinum_sponsors = site.data.sponsors | where: "tier", "platinum" %}
-{% if platinum_sponsors.size > 0 %}
+{% if page.sponsors.platinum %}
 ## Platinum
 
 {% include sponsors-list id="platinum" layout="third" %}
 {% endif %}
 
-{% assign gold_sponsors = site.data.sponsors | where: "tier", "gold" %}
-{% if gold_sponsors.size > 0 %}
+{% if page.sponsors.gold %}
 ## Gold
 
 {% include sponsors-list id="gold" layout="third" %}
 {% endif %}
 
-{% assign silver_sponsors = site.data.sponsors | where: "tier", "silver" %}
-{% if silver_sponsors.size > 0 %}
+{% if page.sponsors.silver %}
 ## Silver
 
 {% include sponsors-list id="silver" layout="third" %}
 {% endif %}
 
-{% assign bronze_sponsors = site.data.sponsors | where: "tier", "bronze" %}
-{% if bronze_sponsors.size > 0 %}
+{% if page.sponsors.bronze %}
 ## Bronze
 
 {% include sponsors-list id="bronze" layout="third" %}
 {% endif %}
 
-{% assign diversity_sponsors = site.data.sponsors | where: "tier", "diversity" %}
-{% if diversity_sponsors.size > 0 %}
+{% if page.sponsors.diversity %}
 ## Diversity and Inclusion Ally
 
 {% include sponsors-list id="diversity" layout="third" %}
