@@ -76,37 +76,37 @@ For any questions regarding sponsorship, please email sponsoring@aclweb.org. The
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-{% if page.sponsors.diamond %}
+{% if page.diamond %}
 ## Diamond
 
 {% include sponsors-list id="diamond" layout="third" %}
 {% endif %}
 
-{% if page.sponsors.platinum %}
+{% if page.platinum %}
 ## Platinum
 
 {% include sponsors-list id="platinum" layout="third" %}
 {% endif %}
 
-{% if page.sponsors.gold %}
+{% if page.gold %}
 ## Gold
 
 {% include sponsors-list id="gold" layout="third" %}
 {% endif %}
 
-{% if page.sponsors.silver %}
+{% if page.silver %}
 ## Silver
 
 {% include sponsors-list id="silver" layout="third" %}
 {% endif %}
 
-{% if page.sponsors.bronze %}
+{% if page.bronze %}
 ## Bronze
 
 {% include sponsors-list id="bronze" layout="third" %}
 {% endif %}
 
-{% if page.sponsors.diversity %}
+{% if page.diversity %}
 ## Diversity and Inclusion Ally
 
 {% include sponsors-list id="diversity" layout="third" %}
