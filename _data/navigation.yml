@@ -102,6 +102,8 @@ participants:
         url: /participants/venue/
       - title: "Presenter FAQ"
         url: /participants/presenter-faq/
+      - title: "Whova"
+        url: /participants/whova/
       - title: "Visa Information"
         url: /participants/visa-info/
 
