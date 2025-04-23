@@ -89,7 +89,9 @@ The closest international airport is [Albuquerque International Sunport: ABQ](ht
 ### Transportation from ABQ
 
 Airport Shuttle Service
-Conference attendees arriving at the Albuquerque International Sunport can catch a shuttle from the airport to The Clyde Hotel, DoubleTree or Crowne Plaza. Attendees can follow the wayfinding signage to the designated meeting location for the shuttle. Shuttles will arrive at the airport every 20 to 30 minutes. Additionally, a staffed Visit Albuquerque visitor information booth will be available to assist and direct attendees to the shuttle. More details can be found here: https://www.visitalbuquerque.org/naacl-2025/
+Conference attendees arriving at the Albuquerque International Sunport can catch a shuttle from the airport to The Clyde Hotel, DoubleTree or Crowne Plaza. Attendees can follow the wayfinding signage to the designated meeting location for the shuttle. Shuttles will arrive at the airport every 20 to 30 minutes. 
+Additionally, a staffed Visit Albuquerque visitor information booth will be available to assist and direct attendees to the shuttle. 
+More details can be found [here](https://www.visitalbuquerque.org/naacl-2025/).
 
 Taxis & Ride Shares
 * Taxicabs pickup zones are located on the arrival (ground) level of the airport, outside of the baggage claim, proceed to Door 2 to find taxis. ABQ recommended taxi services: Aspen Rides, zTrip, My Ryde Taxi Services and Green Cab. Learn more about transportation options available [here](https://www.abqsunport.com/ground-transportation/).
