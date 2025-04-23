@@ -3607,3 +3607,244 @@ toc_sticky: true
 * **Lost in the Distance: Large Language Models Struggle to Capture Long-Distance Relational Knowledge**  
   Meiyun Wang, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo
 
+## Industry Track Papers
+
+* **A Diverse and Effective Retrieval-Based Debt Collection System with Expert Knowledge**
+  Guoqing Sun, Haifeng Tang, Jiaming Luo, Kenny Q. Zhu, Mengchen ZHU, Mengyue Wu, Weiyi Luo
+
+* **An Efficient Context-Dependent Memory Framework for LLM-Centric Agents**
+  Jinming Zhao, Long Yilin, Pengyu Gao, Xinyue Chen
+
+* **AutoKB: Automated Creation of Structured Knowledge Bases for Domain-Specific Support**
+  Anoop Saladi, Arihant Jain, Purav Aggarwal, Rishav Sahay
+
+* **Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs**
+  Deepak Gupta, Lucas Pereira Carlini, Prateek Sircar, Swapnil Gupta
+
+* **Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance**
+  Avik Halder, Ian Soboroff, Rajarshi Mandal, Rima Hazra, Sayan Layek, Somnath Banerjee, Animesh Mukherjee
+
+* **Breaking Down Power Barriers in On-Device Streaming ASR: Insights and Solutions**
+  Changsheng Zhao, Ernie Chang, Liangzhen Lai, Vikas Chandra, Yang Li, Yangyang Shi, Yuan Shangguan, Yuhao Wang
+
+* **Can Post-Training Quantization Benefit from an Additional QLoRA Integration?**
+  Cheng Chen, Elena Khasanova, Xiliang Zhu
+
+* **Challenges and Remedies of Domain-Specific Classifiers as LLM Guardrails: Self-Harm as a Case Study**
+  Bing Zhang, Guang-Jie Ren
+
+* **CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents**
+  Chanjun Park, Heuiseok Lim, Jeiyoon Park
+
+* **Chatbot Arena Estimate: towards a generalized performance benchmark for LLM capabilities**
+  Daniel Gruhl, Eugene Ie, Lucas Spangher, Nick Masiewicki, Peter Grabowski, Rama Kumar Pasumarthi, Tianle Li, William F. Arnold, Xerxes Dotiwalla
+
+* **Chinese Morph Resolution in E-commerce Live Streaming Scenarios**
+  Chenyu Liu, Jipeng Qiang, Ran Bai, Xiaoye Ouyang, jiahao zhu
+
+* **CodeGenWrangler: Data Wrangling task automation using Code-Generating Models**
+  Abhijit Manatkar, Ashlesha Akella, Krishnasuri Narayanam, Sameep Mehta
+
+* **Concept Distillation from Strong to Weak Models via Hypotheses-to-Theories Prompting**
+  Ashwin Srinivasan, Cassiano O Becker, Ehi Nosakhare, Emmanuel Aboah Boateng, Kabir Walia, Nabiha Asghar, Soundararajan Srinivasan, Victor Dibia
+
+* **Conflict and Overlap Classification in Construction Standards Using a Large Language Model**
+  Choi Bong-Hyuck, Kang-Min Kim, Lee Seung Hwan, Ohjoon kwon, Seong-Jin Park, Youn-Gyu Jin, Hyun-Young Moon
+
+* **CONSTRUCTA: Automating Commercial Construction Schedules in Fabrication Facilities with Large Language Models**
+  Xue Yang, Yifan Zhang
+
+* **CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search**
+  Baijun Ji, Cunxiang Wang, Hong Liu, Jinjie GU, Kaixin Wu, Linjian Mo, Qiang Wang, Xu Jia, Yixin Ji, Yuan Zhou, Zeyuan Chen, Zhongyi Liu
+
+* **Cracking the Code: Multi-domain LLM Evaluation on Real-World Professional Exams in Indonesia**
+  Fajri Koto
+
+* **CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning**
+  Zixuan Zhu, Jennifer Zhu, Zukang Yang
+
+* **Developing a Reliable, Fast, General-Purpose Hallucination Detection and Mitigation Service**
+  Jie Mei, Si-Qing Chen, Song Wang, Wayne Xiong, Xun Wang, Yujia Xie
+
+* **Dialogue Language Model with Large-Scale Persona Data Engineering**
+  Chaotao Chen, Chen Jason Zhang, Di Jiang, Mengze Hong, Rongzhong Lian
+
+* **Distill-C: Enhanced NL2SQL via Distilled Customization with LLMs**
+  Clemence Lanfranchi, Dalu Guo, Damien Hilloulin, Don Dharmasiri, Gioacchino Tangari, Hassan Chafi, Long Duong, Paul Cayet, Rhicheek Patra, Steve Siu, Sungpack Hong, Yuan-Fang Li, Cong Duy Vu Hoang
+
+* **Does Self-Attention Need Separate Weights in Transformers?**
+  Chun-Nam Yu, Md Kowsher, Niloofar Yousefi, Nusrat Jahan Prottasha, Ozlem Garibay
+
+* **DSRAG: A Double-Stream Retrieval-Augmented Generation Framework for Countless Intent Detection**
+  Bo Hu, Enjie Liu, Mochi Gao, Pei Guo, Ruichao Zhong, Yunzhi Tan, Zang Li
+
+* **eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables**
+  CRISTIAN JOSE LOPEZ DEL ALAMO, Davood Rafiei, Luis Antonio Gutierrez Guanilo, Mir Tafseer Nayeem
+
+* **Efficient Continual Pre-training of LLMs for Low-resource Languages**
+  Arijit Nag, Niloy Ganguly, Soumen Chakrabarti, Animesh Mukherjee
+
+* **Enhancing Function-Calling Capabilities in LLMs: Strategies for Prompt Formats, Data Integration, and Multilingual Translation**
+  Chan-Jan Hsu, Da-shan Shiu, Po-Chun Hsu, Yi-Chang Chen
+
+* **Enhancing Temporal Understanding in Audio Question Answering for Large Audio Language Models**
+  Arvind Krishna Sridhar, Erik Visser, Yinyi Guo
+
+* **Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and Education**
+  Estevam Hruschka, Hayate Iso, Nikita Bhutani, Pouya Pezeshkpour
+
+* **Evaluating Large Language Models with Enterprise Benchmarks**
+  Bing Zhang, Guang-Jie Ren, Kate Soule, Maruf Hossain, Mikio Takeuchi, Ryo Kawahara, Shubhi Asthana, Yada Zhu, Yifan Mai
+
+* **Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain**
+  PJM Kerbusch, RHR Pruim, Tobias Käfer, Yuyang Li
+
+* **Exploring Straightforward Methods for Automatic Conversational Red-Teaming**
+  Ateret Anaby Tavor, Eitan Farchi, George Kour, Marcel Zalmanovici, Naama Zwerdling, Ora Nova Fandina
+
+* **Finding-Centric Structuring of Japanese Radiology Reports and Analysis of Performance Gaps for Multiple Facilities**
+  Masatoshi Hori, Motoki Taniguchi, Norihisa Nakano, Noriyuki Tomiyama, Ryota Ozaki, Yohei Momoki, Yuki Tagawa
+
+* **FinLLM-B: When Large Language Models Meet Financial Breakout Trading**
+  Lichao Sun, Osamu Yoshie, Weiran Huang, Kang Zhang
+
+* **From Generating Answers to Building Explanations: Integrating Multi-Round RAG and Causal Modeling for Scientific QA**
+  Abraham Bautista-Castillo, Aditya Kalyanpur, Clifton James McFate, Kailash Karthik Saravanakumar, Lori Moon, Natnael Seifu, Victor Barres
+
+* **Goal-Driven Data Story, Narrations and Explanations**
+  Aniya Aggarwal, Ankush Gupta, Arvind Agarwal, Shivangi Bithel
+
+* **Granite Guardian: Comprehensive LLM Safeguarding**
+  Ambrish Rawat, Elizabeth M. Daly, Erik Miehling, Giandomenico Cornacchia, Giulio Zizzo, Inge Vejsbjerg, Inkit Padhi, Keerthiram Murugesan, Kieran Fraser, Kush R. Varshney, Manish Nagireddy, Mark Purcell, Martín Santillán Cooper, Michael Desmond, Michael Hind, Muhammad Zaid Hameed, Pierre Dognin, Prasanna Sattigeri, Qian Pan, Subhajit Chaudhury, Tejaswini Pedapati, Werner Geyer
+
+* **How LLMs React to Industrial Spatio-Temporal Data? Assessing Hallucination with a Novel Traffic Incident Benchmark Dataset**
+  Anderson S. Chu, Dan Zhang, Lujun Li, Mingkun Tan, Porawit Kamnoedboon, Qiang Li, Shengzhao Lei, Xun Zhao, Daoan Zhang
+
+* **HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation System for AI Legal and Policy Applications**
+  Adriano Koshiyama, Airlie Hilliard, Ayesha Gulley, Philip Colin Treleaven, Rishi Kalra, Xin Guan, Zekun Wu
+
+* **Implementing Retrieval Augmented Generation Technique on Unstructured and Structured Data Sources in a Call Center of a Large Financial Institution**
+  Adam Carnegie, Cyril John Mathias, Elias Avan, Eugene Wen, Junlin Jiang, Utkarsh Soni, Yifan Nie, Syed Shariyar Murtaza, Wanyu Liao
+
+* **Improved Near-Duplicate Detection for Aggregated and Paywalled News-Feeds**
+  Alok Kumar, Sangameshwar Patil, Siddharth Tumre
+
+* **Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**
+  Afshin Khashei, Belinda Zeng, Davor Golac, Jon Jay, Luyang Kong, Matt Pope, Steve Johnson, Wei Niu, Xuanqing Liu
+
+* **LLM Safety for Children**
+  Hari Shrawgi, Parag Agrawal, Prasanjit Rath, Sandipan Dandapat
+
+* **MedCodER: A Generative AI Assistant for Medical Coding**
+  Edward Bowen, Elijah Soba, Jack I Scott, Jaden Wood, Jane Cook, John J Higgins, Krishanu Das Baksi, Ravi Saini, Sanmitra Bhattacharya, Tim Weninger, Nirmala Pudota
+
+* **MedEthicEval: Evaluating Large Language Models Based on Chinese Medical Ethics**
+  Hanhui Xu, Haoan Jin, Jiacheng Shi, Kenny Q. Zhu, Mengyue Wu
+
+* **Medical Spoken Named Entity Recognition**
+  David Thulke, Hung-Phong Tran, Khai-Nguyen Nguyen, Khai Le-Duc, Long Vo-Dang, Truong-Son Hy, Ralf Schlüter
+
+* **Mitigating Bias in Item Retrieval for Enhancing Exam Assembly in Vocational Education Services**
+  Alonso Palomino, Andreas Fischer, Benjamin Paassen, David Buschhüter, Niels Pinkwart, Roland Roller
+
+* **MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering**
+  Deepak Gupta, Happy Mittal, Shreyas Sunil Kulkarni, Vinay Kumar Verma
+
+* **MoFE: Mixture of Frozen Experts Architecture**
+  Hyopil Shin, Jaeyoon Kim, Jean Seo
+
+* **MonoTODia: Translating Monologue Requests to Task-Oriented Dialogues**
+  Bernd Ludwig, Sebastian Steindl, Ulrich Schäfer
+
+* **Natural Language Processing for Human Resources: A Survey**
+  Estevam Hruschka, Naoki Otani, Nikita Bhutani
+
+* **Navigating the Path of Writing: Outline-guided Text Generation with Large Language Models**
+  Bokyung Son, Jaewook Kang, Pilsung Kang, Soonwon Ka, Yukyung Lee
+
+* **Octopus: On-device language model for function calling of software APIs**
+  Mingyuan MA, Wei Chen, Zhiyuan Li
+
+* **Open Ko-LLM Leaderboard2: Bridging Foundational and Practical Evaluation for Korean LLMs**
+  Chanjun Park, Dahyun Kim, Hyeonwoo Kim, Jihoo Kim, Sukyung Lee, Yungi Kim
+
+* **Pisets: A Robust Speech Recognition System for Lectures and Interviews**
+  Daniil Grebenkin, Derunets Roman, Ivan Bondarenko, Lyudmila Budneva, Mikhail Klementev, Oleg Sedukhin
+
+* **PLEX: Adaptive Parameter-Efficient Fine-Tuning for Code LLMs using Lottery-Tickets**
+  Hojae Han, Jaeseong Lee, Jongyoon Kim, KyungJun An, Naun Kang, Sungho Jang, seung-won hwang
+
+* **Predicting ICU Length of Stay for Patients using Latent Categorization of Health Conditions**
+  Manjira Sinha, Sudeshna Jana, Tirthankar Dasgupta
+
+* **Protein2Text: Resampling Mechanism to Translate Protein Sequences into Human-Interpretable Text**
+  Ala Jararweh, Avinash Sahu, David Arredondo, Kushal Virupakshappa, Luis E Tafoya, Oladimeji Macaulay, Yue Hu
+
+* **QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction**
+  Dezhi Ye, Haijin Liang, Haomei Jia, Jie Liu, Junwei Hu, Tian Bowen, Wenmin Wang, Jin Ma
+
+* **Query Variant Detection Using Retriever as Environment**
+  Hee-Cheol Seo, Minji Seo, Seoho Song, Young-In Song, Youngwon Lee, seung-won hwang
+
+* **QueryShield: A Platform to Mitigate Enterprise Data Leakage in Queries to External LLMs**
+  Delton Myalil, Divyesh Saglani, Imtiyazuddin Shaik, Manoj Apte, Nitin Ramrakhiyani, RAJAN M A, Sachin Pawar
+
+* **RAD-Bench: Evaluating Large Language Models’ Capabilities in Retrieval Augmented Dialogues**
+  Da-shan Shiu, FengTing Liao, Fu-Chieh Chang, Mu-Wei Hsieh, Po-Chun Hsu, Tzu-Lin Kuo
+
+* **RevieWeaver: Weaving Together Review Insights by Leveraging LLMs and Semantic Similarity**
+  Jiban Adhikary, Mohammad Alqudah, Arun Palghat Udayashankar
+
+* **RTSM: Knowledge Distillation with Diverse Signals for Efficient Real-Time Semantic Matching in E-Commerce**
+  Sanjay Agrawal, Vivek Sembium
+
+* **RxLens: Multi-Agent LLM-powered Scan and Order for Pharmacy**
+  Akshay Jagatap, Prakash Mandayam Comar, Srujana Merugu
+
+* **Schema and Natural Language Aware In-Context Learning for Improved GraphQL Query Generation**
+  Carlos Eberhardt, Dan Debrunner, MANISH KESARWANI, Nitin Gupta, Sambit Ghosh, Sameep Mehta
+
+* **SCORE: Systematic COnsistency and Robustness Evaluation for Large Language Models**
+  Evelina Bakhturina, Grigor Nalbandyan, Rima Shahbazyan
+
+* **Search Query Embeddings via User-behavior-driven Contrastive Learning**
+  Hiroki Asano, Jun Hirako, Koki Watanabe, Nobuhiro Kaji, Shumpei Sano, Sosuke Nishikawa, Souta Yamashiro
+
+* **SuperRAG: Beyond RAG with Layout-Aware Graph Modeling**
+  Chening Yang, Duy-Khanh Vu, Linh Nguyen, Minh-Tien Nguyen, Xuan-Quang Nguyen, Hung Le
+
+* **SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**
+  Amit Agarwal, Arion Das, Bhargava Kumar, Dong-Kyu Chae, Hitesh Laxmichand Patel, Priyaranjan Pattnayak, Srikant Panda, Taki Hasan Rafi, Tejaswini Kumar
+
+* **SwissADT: An Audio Description Translation System for Swiss Languages**
+  Alexa Lintner, Annette Rios, Lukas Fischer, Sarah Ebling, Yingqiang Gao
+
+* **TaeBench: Improving Quality of Toxic Adversarial Examples**
+  Dmitriy Bespalov, Liwen You, Jennifer Zhu, Ninad Kulkarni, Yanjun Qi
+
+* **Text2Sql: Pure Fine-Tuning and Pure Knowledge Distillation**
+  Jiafeng Guo, Lei Yu, Wei Shao, Xueqi Cheng, gao yu zhu, xichou zhu
+
+* **Towards Reliable Agents: Benchmarking Customized LLM-Based Retrieval-Augmented Generation Frameworks with Deployment Validation**
+  Karel Joshua Harjono, Kevin Shukang Wang, Ramon Lawrence
+
+* **Towards Reliable and Practical Phishing Detection**
+  Hyowon Cho, Minjoon Seo
+
+* **TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice**
+  Aman Goel, Dmitriy Bespalov, Xian Wu, Zhe Wang, Yanjun Qi
+
+* **Understanding LLM Development Through Longitudinal Study: Insights from the Open Ko-LLM Leaderboard**
+  Chanjun Park, Hyeonwoo Kim
+
+* **Visual Zero-Shot E-Commerce Product Attribute Value Extraction**
+  Hoda Eldardiry, Janet Jenq, Jiaying Gong, Ming Cheng, Pierre-Yves Vandenbussche, Hongda Shen
+
+* **VIT-Pro: Visual Instruction Tuning for Product Images**
+  Anoop Saladi, Arunita Das, Purav Aggarwal, Sahini Venkata Sitaram Sruti, Vishruit Kulshreshtha, Vishnu Prabhakaran
+
+* **WorkTeam: Constructing Workflows from Natural Language with Multi-Agents**
+  Hanchao Liu, Rongjun Li, Wei Peng, Weimin Xiong, Ziyu Zhou
+
+* **Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**
+  Jimmy Lin, John-Michael Gamble, Zijian Chen
