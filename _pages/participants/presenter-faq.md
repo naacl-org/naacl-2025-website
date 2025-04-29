@@ -26,7 +26,5 @@ See the Content Submission Instructions [here](https://docs.google.com/presentat
 
 Posters should be A0 size (33.1 x 46.8 inches) in portrait orientation. 
 
-We are happy to offer poster printing services with Convention Services of the Southwest Inc (CSS). 
-Fill out the [order form](/downloads/NAACL%2025%20Poster%20Print%20Order%20Form.pdf) and email it to [esr@cssabq.com](mailto:esr@cssabq.com) by Wednesday, April 16, 2025.
-Once CSS has your form in the system, they will send you a quick pay link for payment. You will be required to create a profile to log into the payment portal. 
-You will have the option to either email them a graphic file or log into the portal and upload any graphics to your order.
+Need to have your poster printed onsite?
+CSS will be accepting poster orders until Thursday, May 1, 12 Noon. They will need 24 hours to process. See Jeremy at the service booth in Exhibit Hall 3 Wednesday 9:00 - 17:30, Thursday 9:00 - 12 noon or submit your order form now to <esr@cssabq.com>.
