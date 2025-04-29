@@ -18,6 +18,7 @@ secondary_excerpt: "April 29--May 4, 2025"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Apr 29, 2025 | [Proceedings](https://aclanthology.org/events/naacl-2025/) are now available.
 | Apr 24, 2025 | [Blogpost](/blog/best-papers/): Announcing the NAACL 2025 Award Winners!
 | Mar 12, 2025 | The [call for Birds of a Feather Session / Affinity Group Meeting Organizer Application](/calls/affinity/) is out
 | Feb 26, 2025 | The [call for Virtual Registration Subsidies Application](/calls/virtual_dei_subsidies/) is out
