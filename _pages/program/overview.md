@@ -25,6 +25,8 @@ Conference Time Zone: MDT (UTC-6)
 
 [Click for Detailed Program](https://docs.google.com/spreadsheets/d/1SXIF0ovLudQ4UvR0nTyagDcgnn9zdulhUY578mvQpRk/edit?usp=sharing) (Please check back for updates)
 
+You can find the digital conference handbook [here](https://drive.google.com/file/d/1T96GzPqObXrMln2BMByCSXTSizjTg69P/view?usp=drive_link).
+
 ## Tuesday, April 29, 2025
 
 | 14:00 - 20:00 | Registration |
