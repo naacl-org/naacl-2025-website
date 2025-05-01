@@ -63,7 +63,7 @@ The Full Conference **In-person Registration** Fee Includes:
 * Admission to all in-person meeting sessions and the exhibition as well as the entire virtual program 
 * Morning and Afternoon tea and coffee breaks throughout the meeting 
 * Admission to the Welcome Reception on Tuesday, April 29th located in the convention center ballrooms A, B & C 
-* Admission to the Social Dinner on Thursday, May 1st at the Civic Plaza 
+* Admission to the Social Dinner on Thursday, May 1st  
 * Attendance to all recorded sessions on demand for at least one month following the meeting. 
 * Please Note breakfast, lunch and dinners are not included unless referenced above.
 

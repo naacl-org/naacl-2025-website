@@ -44,7 +44,7 @@ The NAACL 2025 Organizing Committee
 **Thursday, May 1, 2025 |** ⏰ 
 **7:00 PM - 10:00 PM**
 
-Join us for an unforgettable evening celebrating the spirit of Route 66 at the Albuquerque Civic Plaza! Immerse yourself in the rich culture, music, and flavors of New Mexico with a night of entertainment, art, and community.
+Join us for an unforgettable evening celebrating the spirit of Route 66! Immerse yourself in the rich culture, music, and flavors of New Mexico with a night of entertainment, art, and community.
 
 ✨ **Entertainment Lineup:**
 
