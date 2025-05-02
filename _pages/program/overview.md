@@ -103,7 +103,11 @@ Student Research Workshop will be a part of the Main Conference.
 
 All times are in UTC-6. 
 
+| 08:30 - 09:00	| Best paper 1     |
 | 09:00 - 10:30 | Gather Session 1 | 
+| 14:30 - 15:00	| Best paper 2     |
 | 15:00 - 16:30 | Gather Session 2 | 
+| 20:30 - 21:00	| Best paper 3     |
 | 21:00 - 22:30 | Gather Session 3 |
+
 
