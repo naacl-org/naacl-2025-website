@@ -322,7 +322,7 @@ Email: [naacl2025-dei-chairs@googlegroups.com](emailto:naacl2025-dei-chairs@goog
    name="Arya McCarthy"
    picture="/assets/images/committee/Arya_McCarthy.jpg"
    site="https://aryamccarthy.github.io/"
-   institution="Scaled Cognition"
+   institution="Noetica"
 %}
 
 ## Best Paper Chairs
