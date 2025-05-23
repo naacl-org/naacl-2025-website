@@ -42,7 +42,7 @@ sidebar:
 **SACs:** Greg Durrett, Hannaneh Hajishirzi, Lei Li, Sewon Min, Shay Cohen, André Freitas, Jacob Eisenstein
 
 ### Linguistic Theories, Cognitive Modeling, and Psycholinguistics
-**SACs:** Oseki Yohei, Gasper Begus
+**SACs:** Yohei Oseki, Gasper Begus
 
 ### Machine Learning for NLP
 **SACs:** Yoon Kim, Kyle Lo, Daniel Khashabi
