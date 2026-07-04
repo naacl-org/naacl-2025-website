@@ -28,7 +28,7 @@ This requires installing Ruby and various dependencies. If you are having troubl
 
 2. Clone this repository. Note that this repository uses submodules so to properly check out the submodule code, run `git submodule init` and `git submodule update` after you clone the repository. You will need the submodule to generate the schedule for the website.
 
-3. Run the gems needed by this repository:
+3. Install the gems needed by this repository:
     ```
     bundle config set --local path 'vendor/bundle'
     bundle install
